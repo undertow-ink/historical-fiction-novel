@@ -1,0 +1,184 @@
+# =============================================================================
+# CHARACTER SHEET TEMPLATE
+# =============================================================================
+# Usage: Copy this template for each character in the story bible.
+# Fill in all fields that are known. Use null for unknown or not-applicable.
+# Keep this file updated as the character evolves through drafts.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# IDENTITY
+# ---------------------------------------------------------------------------
+
+# Full legal or formal name of the character.
+full_name: ""
+
+# Any other names the character goes by: nicknames, titles, maiden names,
+# aliases, pen names, etc.
+aliases:
+  - ""
+
+# Narrative role. One of: protagonist, antagonist, supporting, minor.
+# A story may have multiple protagonists or antagonists.
+role: ""  # protagonist | antagonist | supporting | minor
+
+# ---------------------------------------------------------------------------
+# VITAL DATES
+# ---------------------------------------------------------------------------
+
+# Use the format appropriate to the time period (e.g., "15 March 1348",
+# "Spring 1066", "circa 420 BCE"). Be as precise as the character would know.
+birth_date: ""
+
+# Set to null if the character is alive at the story's end.
+death_date: null
+
+# ---------------------------------------------------------------------------
+# PHYSICAL APPEARANCE
+# ---------------------------------------------------------------------------
+
+physical:
+  # Hair color, texture, length, and typical style.
+  hair: ""
+
+  # Eye color and any notable quality (heavy-lidded, wide-set, etc.).
+  eyes: ""
+
+  # Height in period-appropriate terms or modern measurements.
+  height: ""
+
+  # Body type: slender, stocky, muscular, gaunt, heavyset, etc.
+  build: ""
+
+  # Scars, tattoos, birthmarks, missing digits, limp, etc.
+  distinguishing_marks:
+    - ""
+
+  # What the character typically wears. Include class/period signals.
+  # Describe default attire, not every outfit.
+  clothing_defaults: ""
+
+# ---------------------------------------------------------------------------
+# PERSONALITY
+# ---------------------------------------------------------------------------
+
+personality:
+  # Core personality traits. Aim for 4-6, mixing strengths and flaws.
+  # Use specific adjectives: "stubbornly loyal" rather than just "loyal".
+  traits:
+    - ""
+
+  # How the character talks. Dialect markers, pet phrases, vocabulary level,
+  # sentence length tendencies, verbal tics.
+  speech_patterns:
+    - ""
+
+  # Physical habits and behavioral quirks: fidgeting, pacing, how they eat,
+  # gestures they make when nervous or angry.
+  mannerisms:
+    - ""
+
+  # Competing desires, moral dilemmas, or psychological tensions the
+  # character carries. These drive internal drama.
+  internal_conflicts:
+    - ""
+
+# ---------------------------------------------------------------------------
+# BACKGROUND
+# ---------------------------------------------------------------------------
+
+background:
+  # Where the character comes from: city, region, country.
+  origin: ""
+
+  # Level and type of education (formal schooling, apprenticeship,
+  # self-taught, monastery-educated, etc.).
+  education: ""
+
+  # Primary occupation or social function at the story's start.
+  occupation: ""
+
+  # Social class or caste within the story's setting.
+  # Use period-appropriate terms (e.g., "minor gentry", "freedman", "serf").
+  social_class: ""
+
+  # Religious affiliation or spiritual worldview, if relevant.
+  religion: ""
+
+# ---------------------------------------------------------------------------
+# CHARACTER ARC
+# ---------------------------------------------------------------------------
+# Based on the Lie/Truth framework. Every major character should have a
+# complete arc. Minor characters may leave some fields null.
+
+arc:
+  # WANT: The external, conscious goal the character is pursuing.
+  # What they would say if asked "What do you want?"
+  want: ""
+
+  # NEED: The internal growth or change the character actually requires.
+  # They are usually unaware of this at the start.
+  need: ""
+
+  # GHOST: The backstory wound or traumatic event that created the Lie.
+  # This is the source of their dysfunction.
+  ghost: ""
+
+  # LIE: The false belief the character holds about themselves or the world.
+  # This belief shapes their flawed behavior.
+  lie: ""
+
+  # TRUTH: What the character must learn or accept to complete their arc.
+  # In a tragedy, they may fail to learn it.
+  truth: ""
+
+# ---------------------------------------------------------------------------
+# RELATIONSHIPS
+# ---------------------------------------------------------------------------
+# Track how this character relates to others and how those relationships
+# change over the course of the story.
+
+relationships:
+  - # The character_id (full_name or unique slug) of the other character.
+    character_id: ""
+
+    # Type of relationship: spouse, parent, child, sibling, mentor, rival,
+    # friend, enemy, lover, employer, subordinate, etc.
+    type: ""
+
+    # How the relationship changes over time. Each entry marks a shift.
+    status_timeline:
+      - chapter: 1
+        status: ""      # e.g., "trusted allies", "estranged", "secretly in love"
+        date: ""        # In-story date of this status
+
+  - character_id: ""
+    type: ""
+    status_timeline:
+      - chapter: 1
+        status: ""
+        date: ""
+
+# ---------------------------------------------------------------------------
+# PRESENCE IN STORY
+# ---------------------------------------------------------------------------
+
+# List every chapter number where this character appears or is referenced
+# in a meaningful way. Update as the outline evolves.
+chapters_present:
+  - 1
+
+# ---------------------------------------------------------------------------
+# VOICE SAMPLE
+# ---------------------------------------------------------------------------
+# Write 2-3 example lines of dialogue that capture this character's unique
+# voice. These serve as a reference for maintaining consistent voice across
+# the manuscript. Include a brief action or context note for each.
+
+voice_sample:
+  - context: ""
+    dialogue: ""
+  - context: ""
+    dialogue: ""
+  - context: ""
+    dialogue: ""

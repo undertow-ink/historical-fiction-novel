@@ -1,0 +1,103 @@
+name: Claude Editorial Review
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - 'series/**'
+
+jobs:
+  editorial-review:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Claude Editorial Review
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          max_turns: 5
+          direct_prompt: |
+            You are a senior editorial reviewer for a historical fiction novel. Review the
+            changed manuscript files in this pull request with the eye of an experienced
+            fiction editor. Your feedback should be specific, actionable, and constructive.
+
+            Before reviewing, read the file templates/review_checklist.md if it exists in the
+            repository, and use it as your evaluation framework. Also read style/style_rules.md
+            and style/voice_guide.md if they exist, and evaluate the manuscript against those
+            standards.
+
+            Review every changed file in the series/ directory. For each file, evaluate the
+            following dimensions and leave inline comments on specific lines where you find
+            issues or opportunities for improvement:
+
+            ## Plot Consistency
+            - Do events in this chapter align with established facts from previous chapters?
+            - Are there any contradictions with the story bible or earlier manuscript content?
+            - Do cause-and-effect chains hold up logically?
+            - Are character motivations consistent with their established profiles?
+
+            ## Character Voice
+            - Does each character have a distinct and recognizable voice in dialogue?
+            - Are speech patterns consistent with the character sheets?
+            - Do characters sound different from one another, or do they blend together?
+            - Is the narrative voice consistent with the established style?
+
+            ## Historical Accuracy
+            - Are period details correct for the stated time and place?
+            - Are there any anachronisms in language, technology, customs, or objects?
+            - Do forms of address, social conventions, and daily life details ring true?
+            - Are historical events referenced accurately?
+
+            ## Pacing
+            - Does the chapter maintain appropriate momentum for its position in the story?
+            - Are there passages that drag or feel padded?
+            - Are there passages that feel rushed and need more development?
+            - Is the balance between action, dialogue, description, and interiority appropriate?
+
+            ## Dialogue Quality
+            - Does the dialogue sound natural when read aloud?
+            - Does every line of dialogue serve a purpose (reveal character, advance plot, create tension)?
+            - Are dialogue tags appropriate (majority "said," action beats, minimal adverbs)?
+            - Is there enough subtext, or is the dialogue too on-the-nose?
+
+            ## Show vs. Tell
+            - Are emotions shown through physical sensation, action, and dialogue rather than stated directly?
+            - Are character traits demonstrated through behavior rather than narrated?
+            - Flag any instances of telling that should be converted to showing.
+            - Note: brief telling is acceptable for transitions and time-skips.
+
+            ## Cliche Detection
+            - Flag any cliched phrases, overused metaphors, or tired descriptions.
+            - Pay special attention to AI-tell words and phrases: "delve," "tapestry," "nuanced,"
+              "embark," "testament," "landscape," "realm," "multifaceted," "intricacies."
+            - Flag any phrase from the banned list in style/style_rules.md.
+            - Flag predictable plot turns or character reactions that feel stock rather than authentic.
+
+            ## Sentence Variety
+            - Is there appropriate variation in sentence length (short, medium, long)?
+            - Do consecutive sentences or paragraphs start with the same word?
+            - Is there over-reliance on any single sentence structure (e.g., participial openers)?
+            - Count semicolons and em-dashes: flag if exceeding limits (1 semicolon, 2 em-dashes per page).
+
+            ## Emotional Authenticity
+            - Do character reactions feel genuine and proportionate to the situation?
+            - Are emotional beats earned through buildup, or do they appear without foundation?
+            - Does the prose create genuine feeling in the reader, or does it merely describe feelings?
+            - Are moments of vulnerability, joy, grief, or anger rendered with specificity rather than generality?
+
+            ## Summary
+            At the end of your review, post a summary comment on the PR with:
+            1. An overall quality assessment (strengths and weaknesses).
+            2. The top 3-5 most important issues to address before merging.
+            3. A brief note on what the chapter does well and should preserve during revision.
+
+            Be direct and honest. Do not soften criticism with excessive praise. The goal is to
+            make the manuscript as strong as possible. Every comment should help the author
+            improve the work.

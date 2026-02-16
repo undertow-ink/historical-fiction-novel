@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+*.egg
+
+# Build artifacts
+build/
+*.epub
+*.pdf
+*.mobi
+*.azw3
+
+# Audio
+audiobook/*.mp3
+audiobook/*.wav
+audiobook/*.flac
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.venv/
+venv/
+
+# API keys and secrets
+secrets/
+*.key

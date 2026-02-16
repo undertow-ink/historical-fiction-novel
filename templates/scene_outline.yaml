@@ -1,0 +1,161 @@
+# =============================================================================
+# SCENE OUTLINE TEMPLATE
+# =============================================================================
+# Usage: Create one scene outline per scene. Scenes are the atomic unit of
+# storytelling -- each scene should accomplish exactly one primary purpose
+# while layering in secondary work. This outline drives the writing prompt.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# SCENE IDENTIFICATION
+# ---------------------------------------------------------------------------
+
+# Unique identifier for cross-referencing. Format: p{part}-c{chapter}-s{scene}.
+# Example: p1-c03-s02 means Part 1, Chapter 3, Scene 2.
+scene_id: ""
+
+# Which part of the novel this scene belongs to (if the novel has parts).
+# Set to null if the novel is not divided into parts.
+part: null
+
+# Chapter number (integer).
+chapter: 1
+
+# Scene number within the chapter (integer, starting at 1).
+scene_number: 1
+
+# ---------------------------------------------------------------------------
+# POINT OF VIEW
+# ---------------------------------------------------------------------------
+
+# The character through whose perspective this scene is told.
+# Must match a character_id from the story bible.
+pov_character: ""
+
+# ---------------------------------------------------------------------------
+# SETTING
+# ---------------------------------------------------------------------------
+
+# Where this scene takes place. Must match a location name from the story bible.
+location: ""
+
+# The in-story date. Use the same date format as the rest of the story bible.
+date_in_story: ""
+
+# Time of day. Be specific enough to set the lighting and mood.
+# Examples: "just before dawn", "midday", "late afternoon", "midnight".
+time_of_day: ""
+
+# ---------------------------------------------------------------------------
+# CHARACTERS
+# ---------------------------------------------------------------------------
+
+# Every character present in this scene, including the POV character.
+# Use character_ids that match the story bible.
+characters_present:
+  - ""
+
+# ---------------------------------------------------------------------------
+# SCENE SUMMARY
+# ---------------------------------------------------------------------------
+
+# A concise 3-5 sentence summary of what happens in this scene.
+# Write in present tense. Focus on action, decision, and consequence.
+# This is the backbone the writer works from.
+summary: |
+
+
+# ---------------------------------------------------------------------------
+# PURPOSE
+# ---------------------------------------------------------------------------
+
+# Why does this scene exist? Every scene must earn its place.
+# Primary purpose: the single most important thing this scene accomplishes.
+# Secondary purposes: additional work the scene does while it is at it.
+#
+# Purpose categories:
+#   advances_plot     - Moves the external story forward
+#   reveals_character - Shows who someone truly is through choice or action
+#   builds_world      - Establishes the setting, culture, or historical context
+#   creates_tension   - Raises stakes, introduces threat, or builds suspense
+#   provides_release  - Offers a moment of relief, humor, or tenderness
+#   plants_seed       - Sets up something that pays off later
+#   delivers_payoff   - Pays off something planted earlier
+
+purpose:
+  primary: ""       # One of the categories above, plus a brief explanation.
+  secondary:
+    - ""
+
+# ---------------------------------------------------------------------------
+# EMOTIONAL ARC
+# ---------------------------------------------------------------------------
+
+# The emotional trajectory of the scene. Where does the POV character
+# (and by extension, the reader) start emotionally, and where do they end?
+# Good scenes create emotional movement.
+
+emotional_arc:
+  # The dominant emotion at the scene's opening.
+  start_emotion: ""
+
+  # The dominant emotion at the scene's close.
+  end_emotion: ""
+
+  # Brief description of the emotional turning point or shift.
+  pivot: ""
+
+# ---------------------------------------------------------------------------
+# KEY BEATS
+# ---------------------------------------------------------------------------
+
+# Specific moments that must happen in this scene. These are non-negotiable
+# plot or character beats. List them in roughly chronological order.
+# Each beat should be a single clear action, revelation, or decision.
+
+key_beats:
+  - ""
+
+# ---------------------------------------------------------------------------
+# CONNECTIONS
+# ---------------------------------------------------------------------------
+
+# How this scene connects to the rest of the narrative. Tracking these
+# prevents dropped threads and strengthens story structure.
+
+connections:
+  # Scenes that set up elements this scene uses or resolves.
+  # Use scene_ids (e.g., "p1-c01-s03").
+  setup_from:
+    - ""
+
+  # Scenes that will later pay off elements planted in this scene.
+  # Use scene_ids. These may be tentative during outlining.
+  payoff_for:
+    - ""
+
+# ---------------------------------------------------------------------------
+# TARGETS
+# ---------------------------------------------------------------------------
+
+# Estimated length of the finished scene. Helps with pacing and scheduling.
+# A typical scene runs 1,500-3,000 words (6-12 pages).
+
+# Target word count for this scene.
+target_words: 2000
+
+# Target page count (at ~250 words per page).
+target_pages: 8
+
+# ---------------------------------------------------------------------------
+# STATUS & QUALITY
+# ---------------------------------------------------------------------------
+
+# Current status of this scene in the writing pipeline.
+# One of: outlined, drafted, revised, edited, final.
+status: outlined
+
+# Quality grade after review. Leave null until reviewed.
+# Use: A (excellent), B (good, minor fixes), C (adequate, needs work),
+# D (significant problems), F (must rewrite).
+grade: null
