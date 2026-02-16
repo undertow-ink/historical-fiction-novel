@@ -1,0 +1,152 @@
+# =============================================================================
+# LOCATION SHEET TEMPLATE
+# =============================================================================
+# Usage: Copy this template for each significant location in the story bible.
+# Locations anchor scenes in concrete reality. The sensory details here feed
+# directly into writing prompts to keep descriptions consistent.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# IDENTITY
+# ---------------------------------------------------------------------------
+
+# The primary name used for this location in the narrative.
+name: ""
+
+# Alternative names: historical names, local dialect names, what different
+# characters call this place, or names it goes by in different time periods.
+aliases:
+  - ""
+
+# Classification of the location. Helps organize the story bible.
+# One of: city, town, village, district, street, building, room, palace,
+# church, battlefield, landscape, forest, river, road, ship, camp, other.
+type: ""  # city | town | village | building | room | landscape | etc.
+
+# ---------------------------------------------------------------------------
+# GEOGRAPHY
+# ---------------------------------------------------------------------------
+
+# The broader region this location sits within (e.g., "Tuscany", "the Pale").
+region: ""
+
+# Country or political entity (use the period-appropriate name).
+country: ""
+
+# Geographic coordinates, if relevant for mapping travel times.
+# Use null if not applicable or unknown.
+coordinates: null  # e.g., "43.7696 N, 11.2558 E"
+
+# ---------------------------------------------------------------------------
+# TIME PERIOD
+# ---------------------------------------------------------------------------
+# When this location exists in its described state. A building may be built
+# in one century and ruined in another. A city changes over decades.
+
+time_period:
+  # The earliest date this location is relevant to the story.
+  from: ""
+
+  # The latest date, or "present" if it persists through the end of the story.
+  to: ""
+
+  # Any notes about how the location changes during the story's timeframe.
+  notes: ""
+
+# ---------------------------------------------------------------------------
+# PHYSICAL DESCRIPTION
+# ---------------------------------------------------------------------------
+
+physical_description:
+  # What the location looks like from the outside or on approach.
+  # Include architecture, scale, materials, surroundings, weather patterns.
+  exterior: ""
+
+  # What the location looks like inside, if applicable.
+  # Include layout, furnishings, lighting, dimensions.
+  # Set to null for outdoor locations.
+  interior: null
+
+  # The overall mood or feeling of the place. What emotion does it evoke?
+  # How does it feel to be here? This guides tone when writing scenes here.
+  atmosphere: ""
+
+# ---------------------------------------------------------------------------
+# SENSORY DETAILS
+# ---------------------------------------------------------------------------
+# Concrete sensory details make settings vivid. List 2-4 specific details
+# for each sense. These will be drawn on during scene writing.
+
+sensory_details:
+  # What a character sees here beyond the general description.
+  # Focus on details that move, shift, or catch the eye.
+  sight:
+    - ""
+
+  # The soundscape of this location. Background noise, echoes, silence.
+  sound:
+    - ""
+
+  # Distinctive smells. Period settings had strong, often unpleasant smells.
+  # Be historically accurate.
+  smell:
+    - ""
+
+  # Textures, temperatures, air quality, ground underfoot.
+  touch:
+    - ""
+
+  # Any relevant tastes associated with the place: local food, dust in the
+  # air, blood, salt spray. Set to null if not relevant.
+  taste:
+    - ""
+
+# ---------------------------------------------------------------------------
+# HISTORY
+# ---------------------------------------------------------------------------
+# Key events that happened at this location, both before and during the
+# story. These inform how characters relate to the place and provide
+# material for exposition and backstory.
+
+history:
+  - date: ""
+    event: ""
+    significance: ""  # Why this matters to the story.
+
+# ---------------------------------------------------------------------------
+# TRAVEL TIMES
+# ---------------------------------------------------------------------------
+# How long it takes to get from this location to other locations in the
+# story. Critical for maintaining timeline consistency. Research these
+# carefully for the time period.
+
+travel_times:
+  - # Destination location name (must match another location sheet's name).
+    to: ""
+
+    # Minimum travel days under good conditions.
+    min_days: 0
+
+    # Maximum travel days under poor conditions.
+    max_days: 0
+
+    # Method of travel: on foot, horseback, carriage, ship, river barge, etc.
+    method: ""
+
+    # Any notes about the route: dangers, landmarks, border crossings.
+    notes: ""
+
+  - to: ""
+    min_days: 0
+    max_days: 0
+    method: ""
+    notes: ""
+
+# ---------------------------------------------------------------------------
+# PRESENCE IN STORY
+# ---------------------------------------------------------------------------
+
+# List every chapter number where scenes take place at this location.
+# Update as the outline evolves.
+chapters_present:
+  - 1

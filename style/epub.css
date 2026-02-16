@@ -1,0 +1,466 @@
+/* ==========================================================================
+   EPUB Stylesheet -- Historical Fiction Novel
+   ==========================================================================
+   Clean, readable typography optimized for e-readers. Designed for maximum
+   legibility across devices (Kindle, Kobo, Apple Books, etc.).
+
+   Principles:
+   - Relative units (em, %) for all sizing to respect reader preferences
+   - Minimal decoration -- the prose is the experience
+   - Graceful degradation on limited e-ink devices
+   ========================================================================== */
+
+
+/* --------------------------------------------------------------------------
+   BASE TYPOGRAPHY
+   -------------------------------------------------------------------------- */
+
+body {
+    font-family: "Georgia", "Palatino", "Palatino Linotype", "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    widows: 2;
+    orphans: 2;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
+/* Paragraphs: traditional book indent style (no space between, first-line indent).
+   First paragraph after a heading or break has no indent. */
+
+p {
+    margin: 0;
+    padding: 0;
+    text-indent: 1.5em;
+    line-height: 1.6;
+}
+
+/* Remove indent on first paragraph of a section */
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+hr + p,
+blockquote + p,
+div.scene-break + p,
+p.first,
+p.no-indent {
+    text-indent: 0;
+}
+
+
+/* --------------------------------------------------------------------------
+   PART HEADERS
+   -------------------------------------------------------------------------- */
+
+/* Part title pages: centered, prominent, with generous spacing */
+
+div.part-title {
+    margin-top: 30%;
+    margin-bottom: 15%;
+    text-align: center;
+    page-break-before: always;
+    page-break-after: always;
+}
+
+div.part-title h1 {
+    font-family: "Georgia", "Palatino", "Times New Roman", serif;
+    font-size: 2em;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    border: none;
+    line-height: 1.2;
+}
+
+div.part-title h2 {
+    font-family: "Georgia", "Palatino", "Times New Roman", serif;
+    font-size: 1.2em;
+    font-weight: normal;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+}
+
+
+/* --------------------------------------------------------------------------
+   CHAPTER HEADERS
+   -------------------------------------------------------------------------- */
+
+/* Each chapter starts on a new page with a dropped top margin */
+
+div.chapter {
+    page-break-before: always;
+}
+
+h2.chapter-number {
+    font-family: "Georgia", "Palatino", "Times New Roman", serif;
+    font-size: 0.85em;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin: 20% 0 0.5em 0;
+    padding: 0;
+    line-height: 1.2;
+    color: #555;
+}
+
+h2.chapter-title {
+    font-family: "Georgia", "Palatino", "Times New Roman", serif;
+    font-size: 1.5em;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    margin: 0 0 2em 0;
+    padding: 0;
+    line-height: 1.3;
+}
+
+/* Chapter with number only (no title) */
+h2.chapter-number-only {
+    font-family: "Georgia", "Palatino", "Times New Roman", serif;
+    font-size: 1.1em;
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin: 20% 0 2em 0;
+    padding: 0;
+    line-height: 1.2;
+}
+
+
+/* --------------------------------------------------------------------------
+   SCENE BREAKS
+   -------------------------------------------------------------------------- */
+
+/* Centered *** for scene breaks within chapters */
+
+div.scene-break {
+    margin: 1.5em 0;
+    text-align: center;
+    line-height: 1;
+}
+
+div.scene-break p {
+    text-indent: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    letter-spacing: 0.5em;
+    color: #333;
+}
+
+/* Alternative: using hr for scene breaks */
+hr.scene-break {
+    border: none;
+    text-align: center;
+    margin: 1.5em auto;
+    width: 20%;
+}
+
+hr.scene-break::after {
+    content: "***";
+    letter-spacing: 0.5em;
+    color: #333;
+}
+
+/* Blank-line scene break for subtler transitions */
+div.scene-break-blank {
+    margin: 1.5em 0;
+    height: 1em;
+}
+
+
+/* --------------------------------------------------------------------------
+   INLINE FORMATTING
+   -------------------------------------------------------------------------- */
+
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Small caps for in-text emphasis (e.g., signs, inscriptions) */
+span.smallcaps {
+    font-variant: small-caps;
+    font-size: 0.9em;
+    letter-spacing: 0.05em;
+}
+
+
+/* --------------------------------------------------------------------------
+   BLOCK ELEMENTS
+   -------------------------------------------------------------------------- */
+
+/* Epigraphs at chapter or part openings */
+
+div.epigraph {
+    margin: 2em 15% 2em 15%;
+    text-align: right;
+    font-style: italic;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+div.epigraph p {
+    text-indent: 0;
+    margin: 0 0 0.3em 0;
+}
+
+div.epigraph p.attribution {
+    font-style: normal;
+    font-size: 0.85em;
+    margin-top: 0.5em;
+}
+
+/* Letters, documents, and other in-text artifacts */
+
+div.letter {
+    margin: 1.5em 10%;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+div.letter p {
+    text-indent: 0;
+    margin: 0 0 0.5em 0;
+}
+
+div.letter p.salutation {
+    margin-bottom: 0.75em;
+}
+
+div.letter p.closing {
+    margin-top: 0.75em;
+    text-align: right;
+}
+
+/* Block quotations */
+
+blockquote {
+    margin: 1em 10%;
+    font-size: 0.95em;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+blockquote p {
+    text-indent: 0;
+    margin: 0 0 0.5em 0;
+}
+
+
+/* --------------------------------------------------------------------------
+   FRONT MATTER
+   -------------------------------------------------------------------------- */
+
+/* Title page */
+
+div.title-page {
+    text-align: center;
+    margin-top: 25%;
+    page-break-after: always;
+}
+
+div.title-page h1 {
+    font-family: "Georgia", "Palatino", "Times New Roman", serif;
+    font-size: 2.2em;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    margin: 0 0 0.5em 0;
+    line-height: 1.2;
+}
+
+div.title-page h2 {
+    font-family: "Georgia", "Palatino", "Times New Roman", serif;
+    font-size: 1.1em;
+    font-weight: normal;
+    font-style: italic;
+    margin: 0 0 2em 0;
+    line-height: 1.4;
+}
+
+div.title-page p.author {
+    font-size: 1.3em;
+    font-weight: normal;
+    letter-spacing: 0.1em;
+    margin: 0;
+}
+
+/* Dedication page */
+
+div.dedication {
+    margin-top: 30%;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.1em;
+    line-height: 1.6;
+    page-break-after: always;
+}
+
+div.dedication p {
+    text-indent: 0;
+}
+
+
+/* --------------------------------------------------------------------------
+   BACK MATTER
+   -------------------------------------------------------------------------- */
+
+/* Author's note, historical note, acknowledgments */
+
+div.back-matter h2 {
+    font-size: 1.3em;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin: 15% 0 1.5em 0;
+    page-break-before: always;
+}
+
+div.back-matter p {
+    text-indent: 1.5em;
+}
+
+div.back-matter p:first-of-type {
+    text-indent: 0;
+}
+
+
+/* --------------------------------------------------------------------------
+   TABLE OF CONTENTS
+   -------------------------------------------------------------------------- */
+
+nav#toc {
+    page-break-before: always;
+}
+
+nav#toc h2 {
+    font-size: 1.3em;
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin: 15% 0 2em 0;
+}
+
+nav#toc ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav#toc li {
+    margin: 0.4em 0;
+    text-indent: 0;
+}
+
+nav#toc a {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav#toc li.part {
+    margin-top: 1.2em;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+}
+
+
+/* --------------------------------------------------------------------------
+   FOOTNOTES AND ENDNOTES
+   -------------------------------------------------------------------------- */
+
+/* For historical fiction: author's notes on real events/people */
+
+aside.footnote {
+    font-size: 0.85em;
+    line-height: 1.4;
+    margin: 0.5em 0 0.5em 1.5em;
+    border-left: 1px solid #ccc;
+    padding-left: 0.75em;
+}
+
+aside.footnote p {
+    text-indent: 0;
+    margin: 0 0 0.3em 0;
+}
+
+sup.fn-ref {
+    font-size: 0.75em;
+    line-height: 0;
+    vertical-align: super;
+}
+
+
+/* --------------------------------------------------------------------------
+   UTILITY CLASSES
+   -------------------------------------------------------------------------- */
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.no-indent {
+    text-indent: 0 !important;
+}
+
+.space-above {
+    margin-top: 1.5em;
+}
+
+.space-below {
+    margin-bottom: 1.5em;
+}
+
+.page-break {
+    page-break-before: always;
+}
+
+/* Drop cap for chapter openings (supported on some e-readers) */
+p.drop-cap::first-letter {
+    float: left;
+    font-size: 3.2em;
+    line-height: 0.8;
+    padding-right: 0.1em;
+    margin-top: 0.05em;
+    font-weight: normal;
+}
+
+
+/* --------------------------------------------------------------------------
+   RESPONSIVE / DEVICE CONSIDERATIONS
+   -------------------------------------------------------------------------- */
+
+/* Night mode / dark theme: let the e-reader handle color inversion.
+   Avoid hard-coded colors except for the subtle grays used above.
+   These will degrade gracefully on e-ink displays. */
+
+/* Kindle-specific: Kindle sometimes ignores margins on body.
+   The percentage-based margins on block elements handle this. */
+
+/* Apple Books: Supports most CSS3. The drop-cap and hyphens work here. */
+
+/* Kobo: Good CSS support. Hyphens may require the Kobo-specific prefix.
+   The -webkit-hyphens declaration above handles this. */
