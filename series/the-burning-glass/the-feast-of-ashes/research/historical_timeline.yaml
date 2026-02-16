@@ -1,0 +1,1869 @@
+# =============================================================================
+# THE FEAST OF ASHES — Historical Research Foundation
+# Setting: Venice and Murano, 1494–1497
+# Protagonist: Enzo Sforno, 17-year-old Jewish lens grinder's apprentice
+# =============================================================================
+
+# =============================================================================
+# POLITICAL EVENTS (1490–1500)
+# =============================================================================
+political_events:
+
+  # ---------------------------------------------------------------------------
+  # Charles VIII's Invasion of Italy (1494–1495)
+  # ---------------------------------------------------------------------------
+  french_invasion:
+    - date: "September 1494"
+      event: "Charles VIII of France crosses the Alps with ~25,000 troops"
+      details: >
+        Charles VIII, aged 24, physically ungainly (large head, thin legs,
+        poor eyesight), leads an army equipped with new bronze cannons —
+        lighter and more mobile than Italian stone-throwing bombards. His
+        army includes Swiss pikemen, Gascon crossbowmen, and Scottish archers.
+        He claims the throne of Naples through the Angevin line.
+      impact_on_venice: >
+        Venice initially adopts neutrality. The Senate debates furiously.
+        Some patricians favor alliance with France to check Milan; others
+        see France as the greater threat. News reaches Venice via courier
+        within days of each French advance.
+    - date: "October–November 1494"
+      event: "French army sweeps through northern Italy"
+      details: >
+        Ludovico Sforza of Milan, who originally invited Charles to press
+        his Neapolitan claim, begins to regret the decision as French
+        power becomes terrifyingly apparent. Florence's Piero de' Medici
+        capitulates without a fight in November, surrendering key
+        fortresses. The Florentines expel the Medici in humiliation.
+      sensory_note: >
+        Venetians would hear news shouted in the Piazza San Marco. Printed
+        broadsheets (Venice was Europe's printing capital) circulated within
+        hours. Tavern arguments about policy would be heated and surveilled
+        by agents of the Council of Ten.
+    - date: "December 1494"
+      event: "Charles VIII enters Rome; Pope Alexander VI negotiates"
+      details: >
+        Alexander VI (Rodrigo Borgia) initially opposes Charles but
+        allows him passage through Rome. The Pope retreats to Castel
+        Sant'Angelo. Negotiations lead to an uneasy accommodation —
+        Charles does not depose the Pope but gains his neutrality.
+    - date: "February 22, 1495"
+      event: "Charles VIII enters Naples virtually unopposed"
+      details: >
+        The Aragonese dynasty of Naples collapses. King Alfonso II
+        abdicates in favor of his son Ferrandino, who then flees.
+        Charles takes Naples with almost no resistance. He is crowned
+        King of Naples. French soldiers loot extensively.
+      impact_on_venice: >
+        Venice is now deeply alarmed. A French-controlled Naples, combined
+        with French influence in Milan, would leave Venice encircled.
+        The Senate moves toward forming an anti-French coalition.
+
+  # ---------------------------------------------------------------------------
+  # The League of Venice and the Battle of Fornovo (1495)
+  # ---------------------------------------------------------------------------
+  league_of_venice:
+    - date: "March 31, 1495"
+      event: "Formation of the League of Venice (Holy League)"
+      members:
+        - "Venice (Doge Agostino Barbarigo)"
+        - "Milan (Ludovico Sforza — switching sides from his original French alliance)"
+        - "Pope Alexander VI"
+        - "Holy Roman Emperor Maximilian I"
+        - "Ferdinand and Isabella of Spain"
+      purpose: >
+        Officially defensive, but clearly aimed at expelling the French.
+        Venice commits the largest military contribution — both money
+        and troops. The Venetian commander is Francesco Gonzaga,
+        Marquis of Mantua.
+      impact_on_venice: >
+        War taxes increase. The Arsenal works overtime producing
+        galleys. Troops muster in the Piazza San Marco. Enzo would
+        see soldiers, hear drums, see families weeping at departures.
+    - date: "July 6, 1495"
+      event: "Battle of Fornovo"
+      details: >
+        Charles VIII, retreating north from Naples with a reduced army
+        (~9,000 men) and enormous plunder, is intercepted by the League
+        army (~20,000, mainly Venetian and Mantuan forces) at Fornovo
+        in the Taro valley. The battle is chaotic, fought in rain on
+        muddy ground. Stradiots (Albanian light cavalry in Venetian
+        service) attack the French baggage train. The French army
+        fights through but loses its loot. Both sides claim victory.
+      casualties: "Perhaps 1,000 French dead, 2,000 League dead"
+      aftermath: >
+        Strategically indecisive but symbolically important. Venice
+        celebrates it as a victory. Captured French war booty (tents,
+        plate, a sword, a helmet, a book of hours, even a piece of
+        the True Cross) is displayed in Venice. Charles returns to
+        France. Naples is eventually retaken by the Aragonese.
+      sensory_note: >
+        In Venice, the bells of San Marco ring for victory. Bonfires
+        lit in the campos. Processions of thanksgiving. But veterans
+        returning to Venice tell grimmer stories — the terror of French
+        artillery, the mud, the screams of horses.
+
+  # ---------------------------------------------------------------------------
+  # Venetian Government and Politics
+  # ---------------------------------------------------------------------------
+  venetian_politics:
+    doge:
+      name: "Agostino Barbarigo"
+      reign: "1486–1501"
+      character: >
+        Elderly, shrewd, cautious diplomat. Brother of the previous
+        Doge Marco Barbarigo. Known for personal avarice but competent
+        administration. He expanded Venetian territory on the terraferma.
+        In official portraits he wears the corno ducale (the distinctive
+        horn-shaped ducal cap) of stiffened linen covered in gold brocade.
+      residence: "Palazzo Ducale (Doge's Palace) on the Piazzetta San Marco"
+      daily_life: >
+        The Doge was both powerful and constrained — he could not open
+        private correspondence, could not leave Venice without permission,
+        could not meet foreign ambassadors alone. He presided over
+        councils but could be overruled. Essentially a gilded prisoner.
+
+    council_of_ten:
+      description: >
+        The most feared governing body. Despite the name, actually
+        17 members (the Ten plus the Doge and six ducal councilors).
+        Elected annually by the Great Council. Handled state security,
+        espionage, and political crimes. Had the power to order
+        secret arrests, torture, and execution.
+      methods: >
+        Bocche di leone (mouths of lions) — stone letterboxes carved
+        like lion faces, set into walls throughout Venice, where
+        anonymous denunciations could be dropped. The Ten employed
+        an extensive network of informers (spies paid from secret funds).
+        Trials could be held in secret. Sentences included drowning
+        at night in the lagoon (tied in a sack), strangulation in
+        prison, or public execution between the two columns of the
+        Piazzetta.
+      relevance_to_plot: >
+        A secret weapons project would be exactly what the Council
+        of Ten would either sponsor or suppress. They controlled
+        military secrets and punished those who leaked them.
+
+    great_council:
+      description: >
+        The sovereign body of the Venetian Republic. Membership
+        restricted since the Serrata (closure) of 1297 to hereditary
+        patrician families listed in the Libro d'Oro (Golden Book).
+        By the 1490s, about 2,500 members from roughly 200 families.
+        Met in the enormous Sala del Maggior Consiglio in the Doge's
+        Palace.
+      sensory_note: >
+        The hall was 54 meters long, one of the largest rooms in
+        Europe, lit by tall Gothic windows overlooking the lagoon.
+        Walls covered in paintings (later replaced after fires).
+        The sound of hundreds of patricians arguing, their red
+        (senators) and black (other patricians) robes swishing on
+        marble floors.
+
+  # ---------------------------------------------------------------------------
+  # Savonarola in Florence (1494–1498)
+  # ---------------------------------------------------------------------------
+  savonarola:
+    - date: "November 1494"
+      event: "Savonarola rises to dominance after Medici expulsion"
+      details: >
+        The Dominican friar Girolamo Savonarola, prior of San Marco
+        in Florence, becomes the de facto spiritual leader of the
+        Florentine Republic. He preaches apocalyptic sermons predicting
+        divine punishment for corruption. Florence becomes a theocratic
+        republic.
+    - date: "February 7, 1497"
+      event: "The Bonfire of the Vanities"
+      details: >
+        Savonarola's followers (piagnoni — the weepers) collect
+        mirrors, cosmetics, fine dresses, playing cards, musical
+        instruments, paintings, and books considered vain or immoral.
+        They burn them in an enormous bonfire in the Piazza della
+        Signoria. Some artists (including allegedly Botticelli)
+        contribute their own works.
+      impact_on_venice: >
+        Venice watches with anxiety. Savonarola's puritanism threatens
+        commerce — Florentine merchants in Venice are divided. Some
+        Venetian preachers echo his themes. The patriciate fears
+        popular religious enthusiasm could destabilize their republic.
+        Printed versions of Savonarola's sermons circulate in Venice.
+    - date: "May 23, 1498"
+      event: "Savonarola executed in Florence"
+      details: >
+        After excommunication by Alexander VI and a failed ordeal by
+        fire, Savonarola is arrested, tortured, hanged, and burned in
+        the Piazza della Signoria. His ashes are thrown in the Arno.
+      impact_on_venice: >
+        Relief among the Venetian patriciate. But popular sympathy
+        for Savonarola persists in some quarters. The episode
+        demonstrates the danger of charismatic religious movements.
+
+  # ---------------------------------------------------------------------------
+  # Ottoman Expansion and Venetian-Ottoman Relations
+  # ---------------------------------------------------------------------------
+  ottoman_relations:
+    background: >
+      Venice maintained a complex relationship with the Ottoman Empire —
+      simultaneously a major trading partner and an existential military
+      threat. Venice held territories in the eastern Mediterranean
+      (Crete, Cyprus, parts of the Greek coast, Dalmatia) that were
+      vulnerable to Ottoman expansion.
+    events:
+      - date: "1463–1479"
+        event: "First Ottoman-Venetian War (recently concluded)"
+        details: >
+          Venice lost Negroponte (Euboea) in 1470 — a traumatic defeat.
+          Ottoman raiders reached the Friuli region of the Venetian
+          terraferma itself. Peace treaty of 1479 ceded significant
+          territory. The memory haunts Venetian politics.
+      - date: "1489"
+        event: "Venice acquires Cyprus from Queen Caterina Cornaro"
+        details: >
+          The last Lusignan queen, a Venetian noblewoman, is pressured
+          into ceding Cyprus to Venice. This extends Venetian power
+          but also extends the frontier Venice must defend against
+          the Ottomans.
+      - date: "1499–1503"
+        event: "Second Ottoman-Venetian War (just after novel period)"
+        details: >
+          Bayezid II attacks Venetian possessions. Venice loses Lepanto,
+          Modon, and Coron in the Morea (Peloponnese). This looming
+          threat would be felt during the novel's timeframe — diplomats
+          in Constantinople send worried dispatches, the Senate
+          debates fortification spending.
+    daily_impact: >
+      Ottoman merchants were present in Venice, living near the Fondaco
+      dei Turchi on the Grand Canal. Venetian merchants traveled to
+      Constantinople and beyond. News of Ottoman movements traveled
+      by ship and generated both commercial anxiety and military alarm.
+      Enzo might encounter Ottoman traders, see Turkish carpets and
+      silks at the Rialto, hear rumors of Ottoman naval preparations.
+
+  # ---------------------------------------------------------------------------
+  # Pope Alexander VI and the Borgia Papacy
+  # ---------------------------------------------------------------------------
+  borgia_papacy:
+    pope: "Alexander VI (Rodrigo Borgia)"
+    reign: "1492–1503"
+    character: >
+      Spanish-born, politically cunning, personally corrupt, devoted to
+      advancing his children (Cesare and Lucrezia Borgia). His papacy
+      was marked by nepotism, simony, and shifting alliances. He
+      alternately allied with and opposed Venice.
+    relevance: >
+      Papal politics affected Venice directly. Alexander VI's alliances
+      shaped the League of Venice and subsequent Italian Wars. Papal
+      envoys were common in Venice. The Pope's moral authority was
+      widely questioned — even pious Venetians murmured about Borgia
+      scandals.
+
+  # ---------------------------------------------------------------------------
+  # Milan and Ludovico Sforza
+  # ---------------------------------------------------------------------------
+  milan:
+    ruler: "Ludovico Sforza (Il Moro)"
+    character: >
+      Duke of Milan (regent from 1480, formally duke from 1494).
+      Cultured patron of Leonardo da Vinci but politically reckless.
+      He invited Charles VIII into Italy to help against Naples,
+      then switched sides when France became too powerful.
+    relevance: >
+      Milan was Venice's western neighbor and frequent rival. Venetian-
+      Milanese tensions over border territories (Brescia, Bergamo,
+      Cremona) were constant. Leonardo da Vinci was at Ludovico's
+      court, working on both art and military engineering — relevant
+      to the novel's themes of secret weapons.
+
+# =============================================================================
+# VENETIAN SOCIETY
+# =============================================================================
+venetian_society:
+
+  social_classes:
+    patricians:
+      description: >
+        The ruling class. About 4–5% of the population. Families
+        inscribed in the Libro d'Oro. Only patricians could sit in
+        the Great Council and hold major offices. They wore distinctive
+        black robes (toghe) with wide sleeves. Senators wore red.
+      lifestyle: >
+        Palazzi on the Grand Canal. Private gondolas with livered
+        gondoliers. Educated in Latin and Greek. Expected to serve
+        the Republic — as ambassadors, governors, naval commanders.
+        Many also engaged in commerce, despite pretensions to a life
+        of public service.
+      wealth_range: >
+        Enormous variation — some patrician families were desperately
+        poor (barnabotti, named after the parish of San Barnaba
+        where many impoverished nobles lived). Others like the Contarini,
+        Morosini, or Grimani were fabulously wealthy.
+
+    cittadini:
+      description: >
+        The citizen class. Divided into cittadini originari (born in
+        Venice of legitimate birth, with grandfather also born in
+        Venice) and cittadini de intus et extra (granted citizenship
+        for trade purposes). Perhaps 5–8% of population.
+      occupations: >
+        Staffed the chancery (bureaucracy) of the Republic. Notaries,
+        secretaries, merchants, professionals. Some were extremely
+        wealthy — richer than many patricians — but barred from
+        political office. Also included leaders of the Scuole Grandi
+        (major confraternities).
+
+    popolani:
+      description: >
+        The common people. Artisans, fishermen, gondoliers, servants,
+        laborers, sailors, market vendors. The vast majority of
+        Venice's population (~120,000–150,000 in this period).
+      daily_life: >
+        Lived in crowded quarters (sestieri). Rented rooms or small
+        apartments. Ate simple food — fish, bread, polenta, cheap wine.
+        Worked long hours, often six days a week. Gathered in campi
+        (small squares) for socializing, in taverns (osterie) for
+        drinking and gambling.
+
+    foreigners:
+      description: >
+        Venice was extraordinarily cosmopolitan. Major foreign
+        communities included Germans (Fondaco dei Tedeschi), Greeks,
+        Armenians, Albanians (Stradiots), Turks, Slavs, Jews, and
+        merchants from across Europe and the Middle East.
+      quarters: >
+        Many foreigners were required to live in or operate from
+        specific buildings — the Fondaco dei Tedeschi for German
+        merchants, the Fondaco dei Turchi for Ottomans. Jews did
+        not yet have a formal ghetto but were subject to various
+        residential restrictions.
+
+  guild_system:
+    overview: >
+      Venetian guilds (arti) regulated production, quality, training,
+      and pricing in most trades. The government supervised guilds
+      closely — they were instruments of state control as much as
+      trade organizations. Guild statutes (mariegole or capitolari)
+      had to be approved by the Giustizia Vecchia (magistrates
+      overseeing guilds and trade).
+    major_guilds:
+      - name: "Arte dei Vetrai (Glassmakers)"
+        notes: "Based on Murano. Unusually powerful. See detailed section below."
+      - name: "Arte dei Cristalleri (Spectacle/Crystal makers)"
+        notes: >
+          Separate from the glassmakers. Included lens grinders and
+          spectacle makers. Based in Venice proper. Enzo's master
+          might belong to this guild or operate in a grey area
+          between this guild and the Vetrai.
+      - name: "Arte della Lana (Wool workers)"
+        notes: "Major industry employing thousands."
+      - name: "Arte dei Fabbri (Smiths)"
+        notes: "Metalworkers including armorers."
+      - name: "Arte dei Calafati (Caulkers)"
+        notes: "Essential workers at the Arsenal."
+      - name: "Arte dei Marangoni (Carpenters)"
+        notes: "Including shipbuilders."
+    apprenticeship: >
+      Typically began at age 12–14. Duration varied by guild — usually
+      5–7 years. Apprentices (garzoni) lived with the master, received
+      food and lodging, and a small stipend. They were legally bound.
+      A Jewish apprentice to a Christian master would be unusual but
+      not impossible — it would require special arrangements and
+      likely the support of a patron.
+
+  justice_system:
+    council_of_ten: >
+      See above under political section. The most feared judicial body.
+    state_inquisitors: >
+      Three inquisitors (inquisitori di stato) selected from the
+      Council of Ten. Handled the most sensitive security cases.
+      Had virtually unlimited power — could order arrest, torture,
+      and execution without trial. Their records were kept in
+      extreme secrecy.
+    ordinary_courts: >
+      The Quarantia (Council of Forty) served as the main appellate
+      court. The Avogadori di Comun were public prosecutors. For
+      criminal cases, the Signori di Notte (Lords of the Night)
+      patrolled the streets and made arrests.
+    spying_culture: >
+      Venice was famously a surveillance state. Neighbors informed
+      on neighbors. Servants spied on masters. The bocche di leone
+      received hundreds of denunciations. The government paid
+      informers from secret funds. This culture of surveillance
+      is crucial to the novel's atmosphere — Enzo would always
+      feel watched.
+
+  commerce:
+    rialto:
+      description: >
+        The commercial heart of Venice. The Rialto bridge (still wooden
+        in this period — the stone bridge was not built until 1588–1591)
+        connected the markets on both banks. The western bank held the
+        produce market (Erberia), fish market (Pescheria), and meat
+        market. The eastern bank was the financial center — bankers
+        sat at tables (banchi) doing business in the open air.
+      goods_traded: >
+        Spices (pepper, cinnamon, cloves, nutmeg — worth their weight
+        in silver), silk, cotton, wool, dyes (kermes, indigo, saffron),
+        glass, mirrors, sugar, salt, grain, timber, metals, precious
+        stones, perfumes, soap, paper, leather, furs.
+      sensory_details: >
+        The overwhelming smell of spices mixed with fish. The shouts
+        of vendors in Venetian dialect. The clink of coins. Bales
+        and crates stacked high. Porters (facchini) shouldering loads.
+        Pigeons pecking at scattered grain. The creak of the wooden
+        bridge under foot traffic.
+
+    arsenal:
+      description: >
+        The state shipyard — largest industrial complex in Europe.
+        Employed up to 16,000 workers (arsenalotti) at peak times.
+        Could produce a galley in a single day using assembly-line
+        methods. Surrounded by high walls and guarded gates.
+      sensory_details: >
+        The constant hammering of caulkers. The smell of pitch and
+        tar. Sawdust floating in the air. The splash of hulls being
+        launched. Rope-walks stretching hundreds of meters. Foundries
+        casting cannon. Warehouses full of oars, sails, rigging.
+
+  religion:
+    churches: >
+      Venice had over 100 churches. The Basilica di San Marco was
+      the Doge's private chapel (not the cathedral — that was San
+      Pietro di Castello). Major churches included the Frari
+      (Franciscan), SS. Giovanni e Paolo (Dominican), San Zaccaria,
+      Santa Maria Formosa.
+    feast_days:
+      - name: "Carnival (Carnevale)"
+        timing: "Weeks before Lent (January–February)"
+        details: >
+          Masks (baute, morette) were worn by all classes. Social
+          boundaries dissolved temporarily. Gambling, drinking,
+          sexual license. The government tolerated it as a safety
+          valve. Masked figures in the calli at all hours.
+      - name: "Ascension Day / La Sensa"
+        timing: "May (40 days after Easter)"
+        details: >
+          The Doge sailed out on the Bucintoro (state barge, gilded,
+          enormous) to the Lido and cast a gold ring into the sea,
+          symbolizing Venice's marriage to the sea. Huge crowds.
+          A fair (fiera) lasting two weeks in the Piazza San Marco.
+          Foreign merchants and visitors flooded the city.
+      - name: "Feast of the Redeemer (Redentore)"
+        timing: "Third Sunday of July"
+        details: >
+          Commemorated the end of plague. A pontoon bridge built
+          across the Giudecca Canal. Processions. Fireworks over
+          the water. Picnics on boats in the lagoon.
+      - name: "Corpus Christi"
+        timing: "June (60 days after Easter)"
+        details: >
+          Major procession through the Piazza San Marco. The Doge
+          and Senate marched under a canopy. Guilds displayed their
+          banners. Elaborate temporary altars set up throughout the city.
+    role_of_church: >
+      Venice maintained fierce independence from papal authority.
+      The government appointed bishops and controlled church
+      revenues. Clergy were subject to state law. Yet popular
+      piety was deep — relics were venerated, miracles believed,
+      saints' days observed. The tension between state pragmatism
+      and popular devotion is an important backdrop.
+
+  education:
+    overview: >
+      Literacy was relatively high in Venice compared to other Italian
+      cities, partly due to the printing industry. By the 1490s
+      Venice was the printing capital of Europe — Aldus Manutius
+      established his press in 1494.
+    schools: >
+      Parish schools taught basic reading, writing, arithmetic.
+      Private tutors for the wealthy. The University of Padua
+      (under Venetian control) was the major center of higher
+      learning — students from Venice traveled there. No university
+      in Venice itself.
+    jewish_education: >
+      Jewish boys received education through the community —
+      Torah study, Hebrew, Talmud. Some also learned Latin and
+      vernacular. Jewish physicians trained at Padua.
+
+  entertainment:
+    - type: "Gambling"
+      details: >
+        Enormously popular despite periodic prohibitions. Dice
+        games, card games, betting on regattas and animal fights.
+        The ridotti (gambling houses) were semi-official.
+    - type: "Regattas"
+      details: >
+        Boat races on the Grand Canal and in the lagoon. Major
+        public spectacles drawing huge crowds. Various categories
+        of boats competed.
+    - type: "Bull-baiting"
+      details: >
+        Bulls chased through the campi and slaughtered. Also
+        pig-chasing. Brutal but popular.
+    - type: "Theatre and music"
+      details: >
+        Commedia dell'arte was emerging. Music in churches and
+        private homes — lute, voice, early keyboard instruments.
+        Street musicians and singers.
+    - type: "Prostitution"
+      details: >
+        Venice was famous for its courtesans. An estimated 11,000
+        sex workers in a city of ~120,000–150,000. The government
+        regulated and taxed the trade. A published catalog (Catalogo
+        di tutte le principal et piu honorate cortigiane di Venetia)
+        listed names and prices.
+
+# =============================================================================
+# JEWISH LIFE IN VENICE (before the Ghetto, pre-1516)
+# =============================================================================
+jewish_life_in_venice:
+
+  legal_status:
+    overview: >
+      Jews had lived in and around Venice for centuries but always
+      under restrictive and precarious legal conditions. Unlike
+      the formal Ghetto established in 1516, the period 1494–1497
+      was characterized by a patchwork of permissions, restrictions,
+      and periodic expulsions that shifted with political winds.
+    condotta_system:
+      description: >
+        Jewish residence in Venice was governed by condotte (charters
+        or contracts) periodically renewed by the Senate. These
+        granted specific rights — mainly the right to lend money
+        at interest — in exchange for fees and taxes. The condotte
+        were typically for 5–10 year terms and their renewal was
+        never guaranteed.
+      terms: >
+        Jews paid substantial fees for the privilege of residence.
+        They were required to provide low-interest loans to the
+        poor (this was the main justification for their presence,
+        since canon law forbade Christians from lending at interest).
+        The condotta specified the maximum interest rate (usually
+        5% per annum, though higher rates were common in practice).
+      instability: >
+        The condotte were subject to political debate. Some patricians
+        argued for expulsion; others recognized the economic necessity
+        of Jewish lending. During the 1490s, there were periodic
+        proposals to establish a Monte di Pieta (public pawnshop)
+        that would replace Jewish lenders — this eventually happened
+        but not fully until the 16th century.
+
+  residence:
+    pre_ghetto_period: >
+      Before 1516, Jews in Venice did not live in a single enclosed
+      area. However, they tended to concentrate in certain parishes,
+      particularly around the area that would later become the Ghetto
+      (in Cannaregio). Some Jews lived on the Giudecca (whose name
+      may or may not derive from "Giudei" — Jews). Jews on the
+      mainland (Mestre, Padua) had somewhat more freedom.
+    housing: >
+      Jewish homes were modest — rented, not owned (Jews generally
+      could not own real property in Venice). Interiors would reflect
+      Jewish observance: mezuzot on doorposts, separate kitchen
+      implements for meat and dairy (kashrut), a hanukkiah, Shabbat
+      candlesticks, a kiddush cup.
+    mestre_connection: >
+      Many Jews lived primarily in Mestre on the mainland and came
+      to Venice for business during the day. Some had permits to
+      stay overnight; others had to leave by sundown. This commuter
+      pattern is important — Enzo might live on Murano or need
+      special permission to stay there.
+
+  occupations:
+    permitted:
+      - "Moneylending (the primary permitted economic activity)"
+      - "Medicine (Jewish physicians were valued and consulted even by patricians)"
+      - "Dealing in secondhand goods (strazzaria — the trade in used clothing and textiles)"
+      - "Small-scale trade and peddling"
+      - "Printing (Jewish printers were active in Venice, especially Hebrew texts)"
+    forbidden_or_restricted:
+      - "Membership in most Christian guilds"
+      - "Owning real property"
+      - "Employing Christian servants (in theory — often violated)"
+      - "Most artisanal trades (glassmaking, metalwork, textiles — guild membership required)"
+    grey_areas: >
+      In practice, the boundaries were porous. Jews worked in various
+      trades through informal arrangements, especially in areas
+      requiring specialized knowledge. A Jewish lens grinder might
+      operate under the protection of a Christian master or patron,
+      technically as a servant rather than a guild member. This
+      precarious arrangement is central to Enzo's position.
+
+  restrictions:
+    clothing:
+      description: >
+        Jews were required to wear a distinguishing mark. In Venice,
+        this was a yellow circle (rotella) sewn onto the outer
+        garment on the chest, or a yellow hat (berretto giallo).
+        The requirement was intermittently enforced. Some Jews
+        obtained individual exemptions, especially physicians.
+      sensory_detail: >
+        The yellow was a specific saffron-dyed color. The circle
+        was roughly the size of a palm. It marked the wearer
+        immediately as Jewish in any crowd. Enzo would be
+        constantly aware of this badge — its weight, its visibility,
+        the reactions it provoked.
+    movement:
+      description: >
+        Jews could not freely move throughout Venice at all hours.
+        Periodic curfews required them to be in their lodgings by
+        a certain hour (often sunset or the third bell). They were
+        barred from certain areas during Christian holy days.
+        However, enforcement was inconsistent.
+    worship:
+      description: >
+        Jewish prayer services were held in private homes or small
+        oratories. There were no purpose-built synagogues in Venice
+        before the Ghetto period (the synagogues of the Ghetto date
+        from the 1520s–1570s). Worship was technically tolerated but
+        legally precarious. Services had to be quiet — loud prayer
+        or singing that might be heard by Christian neighbors could
+        provoke complaints.
+
+  community:
+    ashkenazi_vs_sephardic:
+      description: >
+        By the 1490s, the Venetian Jewish community included both
+        Ashkenazi Jews (from German lands — tedeschi) and Sephardic
+        or Levantine Jews. They maintained separate liturgical
+        traditions, spoke different languages (Yiddish vs. Ladino/
+        Judeo-Italian), and sometimes had tense relations with
+        each other.
+      ashkenazi: >
+        The earlier community. Mainly engaged in moneylending.
+        German-speaking. Followed Ashkenazi liturgical rites.
+        The "Ghetto" itself is an Ashkenazi/Venetian word — from
+        the foundry (getto) that previously occupied the site.
+      sephardic: >
+        Growing community, especially after the 1492 expulsion from
+        Spain. Some arrived via Portugal, North Africa, or the
+        Ottoman Empire. Often wealthier and more cosmopolitan.
+        Engaged in long-distance trade as well as lending. Some
+        Sephardic Jews spoke Spanish, Portuguese, Arabic, or Turkish
+        in addition to Italian and Hebrew.
+      enzo_background: >
+        The surname Sforno is associated with Italian and Sephardic
+        Jewish tradition. The most famous Sforno was Obadiah ben
+        Jacob Sforno (c. 1475–1550), a rabbi, philosopher, and
+        physician based in Bologna and later Rome. Enzo's family
+        could be part of this Italian Jewish (Italkim) tradition,
+        which was neither strictly Ashkenazi nor Sephardic but had
+        deep roots in the Italian peninsula.
+
+    community_institutions:
+      - type: "Confraternities (havurot)"
+        details: >
+          Mutual aid societies providing burial services, dowries
+          for poor brides, support for the sick, charitable funds.
+      - type: "Bet din (rabbinical court)"
+        details: >
+          Handled internal community disputes, marriage, divorce,
+          dietary law questions. The community was largely self-
+          governing in internal matters.
+      - type: "Schools (yeshivot)"
+        details: >
+          Torah education for boys. Hebrew literacy was high.
+          Some communities also maintained libraries of secular
+          and religious works.
+
+    key_figures:
+      - name: "Obadiah ben Jacob Sforno"
+        dates: "c. 1475–1550"
+        role: >
+          Rabbi, physician, biblical commentator. Active in this
+          exact period. Possibly a relative of Enzo — the surname
+          connection is a gift for the novelist.
+      - name: "Judah Messer Leon"
+        dates: "c. 1425–c. 1498"
+        role: >
+          Scholar and rabbi who wrote on rhetoric and philosophy.
+          Active in northern Italy. His Nofet Tzufim (The Book of
+          the Honeycomb's Flow) applied Aristotelian rhetoric to
+          biblical texts.
+      - name: "Elijah del Medigo"
+        dates: "c. 1458–1493"
+        role: >
+          Cretan Jewish philosopher who taught at the University
+          of Padua. Died just before the novel's period but his
+          influence lingered. He taught Pico della Mirandola.
+      - name: "Jewish physicians of Venice"
+        details: >
+          Several Jewish physicians served patrician families and
+          even the Doge. They were among the most respected members
+          of the Jewish community and often served as intermediaries
+          between Jewish and Christian worlds.
+
+  antisemitism:
+    daily_experience: >
+      Jews faced casual and sometimes violent hostility. Street
+      harassment, spitting, thrown objects, threatening language.
+      Children were especially vulnerable. During Lent, preaching
+      against Jews intensified — Franciscan and Dominican friars
+      regularly delivered inflammatory sermons accusing Jews of
+      usury, host desecration, and ritual murder.
+    legal_precarity: >
+      Jews could be expelled at any time if the Senate voted not
+      to renew the condotta. This happened periodically — expulsion
+      orders were issued in 1394, 1397, and at other times, though
+      they were often only partially enforced or quickly reversed
+      because the Republic needed Jewish lenders.
+    blood_libel: >
+      The ritual murder accusation was a constant danger. The
+      Simon of Trent case (1475) — in which Jews were tortured
+      and executed for the alleged murder of a Christian child —
+      had occurred just 19 years before the novel begins. Its
+      reverberations were still felt. Venice's government was
+      generally more rational than other Italian states about such
+      accusations, but popular belief was another matter.
+
+  how_enzo_works_on_murano:
+    plausibility: >
+      A Jewish boy working in a Murano workshop is unusual but
+      not impossible. Several pathways exist:
+    possible_arrangements:
+      - scenario: "Protection of a sympathetic maestro"
+        details: >
+          A master glassmaker who valued the boy's skill (or his
+          father's connections) could employ him as a personal
+          servant rather than a formal guild apprentice, skirting
+          guild restrictions. The master would be taking a risk.
+      - scenario: "Lens grinding as a separate trade"
+        details: >
+          Lens grinding (for spectacles) was not exclusively a
+          guild-controlled activity in the same way as glassblowing.
+          The Arte dei Cristalleri had looser membership requirements.
+          Enzo might work specifically on finishing lenses rather
+          than blowing glass, occupying a niche that fell between
+          guild jurisdictions.
+      - scenario: "Patronage of a patrician"
+        details: >
+          A wealthy patrician with an interest in optics or military
+          technology could arrange for Enzo's presence on Murano,
+          overriding guild objections through political influence.
+          This connects to the secret weapon plot.
+      - scenario: "Family connection"
+        details: >
+          If Enzo's family had trade relationships with Murano
+          glass merchants (many Jewish traders dealt in finished
+          glass products for export), a personal connection could
+          open doors.
+
+# =============================================================================
+# MURANO GLASSMAKING
+# =============================================================================
+murano_glassmaking:
+
+  history:
+    founding_decree: >
+      In 1291, Doge Pietro Gradenigo ordered all glass furnaces
+      moved from Venice to Murano, ostensibly to reduce fire risk
+      (furnaces burned day and night in a city built of wood and
+      packed densely). In practice, concentration on Murano also
+      made it easier to control the industry, guard trade secrets,
+      and tax production.
+    by_1490s: >
+      Murano was the undisputed center of European luxury glass
+      production. The island had roughly 3,000–5,000 inhabitants,
+      most connected to the glass industry. There were approximately
+      30–40 active furnaces at any given time in this period.
+
+  guild_structure:
+    arte_dei_vetrai:
+      description: >
+        The Glassmakers' Guild regulated every aspect of production.
+        Its statutes (mariegola) specified working hours, materials,
+        techniques, apprenticeship terms, quality standards, and
+        export rules. The guild was governed by a gastaldo (head)
+        and a board of officials elected by master glassmakers.
+      membership: >
+        Only those born into glassmaking families or properly
+        apprenticed could become masters. The guild was hereditary
+        and somewhat exclusive — like a craft aristocracy. Master
+        glassmakers could marry into patrician families (an
+        extraordinary privilege for artisans).
+      regulations:
+        - "Working season: October to late July (furnaces cold August-September for maintenance)"
+        - "Work hours: dawn to dusk, with breaks for meals"
+        - "No work on Sundays and major feast days"
+        - "Quality inspections by guild officials"
+        - "Price regulations for finished goods"
+        - "Export controls and anti-counterfeiting measures"
+
+  secrecy_laws:
+    description: >
+      Murano's glassmaking secrets were state secrets. The Venetian
+      government treated glass technology as a strategic asset.
+    penalties:
+      - offense: "Leaving Murano to practice glassmaking elsewhere"
+        punishment: >
+          Imprisonment, confiscation of property. In extreme cases,
+          the Council of Ten authorized assassination of glassmakers
+          who fled to foreign courts. Family members left behind
+          could be imprisoned as hostages.
+      - offense: "Sharing recipes or techniques with foreigners"
+        punishment: >
+          Imprisonment, fines, banishment from the guild. The
+          threat of death was real — a 1547 decree explicitly
+          authorized killing defecting glassmakers, and earlier
+          decrees implied similar severity.
+      - offense: "Smuggling raw materials or unfinished glass off Murano"
+        punishment: "Fines, imprisonment, banishment."
+    enforcement: >
+      In practice, despite these fierce laws, glassmakers did
+      occasionally leave — for courts in Florence, France, the
+      Netherlands, Spain. The laws were a deterrent, not an
+      absolute barrier. But the climate of fear was real, and
+      it creates excellent dramatic tension for the novel.
+    relevance_to_plot: >
+      A secret weapons project using Murano glassmaking techniques
+      would be doubly dangerous — violating both the guild's
+      secrecy rules and the Council of Ten's authority over
+      military secrets. Discovery could mean death.
+
+  types_of_glass:
+    - name: "Cristallo"
+      description: >
+        The most famous Venetian glass. Nearly colorless and
+        remarkably clear (though not truly transparent by modern
+        standards — it had a slight greyish or brownish tint).
+        Developed by Angelo Barovier around 1450 using purified
+        soda ash and manganese dioxide as a decolorant. The name
+        meant it resembled rock crystal. Extremely thin and light.
+      sensory: >
+        Holding a cristallo goblet, you feel almost nothing — it
+        is ghostly in its weightlessness. Light passes through it
+        with only the faintest distortion. It rings with a high,
+        clear note when tapped. It feels cool to the touch.
+      relevance: "Essential for lens-making — the clearest glass available."
+
+    - name: "Lattimo"
+      description: >
+        Opaque white glass mimicking porcelain (which Europeans
+        could not yet manufacture). Made by adding tin oxide or
+        bone ash to the batch. Used for decorative vessels and
+        as a contrast element in other techniques.
+      sensory: "Milky, smooth, warm-looking. Absorbs light rather than transmitting it."
+
+    - name: "Calcedonio"
+      description: >
+        Glass imitating natural chalcedony or agate. Streaked with
+        swirling colors — brown, green, blue, amber. Achieved by
+        adding metal oxides (silver, copper, cobalt) and controlling
+        cooling. A closely guarded secret.
+      sensory: "Stone-like in appearance but glassy in weight and feel. Hypnotic swirling patterns."
+
+    - name: "Millefiori"
+      description: >
+        'A thousand flowers.' Mosaic glass made by fusing cross-
+        sections of multicolored glass canes into a vessel wall.
+        An ancient technique (Roman) revived on Murano. Each tiny
+        flower-like element was a slice of a carefully assembled
+        glass rod.
+      sensory: "Dizzying detail — dozens of tiny colored flowers in a single small bowl."
+
+    - name: "Vetro a retortoli / a reticello"
+      description: >
+        Glass with embedded twisted threads of white (lattimo)
+        or colored glass. Created by picking up prepared canes on
+        the surface of the gather and twisting them as the piece
+        was blown. Reticello uses two layers of crossing threads,
+        trapping tiny air bubbles in a diamond pattern.
+      sensory: >
+        Mesmerizing to watch being made — the glassblower spins
+        and turns the piece, and the threads twist into perfect
+        spirals as if by magic. The finished object seems to
+        contain frozen motion.
+
+    - name: "Vetro a filigrana"
+      description: >
+        Broader term for all thread-decorated glass. Includes
+        retortoli and reticello. By the 1490s, these techniques
+        were still relatively new and highly prized.
+
+  the_furnace:
+    physical_description: >
+      A Murano furnace (fornace) was a substantial structure,
+      typically a large rectangular or round building of brick,
+      with multiple chambers. The main furnace was a beehive-
+      shaped structure roughly 2–3 meters in diameter and 2
+      meters tall, with small openings (bocche — mouths) through
+      which the glassblower inserted the blowpipe. A secondary
+      chamber at the top held pots (crogioli) of molten glass.
+      An annealing oven (lehr or tempera) allowed finished pieces
+      to cool slowly.
+    layout:
+      main_furnace: >
+        Central structure, always burning. Fed with wood (later
+        some used coal). The interior glowed white-yellow at
+        working temperature. Multiple openings at waist height
+        for the blowers to work at.
+      annealing_oven: >
+        Connected or adjacent. Lower temperature. Finished pieces
+        placed inside to cool gradually over 12–24 hours,
+        preventing cracking from thermal stress.
+      pot_chamber: >
+        Refractory clay pots (each holding perhaps 50–100 kg of
+        glass) sat inside the furnace, holding the molten batch.
+        Different pots held different colors. Pots lasted weeks
+        before cracking and needed replacement.
+      storage_areas: >
+        Raw materials stored in bins and sacks. Finished pieces
+        on shelves and in straw-packed crates. Tools hung on walls
+        or laid on marble working surfaces (marvers).
+    temperatures: >
+      Working temperature for Venetian cristallo: approximately
+      1000–1100 degrees Celsius (measured by color — cherry red
+      ~800C, orange ~1000C, yellow-white ~1100C+). The heat
+      radiating from the furnace was punishing. Workers stood
+      within arm's reach of the bocche.
+    fuel: >
+      Wood — primarily alder, willow, and other fast-burning
+      species from the Venetian mainland forests. Enormous
+      quantities consumed daily. Each furnace might burn
+      several hundred kilograms of wood per day. The wood
+      had to be dry and cut to specific sizes. The Venetian
+      government regulated the timber trade to ensure supply.
+    atmosphere_inside: >
+      Brutally hot, especially in summer. Smoky despite chimneys.
+      The air shimmered with heat. Workers sweated through their
+      clothes within minutes. The light was otherworldly — the
+      glow from the furnace mouth cast everything in orange-gold.
+      The sound was a constant low roar of the fire, punctuated
+      by the hiss of water (used for cooling tools), the clink
+      of metal tools, shouted commands, and the whoosh of the
+      blowpipe being swung.
+
+  roles_and_hierarchy:
+    - role: "Maestro (Master)"
+      description: >
+        The head of a furnace team. The most skilled artisan.
+        He (always male) performed the most demanding work —
+        shaping, blowing, creating the final form. A maestro
+        might own his furnace or work for a patron (a wealthy
+        merchant or patrician who owned the physical furnace).
+      status: >
+        High. Maestri were respected figures on Murano, some
+        earning as much as prosperous merchants. They could
+        marry patrician women. Their names were known.
+      earnings: >
+        A skilled maestro might earn 100–200 ducats per year,
+        plus bonuses for exceptional work. Some earned considerably
+        more through commissions from wealthy clients.
+
+    - role: "Servente (Assistant/Journeyman)"
+      description: >
+        Skilled workers who had completed apprenticeship but not
+        yet achieved master status. They prepared gathers, held
+        pontils, assisted with large pieces, performed secondary
+        blowing and shaping tasks.
+      earnings: "Perhaps 30–80 ducats per year."
+
+    - role: "Garzone (Apprentice/Boy)"
+      description: >
+        Boys aged 12–18 learning the trade. Performed menial tasks:
+        stoking the fire, carrying wood, mixing batch materials,
+        cleaning tools, holding molds. Gradually given more skilled
+        work as they proved themselves. Typically served 5–7 years.
+      earnings: >
+        Minimal — food, lodging, clothing, and a small annual
+        stipend (perhaps 5–10 ducats). The real payment was the
+        training itself.
+
+    - role: "Soffiatore (Blower)"
+      description: >
+        A specialized role — the person who did the initial
+        blowing to create the bubble (parison) in the gather.
+        Sometimes the maestro did this himself; in larger
+        operations, a skilled servente specialized in it.
+
+    - role: "Fonditore (Melter/Batch mixer)"
+      description: >
+        Responsible for preparing and melting the raw materials.
+        Measured and mixed the batch ingredients (silica, soda ash,
+        manganese, etc.) according to recipes that were closely
+        guarded secrets. Loaded pots and managed the melt cycle.
+
+    - role: "Temperaor (Annealer)"
+      description: >
+        Managed the annealing oven, controlling the slow cooling
+        of finished pieces. A botched anneal could ruin hours of work.
+
+  daily_schedule:
+    overview: >
+      The furnace ran continuously during the working season
+      (roughly October through July). The working day was long
+      and physically brutal.
+    typical_day:
+      - time: "Before dawn (4:00–5:00 AM)"
+        activity: >
+          Garzoni arrive first. Stoke furnaces, check fuel supply,
+          prepare tools, lay out materials. The night crew has
+          maintained the fire. The fornace is already blisteringly
+          hot.
+      - time: "Dawn (5:30–6:00 AM)"
+        activity: >
+          Maestro and serventi arrive. First gathers taken. Work
+          begins in earnest. The best glass — the clearest, most
+          free of bubbles — is worked in the early hours when the
+          batch is freshest and most homogeneous.
+      - time: "Mid-morning (9:00–10:00 AM)"
+        activity: >
+          Brief break for bread, cheese, wine. Workers step outside
+          to cool down. The contrast between furnace heat and
+          outdoor air can be shocking, especially in winter.
+      - time: "Midday (12:00–1:00 PM)"
+        activity: >
+          Longer break for the main meal. Workers eat together,
+          often in the furnace building or a nearby osteria.
+          Simple food — fish soup, bread, polenta, wine.
+      - time: "Afternoon (1:00–5:00 PM)"
+        activity: >
+          Work continues. Fatigue increases. The heat is worst
+          in summer afternoons. Skilled work becomes harder as
+          the day wears on.
+      - time: "Dusk"
+        activity: >
+          Work ends for the artisans. Garzoni clean up, bank the
+          fire for the night, store materials and finished pieces
+          in the annealing oven. The maestro inspects the day's work.
+    seasonal_patterns:
+      working_season: "October to late July"
+      dark_period: >
+        August to late September — furnaces cooled and repaired.
+        Crucibles replaced. Buildings maintained. Workers rested,
+        visited family, or took on other work. This was also when
+        secret projects might be attempted — a furnace being fired
+        during the dark period would draw attention.
+
+  tools:
+    - name: "Canna da soffio (Blowpipe)"
+      description: >
+        Hollow iron tube, approximately 120–160 cm long, with a
+        slightly wider mouthpiece at one end and a slight thickening
+        at the gathering end. The glassblower dips the hot end into
+        molten glass, gathers a glob (bolo), and blows air through
+        the tube to inflate the glass.
+      sensory: >
+        Heavy (2–3 kg). The gathering end radiates intense heat.
+        The mouthpiece end is warm but manageable. The metal
+        surface is rough, stained with oxide. When you blow
+        through it, the resistance is slight — then the glass
+        at the far end begins to inflate, an eerily responsive,
+        almost alive sensation.
+
+    - name: "Pontello (Pontil or Punty)"
+      description: >
+        Solid iron rod used to hold a piece at the bottom while
+        the top is finished. Attached with a small gather of
+        molten glass. When broken off, it leaves a rough mark
+        (the pontil mark) on the base.
+
+    - name: "Borselle (Jacks or Pucelle)"
+      description: >
+        Large metal tweezers/tongs used to shape and open the
+        glass. Spring-loaded. The two blades can be squeezed
+        together or spread apart to form necks, rims, and other
+        features.
+
+    - name: "Marver (Marmo)"
+      description: >
+        A flat marble or metal surface on which the gather is
+        rolled to shape and cool it. The marble is always cool
+        to the touch, even after repeated use. The hiss of hot
+        glass on cool marble is one of the signature sounds
+        of the fornace.
+
+    - name: "Tagianti (Shears)"
+      description: >
+        Large shears for cutting hot glass. Also smaller trimming
+        shears for finishing work.
+
+    - name: "Bronzin (Mold)"
+      description: >
+        Carved wooden or metal molds into which the parison was
+        blown to create specific shapes. Wooden molds were soaked
+        in water to prevent burning — they steamed and hissed
+        when the hot glass entered them.
+
+    - name: "Cazza (Ladle)"
+      description: >
+        Iron ladle for skimming impurities from the surface of
+        molten glass in the pot.
+
+    - name: "Palette (Paddles)"
+      description: >
+        Flat wooden paddles (often fruitwood) used to shape and
+        flatten glass. Like molds, they were kept wet.
+
+  raw_materials:
+    silica:
+      source: "Quartz pebbles (cogoli) from the Ticino river bed"
+      preparation: >
+        The pebbles were exceptionally pure — low in iron (which
+        causes greenish discoloration). They were crushed and
+        ground to a fine sand. The grinding was labor-intensive
+        and might be done by mills or by hand.
+    soda_ash:
+      source: >
+        Barilla — ash from saltwort plants (Salsola soda) imported
+        from Spain, Syria, or Egypt. This was the flux that lowered
+        the melting point of silica. Also called allume catina.
+      cost: "Expensive — a significant part of production costs."
+    manganese_dioxide:
+      source: "Piedmont region (Italy)"
+      purpose: >
+        Used as a decolorant (the 'glassmaker's soap') — it
+        neutralized the green tint caused by iron impurities,
+        producing the prized cristallo.
+    colorants:
+      - material: "Cobalt oxide"
+        color: "Deep blue"
+        source: "Saxony or Bohemia"
+      - material: "Copper oxide"
+        color: "Green or red (depending on conditions)"
+        source: "Various"
+      - material: "Tin oxide"
+        color: "Opaque white (lattimo)"
+        source: "Cornwall, Saxony"
+      - material: "Gold chloride"
+        color: "Ruby red (rare and expensive)"
+        source: "Prepared from gold"
+      - material: "Iron oxide"
+        color: "Green, brown, or black"
+        source: "Ubiquitous (often an impurity)"
+    batch_preparation: >
+      Raw materials were weighed and mixed according to secret
+      recipes. The batch was loaded into the pot and melted over
+      24–48 hours. The fonditore monitored the melt, stirring
+      with iron rods, skimming impurities. Temperature had to
+      be carefully controlled — too low and the glass would be
+      full of bubbles and unmelted particles; too high and
+      components would volatilize, creating different properties.
+
+  lens_grinding:
+    overview: >
+      In the 1490s, Venice was one of Europe's leading centers
+      for spectacle production. Lens grinding was a specialized
+      sub-trade, related to but distinct from glassblowing.
+    process:
+      - step: "Obtain a glass blank — a thick disc of cristallo, as clear as possible"
+        details: >
+          The blank might be cast in a mold or cut from a larger
+          piece. For lenses, clarity was paramount — bubbles,
+          striae (streaks), and inclusions were unacceptable.
+      - step: "Rough grinding"
+        details: >
+          The blank was ground against a concave or convex form
+          (usually metal — iron or brass) using an abrasive.
+          Emery (corundum, from Naxos or Turkey) was the standard
+          abrasive. The blank was rotated by hand or on a simple
+          lathe. Water was dripped onto the work to carry away
+          debris and prevent overheating.
+      - step: "Fine grinding"
+        details: >
+          Progressively finer abrasives used — fine emery, then
+          tripoli (diatomaceous earth), then rouge (iron oxide).
+          Each stage removed the scratches from the previous one.
+          This could take hours per lens.
+      - step: "Polishing"
+        details: >
+          Final polish using rouge or putty powder (tin oxide)
+          on a felt or leather pad. The lens was brought to
+          optical clarity — when held up, it should magnify or
+          reduce without distortion.
+    tools_for_grinding:
+      - "Grinding forms (convex and concave brass or iron cups)"
+      - "Grinding table or lathe (hand-turned or treadle-operated)"
+      - "Emery of various grades"
+      - "Polishing rouge (iron oxide powder)"
+      - "Water drip system"
+      - "Testing frames for spectacles"
+      - "Calipers and measuring tools"
+    sensory_details: >
+      Lens grinding is quieter than glassblowing but deeply
+      physical. The rhythmic scraping sound of glass on metal
+      with wet abrasive — a grinding, hissing whisper. The
+      smell of wet stone dust. The ache in the hands, shoulders,
+      and back from hours of sustained pressure. The moment of
+      holding a finished lens to the light and seeing the world
+      snap into clarity through it — magical, almost alchemical.
+      The fine grit works into the skin of the fingers, roughening
+      them. Enzo's hands would be distinctive — roughened fingertips,
+      faint white dust in the creases.
+
+  spectacle_making:
+    history: >
+      Spectacles were invented in Italy (probably Florence or Venice)
+      in the late 13th century. By the 1490s, Venice was a major
+      production center. The guild of spectacle makers (occhiali)
+      was active and regulated.
+    types: >
+      In this period, only convex lenses (for farsightedness/
+      presbyopia) were standard. Concave lenses (for nearsightedness)
+      were beginning to appear but were rarer. No bifocals. The
+      lenses were round and set in bone, horn, leather, or metal
+      frames that sat on the nose (no earpieces — those came later).
+    market: >
+      Spectacles were relatively affordable — not luxury items but
+      tools for scholars, merchants, craftsmen. Venice exported them
+      throughout Europe and the Mediterranean.
+
+  economics:
+    maestro_income: "100–200 ducats/year, with top masters earning more"
+    servente_income: "30–80 ducats/year"
+    garzone_income: "5–15 ducats/year plus room and board"
+    comparison: >
+      A skilled worker in other trades earned perhaps 30–50 ducats/year.
+      A patrician senator received 100 ducats/year as salary. A
+      galley captain earned about 200 ducats/year. So a top maestro
+      earned as much as a minor noble.
+    glass_prices:
+      - item: "A fine cristallo goblet"
+        price: "1–5 ducats"
+      - item: "A mirror (luxury item)"
+        price: "5–50 ducats (large mirrors were extremely valuable)"
+      - item: "A pair of spectacles (common)"
+        price: "0.5–2 lire (affordable for middle class)"
+      - item: "A set of glass beads for trade"
+        price: "Varied enormously — beads were major export items, especially to Africa"
+
+  famous_families:
+    - name: "Barovier"
+      notes: >
+        The most famous glassmaking dynasty. Angelo Barovier
+        (d. c. 1460) invented cristallo. The family continued
+        to produce master glassmakers through the 15th and 16th
+        centuries. (Today the firm Barovier & Toso still operates.)
+    - name: "Ballarin"
+      notes: "Important furnace-owning family in the late 15th century."
+    - name: "Serena"
+      notes: "Active masters in the late Quattrocento."
+    - name: "Mocetto"
+      notes: >
+        The painter Girolamo Mocetto (c. 1470–1531) was from a
+        Murano glassmaking family, showing the cultural connections
+        between glass and art.
+    - name: "Briati"
+      notes: "Long-established Murano glassmaking family."
+    - name: "D'Angelo"
+      notes: "Multiple branches, several notable masters."
+
+  social_status_of_glassmakers: >
+    Murano glassmakers occupied a unique social position. The
+    Venetian government, recognizing both their economic importance
+    and the need to prevent their emigration, granted them
+    extraordinary privileges: the right to marry into patrician
+    families, immunity from some criminal prosecution, the right
+    to carry swords (unusual for artisans), and governance of
+    Murano through their own podesta (magistrate). Glassmakers
+    were registered in a Libro d'Oro of Murano — a golden book
+    analogous to Venice's patrician register. This made them a
+    craft aristocracy unlike anything else in Venice.
+
+# =============================================================================
+# RENAISSANCE OPTICS
+# =============================================================================
+renaissance_optics:
+
+  state_of_knowledge_1490s:
+    overview: >
+      Optics in the 1490s was a field of active speculation but
+      limited practical application. The science of optics (perspectiva)
+      was taught in universities as part of natural philosophy. Key
+      ideas were available but not yet synthesized into the breakthroughs
+      that would come in the 17th century.
+    key_texts:
+      - author: "Ibn al-Haytham (Alhazen)"
+        title: "Kitab al-Manazir (Book of Optics)"
+        date: "c. 1011–1021"
+        significance: >
+          The foundational text of optical science. Translated into
+          Latin as De Aspectibus or Perspectiva. Demonstrated that
+          vision works by light entering the eye (rejecting the
+          extramission theory). Described refraction, reflection,
+          and the camera obscura. Available in Latin manuscript
+          in Venetian libraries.
+      - author: "Roger Bacon"
+        title: "Opus Majus (Part V: Perspectiva)"
+        date: "c. 1267"
+        significance: >
+          Built on Alhazen. Discussed magnification through convex
+          lenses. Speculated about using lenses to see distant
+          objects and burn enemies at a distance. Famously wrote:
+          'We can so shape transparent bodies and arrange them in
+          such a way with respect to our sight and objects of vision
+          that the rays will be refracted and bent in any direction
+          we desire; and under any angle we wish, we shall see the
+          object near or at a distance.' This passage was widely
+          read and inspired Renaissance optical experimenters.
+      - author: "Witelo (Vitellio)"
+        title: "Perspectiva"
+        date: "c. 1270–1278"
+        significance: >
+          Polish scholar's comprehensive optical treatise drawing
+          on Alhazen and Bacon. Widely circulated in manuscript
+          and printed in 1535 (but known earlier). Standard
+          university text on optics.
+      - author: "John Pecham"
+        title: "Perspectiva Communis"
+        date: "c. 1279"
+        significance: >
+          Simplified optical textbook widely used in universities.
+          Made Alhazen's ideas accessible to a broader audience.
+
+  burning_mirrors_and_lenses:
+    archimedes_legend: >
+      The most famous legend about optical weapons: Archimedes
+      supposedly used mirrors to focus sunlight on Roman ships
+      besieging Syracuse in 212 BC, setting them on fire. This
+      story, found in various ancient and medieval sources, was
+      widely discussed in the Renaissance. Its plausibility was
+      debated — some scholars believed it, others were skeptical.
+    renaissance_interest: >
+      Several Renaissance thinkers discussed the military potential
+      of focused light:
+      - "Roger Bacon explicitly described burning mirrors as weapons"
+      - "Leonardo da Vinci designed a large concave mirror for focusing sunlight (Codex Atlanticus)"
+      - "Various military treatises mentioned the possibility"
+    practical_limitations: >
+      In the 1490s, the technology to create large, precisely curved
+      mirrors or lenses was extremely limited. The largest glass
+      mirrors were small (perhaps 30 cm diameter). Metal mirrors
+      (polished bronze or speculum metal) could be larger but
+      tended to tarnish and lose reflectivity. A truly effective
+      burning weapon would require either a very large mirror or
+      multiple mirrors precisely aligned — technically possible
+      in theory but enormously difficult in practice.
+
+  what_lenses_could_do:
+    magnification: >
+      Convex lenses for magnification were well understood and
+      widely available (spectacles). Magnification of 2–3x was
+      routine. Higher magnification produced distortion with
+      simple lenses.
+    focusing_light: >
+      A convex lens can focus sunlight to a point, starting fires.
+      This was known and occasionally demonstrated. A lens of
+      10–15 cm diameter could ignite paper, cloth, or dry tinder
+      at its focal point.
+    combination_of_lenses: >
+      The idea of combining lenses to produce greater magnification
+      or longer-range focusing was discussed theoretically but
+      no practical telescope or microscope existed until ~1608.
+      The conceptual barrier was not just technological but
+      theoretical — the precise mathematics of lens combinations
+      was not yet worked out.
+    camera_obscura: >
+      The pinhole camera was well known. Adding a lens to a camera
+      obscura improved the image — brighter, sharper. This was
+      understood by the 1490s and used by some artists as a
+      drawing aid.
+
+  plausible_weapon_concept:
+    description: >
+      For the novel, a plausible secret weapon project might involve:
+    components:
+      - element: "Large-diameter cristallo lenses"
+        details: >
+          Multiple lenses, each perhaps 20–30 cm diameter, ground
+          to precise curvatures. This alone would be a technical
+          achievement beyond normal spectacle-making. The glass
+          would need to be exceptionally clear and free of flaws.
+      - element: "A focusing array"
+        details: >
+          Multiple lenses or mirrors arranged in a frame to
+          concentrate sunlight on a distant target. This could
+          theoretically generate enough heat to ignite sails,
+          pitch, or other flammable materials at a distance of
+          tens of meters.
+      - element: "A sighting mechanism"
+        details: >
+          Some system of lenses to aim the weapon — effectively
+          a crude telescope for targeting. This would be a
+          byproduct of the project and an accidental invention
+          of enormous significance.
+      - element: "Metal framework"
+        details: >
+          A precision mount allowing the lenses to be aimed and
+          focused. This would require skilled metalwork — possibly
+          from the Arsenal's craftsmen.
+    why_venice_would_want_it: >
+      Venice's military situation in the 1490s was precarious.
+      Ottoman naval power threatened the eastern Mediterranean
+      empire. The Italian Wars brought French and Spanish armies
+      to Italy. A weapon that could destroy enemy ships at a
+      distance — without gunpowder, silently, using only sunlight —
+      would be revolutionary. The Council of Ten would be keenly
+      interested.
+    why_it_would_be_secret: >
+      Guild secrecy laws already protected glassmaking techniques.
+      A military application would be classified at the highest
+      level. The Council of Ten's involvement would mean anyone
+      who talked would be silenced. The project would likely be
+      disguised as normal lens production.
+
+  leonardo_da_vinci:
+    relevance: >
+      Leonardo was in Milan working for Ludovico Sforza during
+      exactly this period (he left Milan in 1499 when the French
+      conquered the city). His notebooks contain extensive optical
+      studies.
+    optical_work:
+      - "Designs for lens-grinding machines"
+      - "Studies of light, shadow, and reflection"
+      - "Designs for a large concave mirror (to focus sunlight for soldering)"
+      - "Studies of the eye and vision"
+      - "Camera obscura experiments"
+      - "Notes on the possibility of seeing the moon's surface through lenses"
+    connection_to_plot: >
+      Leonardo's optical work, conducted in rival Milan, could
+      serve as a parallel or inspiration for the Venetian project.
+      Perhaps Venice learned that Milan/Leonardo was developing
+      optical weapons and rushed to create their own version.
+
+# =============================================================================
+# DAILY LIFE DETAILS
+# =============================================================================
+daily_life_details:
+
+  food_and_drink:
+    staples:
+      - item: "Fish"
+        details: >
+          The heart of the Venetian diet. Sardines (sardele),
+          anchovies (acciughe), sole (sogliola), bream (orata),
+          mullet (triglia), cuttlefish (seppie), shrimp (gamberetti),
+          crab (granchio), eel (bisato). Eaten fresh, salted, or
+          dried. The fish market at Rialto was the city's daily
+          spectacle — fishermen shouting prices, silver-scaled
+          fish piled on marble slabs, the overwhelming smell.
+      - item: "Rice"
+        details: >
+          Venice was one of the first Italian cities to adopt rice
+          (imported from the East, later grown in the Po valley).
+          Risi e bisi (rice and peas) was the signature Venetian
+          dish, served to the Doge on the feast of San Marco
+          (April 25). Risotto with fish or vegetables was common.
+      - item: "Polenta"
+        details: >
+          In this period, polenta was made from millet, buckwheat,
+          or spelt — maize (corn) had not yet been adopted
+          (it arrived from the New World but was not widely
+          cultivated in the Veneto until the 16th century).
+          So Enzo's polenta would be dark, heavy, and grainier
+          than modern cornmeal polenta.
+      - item: "Bread"
+        details: >
+          White wheat bread for the wealthy, darker bread for
+          the poor. Venetian bread was often shaped into specific
+          forms — ciabatta-like loaves, rings, or rolls.
+      - item: "Vegetables"
+        details: >
+          Artichokes (carciofini — Venice's beloved vegetable),
+          peas, beans (fava and other varieties), cabbage, onions,
+          garlic, fennel, radicchio (from Treviso). Salads of wild
+          greens. No tomatoes, potatoes, or peppers yet (New World
+          products not widely adopted for decades).
+      - item: "Spices"
+        details: >
+          Venice was the spice capital of Europe. Even modest
+          households used pepper, cinnamon, cloves, and nutmeg.
+          Saffron colored and flavored many dishes. Food was more
+          heavily spiced than modern Italian cuisine.
+      - item: "Meat"
+        details: >
+          Less common than fish in Venice itself. Pork, chicken,
+          duck, and game when available. Sausages and salumi.
+          Meat was more common on the mainland. Veal was prized.
+      - item: "Cheese"
+        details: >
+          Parmesan (parmigiano) imported from Emilia. Fresh
+          cheeses. Ricotta. Cheese was an important protein source.
+      - item: "Fruit"
+        details: >
+          Figs, grapes, melons, pomegranates, citrus (lemons and
+          bitter oranges from the south), pears, apples. Dried
+          fruits — dates, raisins.
+    drink:
+      - item: "Wine"
+        details: >
+          The universal drink. Venetians drank enormous quantities.
+          Local wines from the Veneto (Soave, Valpolicella are
+          modern descendants). Also Greek wines (Malvasia/Malmsey
+          from Crete was famous), Cypriot wines, wines from the
+          mainland. Served in glass goblets (a Murano specialty).
+          Water was mixed with wine for everyday drinking.
+          Red and white varieties both common.
+      - item: "Water"
+        details: >
+          Venice had a freshwater problem — surrounded by salt
+          water, the city depended on rainwater collected in
+          cisterns (pozzi) in every campo. The wellheads (vere
+          da pozzo) are still visible throughout Venice. Water
+          was often murky and had to be settled. Clean water
+          was a constant concern.
+      - item: "Acquavite"
+        details: >
+          Distilled spirits existed but were mainly medicinal.
+          Not widely consumed as beverages in this period.
+
+    jewish_food:
+      kashrut: >
+        Enzo's family would keep kosher — no pork, no shellfish,
+        no mixing meat and dairy, only ritually slaughtered meat.
+        This made daily life in Venice both easier (abundant fish)
+        and harder (no access to the Christian butcher shops without
+        a kosher slaughterer).
+      shabbat_meal: >
+        Friday evening: challah (braided bread), wine for kiddush,
+        fish (often fried — Venetian Jews may have originated the
+        tradition of fried fish that became English fish and chips
+        via Sephardic Jews in London). A stew or soup prepared
+        before sundown. Candles lit at sunset.
+      typical_jewish_dishes: >
+        Fried artichokes (carciofi alla giudia — though this
+        recipe is associated with Roman Jews, Venetian Jews had
+        similar traditions). Bean soups. Rice dishes. Baked fish.
+        Pastries with nuts and honey for holidays.
+
+  clothing:
+    patricians:
+      men: >
+        The toga — a long, wide-sleeved robe of black wool or
+        silk. Senators' togas were crimson red (paonazzo). Under
+        the toga, a doublet (giubbone) and hose. The distinctive
+        flat round cap (berretta) or the cornered cap (corno) for
+        the Doge. Fur-lined robes in winter — marten, ermine, fox.
+      women: >
+        High-waisted gowns of silk or brocade, often in rich
+        colors (despite sumptuary laws that attempted to restrict
+        display). High platform shoes (chopines/zoccoli) sometimes
+        50 cm tall — requiring a servant's assistance to walk.
+        Elaborate hairstyles with pearls and gold thread.
+        Venetian women were famous for bleaching their hair blonde
+        using a mixture spread on the hair while sitting in the
+        sun wearing a crownless hat (solana).
+    working_class:
+      men: >
+        Simple doublet and hose, or a tunic belted at the waist.
+        Rough wool or linen. Leather apron for craftsmen. Felt
+        or knitted cap. Wooden clogs (zoccoli) or leather shoes.
+        In the furnace, workers stripped to minimum clothing due
+        to heat — shirt sleeves rolled up, sometimes bare-chested.
+      women: >
+        Simple gowns of wool or linen, a chemise underneath,
+        a shawl or apron. Hair covered with a kerchief or cap.
+
+    jewish_clothing: >
+      Jews were required to wear the yellow badge (rotella gialla)
+      or yellow hat (berretto giallo). Beyond this requirement,
+      Jewish clothing would not necessarily differ much from
+      Christian working-class clothing, though sumptuary laws
+      specifically targeted Jewish displays of wealth. Jewish
+      men wore the tallit katan (fringed undergarment) under
+      their clothes. On Shabbat and holidays, finer clothing
+      would be worn.
+
+  architecture:
+    venetian_gothic: >
+      The dominant style in the 1490s for existing buildings.
+      Characterized by pointed arches, ornate tracery windows
+      (especially the beautiful multi-light windows of palazzi),
+      marble cladding in white and pink, carved capitals with
+      leaf and figure designs. The Doge's Palace is the supreme
+      example.
+    early_renaissance: >
+      New construction was beginning to adopt Renaissance forms —
+      round arches, classical columns, symmetrical facades.
+      Mauro Codussi was the leading Venetian architect of this
+      period (San Michele in Isola, completed 1469; San Zaccaria
+      facade, 1480s–1490s; Palazzo Vendramin-Calergi, 1481–1509).
+    interior_descriptions:
+      palazzo: >
+        Ground floor (piano terra): warehouse and business spaces,
+        water entrance from the canal with striped mooring poles
+        (paline). First floor (piano nobile): the main living
+        space with tall windows, terrazzo floors (marble chips
+        set in morite — a type of cement), beamed or coffered
+        ceilings, walls hung with tapestries or painted cloth,
+        furnishings of carved walnut — cassoni (chests), credenze
+        (sideboards), high-backed chairs. Fireplaces with carved
+        marble mantels. Glass lamps and candelabra.
+      workers_room: >
+        A single room or two in a tenement building. Bare walls
+        or whitewashed plaster. Straw mattress on a simple bed
+        frame or directly on the floor. A wooden chest for
+        belongings. Perhaps a small table and stool. A chamber
+        pot. Clothes hung on pegs. Cooking done over a small
+        brazier or at a communal kitchen. Dim, crowded, cold
+        in winter, stifling in summer.
+
+  transportation:
+    gondola:
+      description: >
+        The iconic Venetian boat. In the 1490s, gondolas were
+        not yet uniformly black (the decree mandating black
+        came in 1562 to curb competitive ostentation). They were
+        painted in bright colors and decorated with carvings,
+        gilt, and silk canopies (felze). Patrician families had
+        their own gondolas with livered gondoliers.
+      experience: >
+        The gentle rocking motion. The gondolier's rhythmic
+        stroke. The sound of water against the hull. The view of
+        palazzi sliding past at water level. The occasional shout
+        of "Oe!" when approaching a blind corner. The smell of
+        the canal — sometimes fragrant (salt water, algae) and
+        sometimes foul (sewage, garbage).
+    other_boats:
+      - "Sandolo: smaller, simpler flat-bottomed boat for one person"
+      - "Barchetta: small rowing boat"
+      - "Burchiello: large passenger barge for travel to the mainland"
+      - "Peata: heavy cargo barge"
+      - "Galley: military/commercial vessel — oared and sailed"
+    walking:
+      description: >
+        Venice was (and is) a walking city. The network of calli
+        (narrow streets), campi (squares), sottoporteghi (covered
+        passageways), fondamente (canal-side walkways), and ponti
+        (bridges) required constant navigation. Streets were paved
+        with Istrian stone or brick. No wheeled vehicles.
+      experience: >
+        The echo of footsteps in narrow calli. The sudden opening
+        of a campo after a constricting alley. The steepness of
+        bridge steps (no railings in this period). The danger of
+        dark streets at night — no street lighting except the
+        occasional shrine lamp (capitello) at corners.
+
+  smells:
+    - location: "Canals"
+      description: >
+        Salt water and algae in winter and when tides were high.
+        Rotting garbage and sewage in summer and at low tide.
+        The smell varied dramatically by tide, season, and
+        neighborhood. Near tanneries and dye-works, chemical
+        smells. Near the fish market, overwhelming fishiness.
+    - location: "Churches"
+      description: >
+        Incense (frankincense and myrrh), beeswax candles,
+        damp stone, old wood, the faint sweetness of flowers
+        at side altars. In summer, the cool interior of a
+        church was a sensory relief.
+    - location: "Glassworks"
+      description: >
+        Hot metal, woodsmoke, a faint chemical tang from the
+        molten glass (volatilized soda can sting the nostrils),
+        wet wood from soaked molds, sweat. The overall impression
+        is of industrial heat with an acrid edge.
+    - location: "Rialto market"
+      description: >
+        Spices (pepper, cinnamon — sharp and sweet), raw fish,
+        cheese, fresh bread, overripe fruit, bodies (bathing was
+        infrequent), perfumes, leather, tar from nearby boatyards.
+    - location: "Domestic"
+      description: >
+        Cooking fires (woodsmoke), garlic and onions frying in
+        olive oil, dampness (ever-present in Venice), tallow or
+        beeswax candles, linen and wool, chamber pots, dried
+        herbs hung from beams.
+
+  sounds:
+    bells:
+      description: >
+        The dominant soundscape of Venice. The Marangona (the
+        largest bell in the campanile of San Marco) rang at dawn
+        to start the work day and at dusk to end it. The Trottiera
+        rang to summon patricians to the Great Council (giving
+        them time to 'trot' to the Palazzo Ducale). The Mezza
+        Terza rang at mid-morning. The Nona rang at midday. Each
+        parish church had its own bells, creating a layered,
+        overlapping soundscape.
+      sensory: >
+        The deep bronze boom of the Marangona, felt as much as
+        heard — it vibrated in the chest. Smaller bells rang
+        in higher, brighter tones. On feast days, all the bells
+        of Venice rang simultaneously — an overwhelming,
+        exhilarating, almost terrifying wall of sound.
+    water:
+      description: >
+        The constant lapping of water against stone. The gurgle
+        of tides flowing through canals. The splash of oars.
+        The slap of a wave against a hull. Rain on water — a
+        hissing, tinkling sound. The roar of the sea on the
+        Lido during storms.
+    voices:
+      description: >
+        Venetian dialect — musical, sibilant, different from
+        Tuscan Italian. Vendors shouting prices. Gondoliers
+        calling warnings at corners. Women calling to each other
+        across canals from windows. Children playing in campi.
+        The murmur of prayer from open church doors. Arguments
+        in taverns.
+    other:
+      - "Hammering from boatyards and workshops"
+      - "The creak of mooring ropes"
+      - "Footsteps on stone — the distinctive Venetian echo"
+      - "Pigeons — the rustle and coo of thousands of pigeons"
+      - "Music — lutes, voices, church organs drifting from open windows"
+
+  light:
+    quality: >
+      Venice's light is famous — reflected off water, it has a
+      unique shimmer and softness. In the 1490s, without electric
+      light, this natural light was even more dramatic.
+    times_of_day:
+      dawn: >
+        Pink and gold on the eastern lagoon. The water mirrors
+        the sky. Buildings emerge from shadow as if being painted
+        into existence. Mist often hangs over the canals.
+      morning: >
+        Bright and clear, especially in autumn and winter.
+        Shadows sharp on white stone. The light bounces off
+        the water and plays on building facades — rippling
+        patterns of reflected light on ceilings and walls.
+      noon: >
+        In summer, bleaching and hot. The glare off the water
+        can be painful. Everything washed in white-gold light.
+        In winter, low-angled and golden.
+      afternoon: >
+        The famous Venetian golden hour starts early. The light
+        warms and deepens. Palazzi glow amber and rose.
+      dusk: >
+        Purple and blue descend from the east while the west
+        burns orange. The transition is rapid. The city darkens
+        quickly.
+      night: >
+        Profoundly dark by modern standards. Only starlight,
+        moonlight, and the occasional flicker of a lamp at a
+        shrine or the window of an osteria. On cloudy nights,
+        total blackness in the narrow calli.
+    artificial_light:
+      - "Tallow candles (cheap, smoky, smelly) for the poor"
+      - "Beeswax candles (expensive, cleaner, sweeter smell) for the wealthy and churches"
+      - "Oil lamps (olive oil) — a steadier light but dim"
+      - "Torches for processions and outdoor events"
+      - "The furnace glow — on Murano, the furnaces were visible from a distance at night, a red-orange glow"
+
+  weather_and_seasons:
+    fog:
+      local_name: "Nebbia"
+      description: >
+        Dense, cold fog that rolls in from the lagoon, especially
+        in autumn and winter. It can reduce visibility to a few
+        meters. Sounds are muffled. The world contracts to a tiny
+        sphere. Boats navigate by sound and memory. Figures loom
+        out of the fog like ghosts. The fog tastes of salt and
+        damp.
+    acqua_alta:
+      description: >
+        High water that floods low-lying areas, especially the
+        Piazza San Marco. Caused by high tides combined with
+        sirocco winds. In the 1490s, less extreme than today
+        (sea levels were lower) but still a regular occurrence.
+        Wooden walkways (passerelle) were set up. Ground floors
+        of buildings flooded. The water was cold, dirty, and
+        inconvenient.
+    sirocco:
+      description: >
+        The hot, humid wind from the southeast (from the Sahara
+        via the Mediterranean). It brings oppressive heat,
+        haze, and sometimes dust. It makes tempers short and
+        heads ache. Associated with acqua alta.
+    seasons:
+      spring: "Mild, often rainy. The lagoon comes alive with birds."
+      summer: >
+        Hot and humid. The canals smell worst. Mosquitoes from
+        the marshes. Many patricians retreat to villas on the
+        mainland (the villeggiatura). The furnaces on Murano
+        make summer there nearly unbearable.
+      autumn: >
+        Golden light, fog, rain. The grape harvest on the mainland.
+        The working season on Murano begins again in October.
+      winter: >
+        Cold, damp, bone-chilling. The bora wind (from the
+        northeast, from the Alps) brings bitter cold. Ice
+        sometimes forms on the lagoon. Short days. The furnace
+        heat on Murano is almost welcome in winter.
+
+  money:
+    currencies:
+      - name: "Ducat (ducato d'oro)"
+        value: >
+          The gold standard — literally. 3.5 grams of gold.
+          The most trusted currency in Mediterranean trade.
+          Featured the Doge kneeling before St. Mark on one
+          side and Christ in an almond-shaped mandorla on the
+          other. A single ducat could buy several days' food
+          for a working family.
+      - name: "Lira (lira di piccoli)"
+        value: >
+          A money of account (not a physical coin in this period).
+          1 ducat = approximately 6 lire 4 soldi (the exchange
+          rate fluctuated). A working man might earn 10–20 lire
+          per month.
+      - name: "Soldo (pl. soldi)"
+        value: >
+          A small silver coin. 20 soldi = 1 lira. Used for
+          everyday purchases — a loaf of bread, a drink of wine.
+      - name: "Bagattino"
+        value: >
+          The smallest coin. Copper. Used for the cheapest
+          purchases — a handful of vegetables, a candle.
+    costs:
+      - item: "A loaf of bread"
+        price: "1–2 soldi"
+      - item: "A jug of common wine"
+        price: "2–4 soldi"
+      - item: "A plate of fish at an osteria"
+        price: "4–8 soldi"
+      - item: "Monthly rent for a modest room"
+        price: "1–3 ducats"
+      - item: "A simple wool tunic"
+        price: "1–2 ducats"
+      - item: "A gondola crossing (traghetto)"
+        price: "1–2 bagattini"
+
+  timekeeping:
+    bells: >
+      The primary method. Church bells divided the day into
+      canonical hours (Matins, Lauds, Prime, Terce, Sext, None,
+      Vespers, Compline). The Marangona bell of San Marco was
+      the city's master clock. People oriented their day by
+      bells — they did not generally know the precise time by
+      the hour.
+    sundials: >
+      Present on some church walls and public buildings. Useful
+      only in clear weather. Various designs.
+    clocks:
+      description: >
+        The famous clock tower in the Piazza San Marco (Torre
+        dell'Orologio) was completed in 1499 — just at the end
+        of the novel's time period. Its installation would be
+        news. Before this, mechanical clocks existed on some
+        church towers but were unreliable. Striking clocks
+        (that chimed the hours) were becoming more common.
+      italian_hours: >
+        Venetians used the 'Italian hour' system — the day began
+        at sunset (roughly Ave Maria), and hours were counted
+        from 1 to 24. So "the 18th hour" might mean midday
+        in winter. This system is confusing to modern readers
+        and might be translated into more intuitive terms in
+        the novel.
+
+  street_life:
+    vendors: >
+      Street sellers of every kind — water sellers, fruit sellers,
+      fish sellers, secondhand clothes dealers, tinkers, knife
+      sharpeners, herbalists. They called out their wares in
+      distinctive cries (gridi). The cries of Venetian vendors
+      were famous and later documented in prints and literature.
+    beggars: >
+      Present everywhere, especially near churches and the Rialto.
+      Some organized into informal guilds. The government
+      periodically attempted to expel non-Venetian beggars.
+    processions: >
+      Religious processions were frequent — for saints' days,
+      funerals, civic ceremonies. The Scuole Grandi (major
+      confraternities) organized elaborate processions with
+      banners, candles, music, and relics.
+    market_days: >
+      The Rialto markets operated daily. Weekly markets in
+      various campi. The Sensa fair (Ascension Day) was the
+      largest annual market, lasting two weeks in the Piazza.
