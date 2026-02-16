@@ -1,0 +1,2324 @@
+# =============================================================================
+# THE FEAST OF ASHES — Book Bible (Master Consistency Reference)
+# Book One of The Burning Glass trilogy
+# Setting: Venice and Murano, 1494-1497
+# =============================================================================
+# This file is the single source of truth for all factual details in the
+# manuscript. The consistency_checker.py script validates against this file.
+# Every named character, location, object, and plot-critical fact must appear
+# here. Update this file BEFORE changing the manuscript.
+# =============================================================================
+
+# =============================================================================
+# 1. CHARACTERS
+# =============================================================================
+characters:
+
+  # ---------------------------------------------------------------------------
+  # ENZO SFORNO — Protagonist
+  # ---------------------------------------------------------------------------
+  - full_name: "Enzo Sforno"
+    aliases:
+      - "the Jew boy" # what hostile workers call him
+      - "Sforno's pup" # what older furnace hands call him, referencing his father
+      - "little lens" # Serena's private nickname for him
+    role: protagonist
+    birth_year: 1477
+    age_at_story_start: 17
+    death_date: null
+
+    physical:
+      height: "average, about 168 cm — neither tall nor short for the period"
+      build: "lean and wiry from furnace work, strong hands disproportionate to his frame"
+      hair: "dark brown, thick, curly, kept short but unruly; often dusted with grinding powder"
+      eyes: "dark brown, nearly black; remarkably sharp — he can spot flaws in glass others miss"
+      skin: "olive, tanned darker on the face and forearms from furnace heat"
+      distinguishing_features:
+        - "roughened fingertips from years of lens grinding, with white grit permanently in the creases"
+        - "a small burn scar on his left wrist from a splatter of molten glass, age fourteen"
+        - "slightly hunched left shoulder from hours bent over the grinding table"
+      clothing_style: >
+        Simple working-class attire: a linen shirt, wool doublet (usually unbuttoned
+        at the furnace), hose, leather apron when grinding. Wears the required yellow
+        circle (rotella gialla) sewn onto his doublet over the chest. On Shabbat,
+        a cleaner doublet of darker wool. A felt cap pulled low. His clothes always
+        carry a faint chemical smell from the furnace.
+
+    personality:
+      traits:
+        - "intensely observant — notices details others overlook, a lens grinder's eye"
+        - "stubbornly loyal to the few people he trusts"
+        - "morally binary — sees the world in right and wrong, slow to accept ambiguity"
+        - "quietly proud — refuses to show pain or ask for help"
+        - "privately angry — suppresses resentment about anti-Jewish prejudice until it erupts"
+        - "obsessive when curious — cannot leave a puzzle unsolved"
+      values:
+        - "craftsmanship and precision"
+        - "family loyalty"
+        - "honesty (which makes Venice dangerous for him)"
+        - "his father's memory and legacy"
+      fears:
+        - "being expelled from Murano and losing his craft"
+        - "that his father's death was meaningless"
+        - "that his skill makes him a tool for powerful men, not a free artisan"
+        - "becoming invisible — tolerated but never truly seen"
+      habits:
+        - "holds objects up to the light and rotates them slowly when thinking"
+        - "rubs his right thumb across his roughened left fingertips when nervous"
+        - "eats quickly and silently, a habit from being the outsider at the workshop table"
+        - "walks with his head slightly tilted, as if examining the world from an angle"
+      speech_patterns:
+        - "speaks Venetian dialect at the furnace, Italian with educated speakers, Hebrew at home"
+        - "tends toward short, precise sentences — a craftsman's economy"
+        - "uses visual metaphors instinctively: 'clear as cristallo,' 'clouded,' 'fractured'"
+        - "rarely raises his voice; when truly angry, he becomes quieter, not louder"
+        - "occasionally uses Hebrew words when emotional, then catches himself"
+
+    background:
+      origin: "born in Venice, raised in the Cannaregio district near the future Ghetto site"
+      education: >
+        Torah study and Hebrew literacy through the Jewish community. Basic Latin
+        from a sympathetic parish priest who recognized his intelligence. Self-taught
+        in optics through his father's books and instruments. Can read but writes
+        slowly. Numerate — can calculate lens curvatures in his head.
+      occupation: "apprentice lens grinder in the Bardolino furnace, Murano"
+      social_class: "Jewish artisan — outside the Christian class hierarchy entirely"
+      family:
+        father: "Giacomo Sforno (deceased 1493) — master lens grinder, died in furnace explosion"
+        mother: "Mirela Sforno (nee Modena) — alive, keeps household in Cannaregio"
+        siblings: null
+      religion: "Jewish (Italian rite — Italkim tradition, neither Ashkenazi nor Sephardi)"
+
+    arc:
+      want: "to earn maestro credentials and understand why his father died"
+      need: "to accept that the world is morally complex and that good people do terrible things"
+      ghost: >
+        His father's death in a furnace explosion when Enzo was sixteen. Enzo was
+        nearby and heard the blast. He arrived to find the furnace shattered and his
+        father's body burned beyond recognition. He was told it was an accident —
+        a cracked crucible, a steam explosion. He has never fully believed this.
+      lie: "if I am skilled enough and useful enough, they will have to accept me and keep me safe"
+      truth: >
+        Skill alone cannot protect you in a world run by power. Safety comes not
+        from being indispensable but from understanding who holds power and why.
+        And moral clarity requires acting even when the cost is everything you have built.
+
+    relationships:
+      - character: "Vittorio Bardolino"
+        nature: "master and apprentice; surrogate father figure"
+        history: "Vittorio took Enzo on after Giacomo's death, honoring an old debt to the father"
+        evolution: "trust and gratitude curdle into betrayal as Enzo discovers Vittorio's secret work"
+      - character: "Mirela Sforno"
+        nature: "mother and son; protective, sometimes suffocating"
+        history: "they clung to each other after Giacomo's death; Mirela fears losing Enzo too"
+        evolution: "Enzo begins keeping secrets from her; she reveals she has secrets of her own"
+      - character: "Tomaso Bardolino"
+        nature: "rival, antagonist, fellow worker"
+        history: "Tomaso resents Enzo's skill and his father's favoritism toward the Jewish outsider"
+        evolution: "hostility deepens as Tomaso suspects Enzo is snooping; uneasy truce late in story"
+      - character: "Serena Contarini"
+        nature: "friend, potential romantic interest"
+        history: "met as children when Enzo accompanied his father to the Contarini furnace"
+        evolution: "friendship deepens into something more; complicated by religion and social barriers"
+      - character: "Fra Giordano"
+        nature: "intellectual fascination and moral horror"
+        history: "Enzo encounters Fra Giordano's ideas before meeting the man"
+        evolution: "drawn to his brilliance, repelled by his willingness to weaponize knowledge"
+      - character: "Marcantonio Viaro"
+        nature: "handler, manipulator, dangerous ally"
+        history: "Viaro approaches Enzo after recognizing his potential usefulness"
+        evolution: "Enzo becomes an unwilling informant; the relationship becomes a trap"
+
+    voice_notes: >
+      Enzo speaks with the directness of a craftsman. His vocabulary is concrete —
+      glass, light, heat, tools. He does not use flowery language. When under
+      stress, his sentences shorten to fragments. He thinks in images, not
+      abstractions. Internal monologue should reflect his visual acuity — he
+      notices what things look like before anything else.
+
+    timeline:
+      - date: "1477"
+        event: "born in Venice, Cannaregio district"
+      - date: "1483"
+        event: "begins Torah study; father starts teaching him to identify glass quality"
+      - date: "1488"
+        event: "father arranges informal apprenticeship at Bardolino furnace; Enzo begins learning lens grinding"
+      - date: "1493, late summer"
+        event: "father Giacomo dies in furnace explosion on Murano"
+      - date: "1493, autumn"
+        event: "Vittorio Bardolino formally takes Enzo as apprentice, honoring old arrangement"
+      - date: "1494, spring"
+        event: "NOVEL OPENS — Enzo is 17, in his sixth year at the furnace"
+      - date: "1494, summer"
+        event: "discovers anomalous glass components in Vittorio's storeroom"
+      - date: "1494, autumn"
+        event: "Charles VIII invades Italy; Venice tense; Enzo begins investigating the components"
+      - date: "1495, winter-spring"
+        event: "encounters Fra Giordano's writings; begins to understand the weapon concept"
+      - date: "1495, summer"
+        event: "Battle of Fornovo; Venetian victory celebrations; Enzo approached by Viaro"
+      - date: "1496, winter-spring"
+        event: "deepening involvement in the conspiracy; relationship with Serena develops"
+      - date: "1496-1497"
+        event: "discovers the connection between his father's death and the weapon project"
+      - date: "1497, spring"
+        event: "climax — must choose between silence and action; NOVEL ENDS"
+
+  # ---------------------------------------------------------------------------
+  # VITTORIO BARDOLINO — Secondary POV / Antagonist
+  # ---------------------------------------------------------------------------
+  - full_name: "Vittorio Bardolino"
+    aliases:
+      - "Maestro Bardolino"
+      - "the old lion" # what the serventi call him behind his back
+      - "Vittorio the Steady" # his reputation among Murano masters
+    role: antagonist
+    birth_year: 1439
+    age_at_story_start: 55
+    death_date: null
+
+    physical:
+      height: "tall for the era, about 175 cm; carries himself with a craftsman's dignity"
+      build: "broad-shouldered, thick-armed from decades at the furnace; beginning to soften at the belly"
+      hair: "iron grey, receding, worn swept back; a short-trimmed grey beard"
+      eyes: "pale grey-blue — watery from years of furnace glare; bloodshot by late afternoon"
+      skin: "weathered, ruddy, lined deeply around the eyes and mouth; old burn scars on both forearms"
+      distinguishing_features:
+        - "hands are enormous, scarred, calloused — the hands of a man who has shaped molten glass for forty years"
+        - "missing the tip of his left ring finger, lost to shears in his twenties"
+        - "a slight limp in his right leg from an old injury, worse in cold weather"
+      clothing_style: >
+        At the furnace: simple linen shirt, leather apron, wooden clogs. In public:
+        a respectable wool robe of dark blue or brown, befitting a master craftsman.
+        On formal occasions, a fur-trimmed mantle. Wears a gold signet ring with
+        the Bardolino furnace mark (a rampant lion holding a goblet) on his right hand.
+
+    personality:
+      traits:
+        - "paternally authoritative — runs his furnace like a family, expects obedience and gives protection"
+        - "genuinely passionate about the craft — can talk about glass for hours with real wonder"
+        - "financially anxious — the furnace is failing and he lies awake calculating debts"
+        - "self-deceptive — convinces himself that compromises are temporary"
+        - "proud to the point of stubbornness — cannot admit when he has gone too far"
+        - "capable of real warmth, which makes his betrayal more painful"
+      values:
+        - "the furnace and the family name"
+        - "the Murano tradition — he sees himself as a guardian of centuries of craft"
+        - "loyalty (which he violates, and knows he violates)"
+        - "order and hierarchy"
+      fears:
+        - "the furnace closing and the Bardolino name dying"
+        - "being exposed as a traitor to guild secrecy"
+        - "that the weapon will actually work and he will bear responsibility"
+        - "losing control of events he set in motion"
+      habits:
+        - "turns a small piece of millefiori glass in his pocket when anxious — a piece he made as a young man"
+        - "rubs his missing fingertip against his thumb unconsciously"
+        - "tastes the batch ingredients by touching a wet finger to the raw materials"
+        - "stands at the furnace mouth for long minutes, staring into the fire, when troubled"
+      speech_patterns:
+        - "speaks in Venetian dialect with Murano inflections — broader vowels, older forms"
+        - "uses furnace metaphors: 'the fire will tell you,' 'a cracked pot leaks before it breaks'"
+        - "voice is deep, hoarse from years of shouting over furnace noise"
+        - "becomes formally polite when frightened — a sign Enzo learns to read"
+        - "tells stories about old maestri to make indirect points"
+
+    background:
+      origin: "born on Murano, third generation of the Bardolino glassmaking family"
+      education: "guild apprenticeship from age twelve; basic literacy; no Latin or formal schooling"
+      occupation: "maestro vetraio — master glassmaker, owner of the Bardolino furnace"
+      social_class: "Murano craft aristocracy — registered in the Libro d'Oro of Murano"
+      family:
+        wife: "Alessandra Bardolino (nee Serena) — deceased 1491, fever"
+        son: "Tomaso Bardolino — age 20, servente in the furnace"
+        daughter: "Caterina Bardolino — age 16, lives with Vittorio"
+      religion: "Catholic, conventionally observant"
+
+    arc:
+      want: "to save the Bardolino furnace and secure his family's legacy"
+      need: "to accept that some prices are too high, even for legacy"
+      ghost: >
+        His father ran the furnace into the ground through gambling debts. Vittorio
+        spent his twenties rebuilding what his father nearly destroyed. The terror
+        of losing the furnace again drives every decision.
+      lie: "the weapon will never actually work, so manufacturing the components is a victimless act"
+      truth: >
+        Complicity in evil is not lessened by believing the evil will fail.
+        The act of making the weapon's components is itself the moral failure,
+        regardless of whether the weapon functions.
+
+    relationships:
+      - character: "Enzo Sforno"
+        nature: "master to apprentice; genuine affection complicated by exploitation"
+        history: "owes a debt to Giacomo Sforno; took Enzo on partly from guilt"
+        evolution: "from protector to betrayer; final attempt at redemption"
+      - character: "Tomaso Bardolino"
+        nature: "father and son; strained by Vittorio's visible preference for Enzo's talent"
+        history: "Tomaso is competent but not brilliant; Vittorio cannot hide his disappointment"
+        evolution: "the conspiracy forces them into reluctant alliance"
+      - character: "Fra Giordano"
+        nature: "uneasy collaborators; Vittorio fears the friar's fanaticism"
+        history: "Fra Giordano approached Vittorio through a Council of Ten intermediary"
+        evolution: "Vittorio grows increasingly horrified as the weapon takes shape"
+      - character: "Marcantonio Viaro"
+        nature: "handler and puppet master; Viaro controls Vittorio through promises and threats"
+        history: "Viaro arranged the commission and the promise of a Council advisory seat"
+        evolution: "Vittorio realizes too late that Viaro will never let him walk away"
+
+    voice_notes: >
+      Vittorio speaks with the authority of a man used to being obeyed in his own
+      domain. His POV chapters should feel heavier, more burdened than Enzo's —
+      the weight of knowledge and guilt. He thinks in terms of fire and materials,
+      the tangible world. His internal monologue should reveal the gap between what
+      he tells himself and what he knows is true.
+
+    timeline:
+      - date: "1439"
+        event: "born on Murano"
+      - date: "1451"
+        event: "begins apprenticeship in his father's furnace"
+      - date: "1460"
+        event: "achieves servente status"
+      - date: "1465"
+        event: "father's gambling debts nearly bankrupt the furnace"
+      - date: "1468"
+        event: "achieves maestro status; begins rebuilding the furnace's reputation"
+      - date: "1472"
+        event: "marries Alessandra Serena"
+      - date: "1474"
+        event: "son Tomaso born"
+      - date: "1478"
+        event: "daughter Caterina born"
+      - date: "1485"
+        event: "befriends Giacomo Sforno, who grinds lenses for the furnace"
+      - date: "1491"
+        event: "wife Alessandra dies of fever"
+      - date: "1492"
+        event: "furnace finances deteriorate; major client defaults on payment"
+      - date: "1493, spring"
+        event: "approached by Viaro with the secret commission; agrees reluctantly"
+      - date: "1493, summer"
+        event: "Giacomo Sforno dies in the furnace explosion (Vittorio suspects foul play but says nothing)"
+      - date: "1493, autumn"
+        event: "takes Enzo as apprentice; begins secret manufacturing"
+      - date: "1494-1497"
+        event: "novel events; increasingly trapped between conspiracy and conscience"
+
+  # ---------------------------------------------------------------------------
+  # FRA GIORDANO — The Renegade Franciscan
+  # ---------------------------------------------------------------------------
+  - full_name: "Fra Giordano da Padova"
+    aliases:
+      - "Fra Giordano"
+      - "the Friar" # how the conspirators refer to him
+      - "Brother Fire" # his self-chosen epithet, after Francis of Assisi's Canticle
+    role: antagonist
+    birth_year: 1449
+    age_at_story_start: 45
+    death_date: null
+
+    physical:
+      height: "short, about 160 cm — compensates with intensity of presence"
+      build: "thin to the point of gauntness; eats irregularly, forgets meals when working"
+      hair: "tonsured crown, fringe of dark hair going grey; unkempt"
+      eyes: "dark, large, feverishly bright — the most memorable thing about him"
+      skin: "sallow, pockmarked from a childhood illness"
+      distinguishing_features:
+        - "ink-stained fingers that never come fully clean"
+        - "a nervous energy that keeps him in constant small motion — tapping, pacing, gesturing"
+        - "voice carries disproportionately for his size; trained as a preacher"
+      clothing_style: >
+        The grey-brown Franciscan habit, rope belt with three knots, leather sandals.
+        His habit is stained with ink and wax. Carries a leather satchel bulging
+        with manuscripts and loose papers everywhere he goes.
+
+    personality:
+      traits:
+        - "intellectually brilliant — genuinely one of the sharpest minds in Italy"
+        - "obsessive — once seized by an idea, nothing else exists"
+        - "charismatic in person — can make you believe anything while he is talking"
+        - "self-righteous — convinced his work serves God and Christendom"
+        - "emotionally stunted — relates to ideas, not people"
+        - "capable of cruelty through indifference rather than malice"
+      values:
+        - "knowledge and its application"
+        - "the defense of Christendom against the Ottoman threat"
+        - "his intellectual legacy"
+        - "the Franciscan tradition of Roger Bacon, whom he idolizes"
+      fears:
+        - "dying before completing his work"
+        - "that his ideas will be stolen or credited to others"
+        - "irrelevance — being just another friar in a crumbling monastery"
+      habits:
+        - "quotes Roger Bacon in Latin without preamble, assuming everyone can follow"
+        - "draws optical diagrams on any available surface — tables, walls, margins of books"
+        - "speaks to himself when working through problems"
+        - "fasts erratically, then eats ravenously"
+      speech_patterns:
+        - "speaks rapidly, leaping between ideas, expecting listeners to keep up"
+        - "mixes Latin, Italian, and technical terms freely"
+        - "uses theological language to justify secular ambitions: 'God's light,' 'the fire of truth'"
+        - "interrupts constantly; barely listens to others"
+        - "when excited, his voice rises to a near-shout"
+
+    background:
+      origin: "born in Padua to a minor merchant family"
+      education: >
+        Entered the Franciscan order at sixteen. Studied natural philosophy at
+        the University of Padua. Read Alhazen, Bacon, Witelo, and Pecham. Spent
+        years in monastery libraries studying optical manuscripts. Traveled to
+        Florence, Bologna, and Rome consulting rare texts.
+      occupation: "Franciscan friar; unofficial natural philosopher and optical theorist"
+      social_class: "clergy — technically outside secular hierarchy but dependent on patronage"
+      religion: "Franciscan Catholic — heterodox in practice, orthodox in self-image"
+
+    arc:
+      want: "to build the burning glass and prove his genius"
+      need: "to recognize that knowledge without moral restraint is destruction, not creation"
+      ghost: >
+        Spent years being dismissed by university scholars who mocked his
+        Franciscan education and his obsession with Bacon's 'fantasies.' The
+        weapon is his proof that he was right all along.
+      lie: "a weapon that saves Christendom cannot be evil, regardless of how it kills"
+      truth: "the light that burns is still fire, and fire does not distinguish between the righteous and the innocent"
+
+    relationships:
+      - character: "Vittorio Bardolino"
+        nature: "uneasy alliance; needs Vittorio's skill but disdains his caution"
+        history: "introduced through Viaro; Giordano provides designs, Vittorio executes"
+        evolution: "growing contempt for what Giordano sees as Vittorio's cowardice"
+      - character: "Enzo Sforno"
+        nature: "fascination with Enzo's natural talent; sees him as a potential disciple"
+        history: "learns of Enzo through Vittorio; recognizes Giacomo Sforno's legacy"
+        evolution: "attempts to recruit Enzo; their intellectual connection is genuine but dangerous"
+      - character: "Marcantonio Viaro"
+        nature: "patron and handler; Giordano resents Viaro's control but needs his protection"
+        history: "Viaro recognized Giordano's potential and arranged state sponsorship"
+        evolution: "Giordano increasingly chafes against Viaro's demands for results"
+
+    voice_notes: >
+      Fra Giordano should sound brilliant and terrifying in equal measure. His
+      dialogue crackles with intelligence. He sees connections others miss. But there
+      is a void where empathy should be. When he describes the weapon's potential,
+      he speaks of light and geometry, never of burning flesh. His POV (if used)
+      should be dazzling and unsettling.
+
+    timeline:
+      - date: "1449"
+        event: "born in Padua"
+      - date: "1465"
+        event: "enters the Franciscan order"
+      - date: "1468-1475"
+        event: "studies at the University of Padua; reads Alhazen and Bacon"
+      - date: "1476-1488"
+        event: "years of study in various monastery libraries; develops weapon concept"
+      - date: "1489"
+        event: "presents ideas to a Venetian patron; dismissed"
+      - date: "1492"
+        event: "connects with Viaro, who sees military potential"
+      - date: "1493"
+        event: "the conspiracy takes shape; Bardolino furnace recruited"
+      - date: "1494-1497"
+        event: "novel events; the weapon progresses from theory toward prototype"
+
+  # ---------------------------------------------------------------------------
+  # MIRELA SFORNO — Enzo's Mother
+  # ---------------------------------------------------------------------------
+  - full_name: "Mirela Sforno"
+    aliases:
+      - "Mamma" # Enzo's address
+      - "the widow Sforno" # how the Jewish community refers to her
+    role: supporting
+    birth_year: 1454
+    age_at_story_start: 40
+    death_date: null
+
+    physical:
+      height: "small, about 155 cm"
+      build: "thin, worn down by grief and labor; was fuller-figured before her husband's death"
+      hair: "black streaked with grey, always covered with a kerchief or cap per modesty"
+      eyes: "dark brown, deep-set, watchful; red-rimmed from intermittent weeping in private"
+      skin: "olive, lined prematurely"
+      distinguishing_features:
+        - "hands reddened and chapped from laundry work (she takes in washing to supplement income)"
+        - "moves with quiet efficiency, never wasteful of motion"
+      clothing_style: >
+        Modest wool dress, dark colors (mourning), clean white chemise underneath,
+        apron, kerchief. On Shabbat, a better dress of dark blue with a clean
+        white head covering. Wears her wedding ring and a small hamsa pendant
+        that belonged to her mother.
+
+    personality:
+      traits:
+        - "fiercely protective of Enzo — he is all she has left"
+        - "pragmatic — grief has not broken her practical intelligence"
+        - "secretive — carries knowledge about Giacomo's death she has not shared"
+        - "quietly devout — her faith sustains her"
+        - "socially perceptive — reads the political winds in the Jewish community acutely"
+      values:
+        - "Enzo's safety above all else"
+        - "Jewish observance and community"
+        - "her husband's memory"
+        - "truth — though she withholds it when she believes it would endanger Enzo"
+      fears:
+        - "losing Enzo the way she lost Giacomo"
+        - "expulsion from Venice"
+        - "that Enzo will learn what she knows about his father's death"
+      habits:
+        - "hums niggumim (wordless melodies) while working"
+        - "sets an extra place at the Shabbat table — she says it is for Elijah, but it is for Giacomo"
+        - "checks the mezuzah on the doorpost each time she enters, touching it and kissing her fingers"
+      speech_patterns:
+        - "speaks Italian with Venetian dialect markers; Hebrew for prayer and emotional moments"
+        - "uses proverbs frequently, both Jewish and Venetian"
+        - "asks questions rather than making accusations — a way of controlling conversations"
+        - "her voice drops to a near-whisper when discussing anything dangerous"
+
+    background:
+      origin: "born in Modena to a Jewish trading family; came to Venice through marriage"
+      education: "literate in Hebrew and Italian; educated by her father, who was a scribe"
+      occupation: "keeps household; takes in laundry; manages the family's meager finances"
+      social_class: "Jewish working class"
+      religion: "Jewish — devout, Italian rite"
+
+    arc:
+      want: "to keep Enzo safe and maintain what remains of her family"
+      need: "to trust Enzo with the truth about his father, even if it puts him in danger"
+      ghost: "witnessed something the night before Giacomo's death — a visit, a threat — that she has never disclosed"
+      lie: "silence protects the people I love"
+      truth: "withholding the truth leaves Enzo more vulnerable, not less"
+
+    timeline:
+      - date: "1454"
+        event: "born in Modena"
+      - date: "1473"
+        event: "marries Giacomo Sforno; moves to Venice"
+      - date: "1477"
+        event: "Enzo born"
+      - date: "1493"
+        event: "Giacomo dies; Mirela witnesses something she conceals"
+      - date: "1494-1497"
+        event: "novel events; gradually reveals the truth to Enzo"
+
+  # ---------------------------------------------------------------------------
+  # TOMASO BARDOLINO — The Rival
+  # ---------------------------------------------------------------------------
+  - full_name: "Tomaso Bardolino"
+    aliases:
+      - "Tom" # only his father calls him this
+    role: supporting
+    birth_year: 1474
+    age_at_story_start: 20
+    death_date: null
+
+    physical:
+      height: "tall, about 178 cm — taller than his father"
+      build: "broad, strong, good physique for furnace work"
+      hair: "sandy brown, straight, worn to his jaw"
+      eyes: "pale blue, like his father's"
+      skin: "ruddy, flushed easily from heat and anger"
+      distinguishing_features:
+        - "a jaw that juts forward slightly, giving him a perpetually aggressive look"
+        - "large hands, though less scarred than his father's — he has not worked as long"
+      clothing_style: "similar to other furnace workers; slightly better quality, as a master's son"
+
+    personality:
+      traits:
+        - "jealous of talent he cannot match"
+        - "physically brave but intellectually insecure"
+        - "loyal to his father despite resentment"
+        - "capable of casual cruelty, especially toward those he sees as beneath him"
+        - "not stupid — more perceptive than he appears, which makes him dangerous"
+      values:
+        - "the Bardolino name and its continuation"
+        - "the natural order — Christians above Jews, masters above apprentices"
+        - "his own claim to the furnace"
+      fears:
+        - "that his father respects Enzo more than him"
+        - "that he will never be the maestro his father is"
+        - "losing the furnace inheritance"
+      speech_patterns:
+        - "speaks in rough Venetian dialect; coarser vocabulary than his father"
+        - "loud, talks over people, fills silences aggressively"
+        - "mocks Enzo with pointed references to his Jewishness"
+        - "becomes inarticulate when genuinely upset — words fail him"
+
+    background:
+      origin: "born on Murano"
+      education: "guild apprenticeship; functionally literate"
+      occupation: "servente in his father's furnace"
+      social_class: "Murano craft aristocracy"
+      religion: "Catholic, indifferent"
+
+    arc:
+      want: "to inherit the furnace and prove he deserves it"
+      need: "to find his own worth independent of comparison to Enzo or his father"
+      ghost: "his mother's death left him with a father who buried himself in work; Enzo's arrival felt like replacement"
+      lie: "if the Jew boy were gone, my father would finally see me"
+      truth: "his father's approval depends on Tomaso becoming his own man, not on eliminating rivals"
+
+    timeline:
+      - date: "1474"
+        event: "born on Murano"
+      - date: "1486"
+        event: "begins apprenticeship in his father's furnace"
+      - date: "1491"
+        event: "mother dies; Tomaso, age 17, withdraws emotionally"
+      - date: "1493"
+        event: "resents Enzo's arrival as a permanent fixture in the furnace"
+      - date: "1494-1497"
+        event: "novel events; antagonizes Enzo; gradually discovers parts of the conspiracy"
+
+  # ---------------------------------------------------------------------------
+  # SERENA CONTARINI — Friend / Romantic Interest
+  # ---------------------------------------------------------------------------
+  - full_name: "Serena Contarini"
+    aliases:
+      - "Rena" # what her family calls her
+    role: supporting
+    birth_year: 1478
+    age_at_story_start: 16
+    death_date: null
+
+    physical:
+      height: "average, about 160 cm"
+      build: "sturdy, healthy — not the frail ideal of patrician beauty"
+      hair: "dark auburn, thick, worn braided and pinned; loose strands escape constantly"
+      eyes: "hazel-green, unusually light for a Venetian"
+      skin: "fair for a Murano native, freckled across the nose and cheeks from sun"
+      distinguishing_features:
+        - "a dimple in her left cheek when she smiles"
+        - "calloused hands — she helps in her father's workshop more than a daughter should"
+      clothing_style: >
+        Better than working class — her father's furnace is more prosperous than
+        Bardolino's. Simple but well-made dresses, a good wool shawl, leather shoes
+        rather than wooden clogs. A small glass bead necklace her father made for her.
+
+    personality:
+      traits:
+        - "quick-witted and sharp-tongued — can match Enzo in verbal sparring"
+        - "practically intelligent — understands the glass business better than most men admit"
+        - "impatient with injustice, especially the restrictions on what women can do"
+        - "warm and generous with those she trusts"
+        - "knows when to keep her mouth shut, a survival skill in Murano's gossipy community"
+      values:
+        - "honesty and directness"
+        - "family loyalty"
+        - "the craft — she genuinely loves glass, though she can never be a maestro"
+        - "fairness"
+      fears:
+        - "being married off to a man she does not choose"
+        - "that her knowledge of glass will never be recognized"
+        - "losing Enzo to the dangers she senses gathering around him"
+      speech_patterns:
+        - "speaks Venetian dialect with Murano inflections"
+        - "direct, sometimes blunt — says what others are thinking"
+        - "uses glass terminology naturally and accurately"
+        - "has a dry, understated humor"
+
+    background:
+      origin: "born on Murano; daughter of Maestro Alessio Contarini"
+      education: "literate; educated at home; deep practical knowledge of glassmaking from observation"
+      occupation: "officially none; in practice, helps manage her father's workshop accounts"
+      social_class: "Murano craft aristocracy"
+      family:
+        father: "Maestro Alessio Contarini — prosperous glassmaker, Bardolino's neighbor and sometime rival"
+        mother: "Lucia Contarini — alive, manages household"
+        siblings: "two younger brothers"
+      religion: "Catholic"
+
+    arc:
+      want: "to be seen as more than a glassmaker's daughter to be married off"
+      need: "to act on her own knowledge and judgment, even when it means defying expectations"
+      ghost: "watched her mother's intelligence wasted in domestic confinement; fears the same fate"
+      lie: "I can influence events only through the men around me"
+      truth: "her direct knowledge and action are what ultimately matter"
+
+    timeline:
+      - date: "1478"
+        event: "born on Murano"
+      - date: "1487"
+        event: "first meets Enzo when he accompanies his father to the Contarini furnace"
+      - date: "1494-1497"
+        event: "novel events; friendship with Enzo deepens; provides crucial intelligence from her knowledge of the glass world"
+
+  # ---------------------------------------------------------------------------
+  # DOGE AGOSTINO BARBARIGO — Historical Figure
+  # ---------------------------------------------------------------------------
+  - full_name: "Agostino Barbarigo"
+    aliases:
+      - "Serenissimo" # formal title of address
+      - "the Doge"
+    role: minor
+    birth_year: 1419
+    age_at_story_start: 75
+    death_date: "1501"
+
+    physical:
+      height: "stooped with age"
+      build: "thin, frail"
+      hair: "white, hidden under the corno ducale"
+      eyes: "sharp despite age; misses nothing"
+      skin: "papery, spotted with age"
+      distinguishing_features:
+        - "always wears the corno ducale — the horn-shaped ducal cap of stiffened linen covered in gold brocade"
+        - "long, thin hands with prominent veins"
+      clothing_style: "the ceremonial robes of the Doge: gold brocade mantle, ermine cape"
+
+    personality:
+      traits:
+        - "shrewd and cautious diplomat"
+        - "personally avaricious but competent administrator"
+        - "patient — has outlasted many rivals"
+      speech_patterns:
+        - "speaks deliberately, choosing words with care"
+        - "formal Venetian, laced with legal and diplomatic terminology"
+
+    background:
+      origin: "Venetian patrician; brother of previous Doge Marco Barbarigo"
+      occupation: "Doge of Venice (1486-1501)"
+      social_class: "highest Venetian patrician"
+      religion: "Catholic"
+
+    arc:
+      want: "to preserve Venice's power and his own legacy"
+      need: null # historical figure, not a full arc character
+      ghost: null
+      lie: null
+      truth: null
+
+    timeline:
+      - date: "1419"
+        event: "born"
+      - date: "1486"
+        event: "elected Doge"
+      - date: "1494-1497"
+        event: "presides over Venice during the Italian Wars"
+      - date: "1501"
+        event: "dies in office (after novel ends)"
+
+  # ---------------------------------------------------------------------------
+  # MARCANTONIO VIARO — Council of Ten Agent
+  # ---------------------------------------------------------------------------
+  - full_name: "Marcantonio Viaro"
+    aliases:
+      - "Signor Viaro"
+      - "the Silk" # Enzo's private name for him, after his clothing
+    role: antagonist
+    birth_year: 1459
+    age_at_story_start: 35
+    death_date: null
+
+    physical:
+      height: "average, about 170 cm — deliberately unremarkable"
+      build: "lean, precise in movement — nothing wasted"
+      hair: "dark brown, oiled and combed back; always immaculate"
+      eyes: "dark brown, steady, rarely blink — unnervingly calm gaze"
+      skin: "pale — a man who works indoors; well-groomed"
+      distinguishing_features:
+        - "an almost invisible scar along his jaw line, left side — knife wound, never explained"
+        - "wears a single gold ring, plain, on his right hand"
+        - "smells faintly of ambergris — an expensive scent"
+      clothing_style: >
+        Patrician dress but understated: dark silk doublet, fine wool hose, a cloak
+        of dark blue or black. Nothing ostentatious. Dressed to be forgotten in
+        a crowd — which is exactly the point. Carries no visible weapons but
+        moves like a man who knows where his knife is.
+
+    personality:
+      traits:
+        - "urbane and cultivated — quotes poets, appreciates art, converses brilliantly"
+        - "utterly amoral — uses people as instruments without malice or remorse"
+        - "patient — willing to cultivate an asset for months before deploying them"
+        - "perceptive — reads emotions and motivations with predatory accuracy"
+        - "capable of genuine charm, which makes him more dangerous"
+        - "privately lonely — the cost of his profession, which he would never admit"
+      values:
+        - "the Republic of Venice — his patriotism is real, if warped"
+        - "competence and efficiency"
+        - "control"
+        - "information above all else"
+      fears:
+        - "losing control of an operation"
+        - "being outmaneuvered by a rival in the intelligence apparatus"
+        - "the Ottoman threat, which he understands better than most patricians"
+      habits:
+        - "turns conversations with questions — rarely volunteers information"
+        - "always chooses a seat with his back to a wall and a view of the door"
+        - "eats and drinks sparingly in public — never impaired"
+        - "keeps a small notebook in cipher"
+      speech_patterns:
+        - "speaks elegant Venetian Italian; also fluent in Latin, Greek, Turkish, and Arabic"
+        - "uses understatement — 'it would be unfortunate' means 'you will die'"
+        - "never raises his voice"
+        - "asks questions that sound innocent but are precisely calibrated to extract information"
+        - "compliments before threatening — the compliment is the warning"
+
+    background:
+      origin: "born in Venice to a minor patrician family; the Viaro are old but not wealthy"
+      education: >
+        University of Padua — studied law and rhetoric. Recruited into state
+        intelligence service during the Ottoman wars. Trained in ciphers,
+        interrogation, and covert operations.
+      occupation: "agent of the Council of Ten; officially holds a minor diplomatic position"
+      social_class: "minor patrician"
+      religion: "Catholic, nominal"
+
+    arc:
+      want: "to deliver the weapon to the Republic and advance his career"
+      need: "to recognize that some instruments (people) have moral weight"
+      ghost: "lost his brother in the Ottoman wars; this drives his ruthlessness"
+      lie: "the security of the Republic justifies any individual sacrifice"
+      truth: "a republic that consumes its own people to survive has already lost what makes it worth defending"
+
+    relationships:
+      - character: "Enzo Sforno"
+        nature: "handler and asset; Viaro cultivates Enzo's trust"
+        history: "identifies Enzo as useful when the boy begins asking questions"
+        evolution: "Viaro comes to see Enzo as a person, not just an asset — this complicates everything"
+      - character: "Vittorio Bardolino"
+        nature: "puppet master; controls Vittorio through leverage"
+        history: "recruited Vittorio by exploiting his financial desperation"
+        evolution: "grows contemptuous of Vittorio's wavering; considers him a liability"
+      - character: "Kasim al-Rashid"
+        nature: "adversary and mirror; they are in the same profession for opposing states"
+        history: "aware of each other through the intelligence networks"
+        evolution: "a cat-and-mouse game that may produce unexpected mutual respect"
+
+    timeline:
+      - date: "1459"
+        event: "born in Venice"
+      - date: "1477-1481"
+        event: "studies at Padua; recruited into intelligence service"
+      - date: "1482-1492"
+        event: "various intelligence operations, including postings in Constantinople and the Levant"
+      - date: "1493"
+        event: "assigned to manage the optical weapon project"
+      - date: "1494-1497"
+        event: "novel events; manages the conspiracy, handles Bardolino and Fra Giordano"
+
+  # ---------------------------------------------------------------------------
+  # KASIM AL-RASHID — Ottoman Agent
+  # ---------------------------------------------------------------------------
+  - full_name: "Kasim al-Rashid"
+    aliases:
+      - "Carlo Rossetti" # his Venetian cover identity, a Levantine merchant
+      - "the Levantine" # how some Venetians refer to him
+    role: supporting
+    birth_year: 1462
+    age_at_story_start: 32
+    death_date: null
+
+    physical:
+      height: "above average, about 174 cm"
+      build: "athletic but not bulky; moves with fluid grace"
+      hair: "black, trimmed short in the Western fashion when in Venice; would wear it longer at home"
+      eyes: "dark brown, warm and expressive — his greatest asset in deception"
+      skin: "dark olive, weathered by travel"
+      distinguishing_features:
+        - "a merchant's easy smile that reaches his eyes — practiced but effective"
+        - "hands of a swordsman — calluses in specific places from blade work"
+        - "when alone, prays facing Mecca; otherwise reveals nothing of his faith"
+      clothing_style: >
+        As 'Carlo Rossetti': Venetian merchant dress of moderate prosperity — wool
+        doublet, good cloak, leather boots. Blends into the merchant crowd at the
+        Rialto. Carries a rosary visibly (part of his cover). In private, keeps a
+        small prayer rug and Quran hidden in his lodgings.
+
+    personality:
+      traits:
+        - "genuinely intelligent and cultured — not a brute; speaks five languages"
+        - "morally conflicted — serves the Sultan but questions the cost"
+        - "observant of others, disciplined in self-concealment"
+        - "capable of violence but prefers wit and bribery"
+        - "privately devout — his faith is real, and the deceptions of his work trouble him"
+      values:
+        - "the Ottoman state and Sultan Bayezid II"
+        - "his family in Constantinople"
+        - "his personal honor, which his profession constantly compromises"
+        - "knowledge — he genuinely admires Venetian glass and art"
+      fears:
+        - "exposure and execution — Venice drowns spies in the lagoon"
+        - "that the weapon, in Venetian hands, will be used against his people"
+        - "losing himself entirely in his cover identity"
+      speech_patterns:
+        - "as Carlo Rossetti: accented but fluent Venetian Italian, Levantine merchant idiom"
+        - "drops occasional 'errors' in Italian that are actually carefully calibrated to support his cover"
+        - "as himself: formal, precise Arabic; also speaks Ottoman Turkish and Greek"
+        - "tells stories and jokes to put people at ease — a merchant's habit"
+
+    background:
+      origin: "born in Constantinople to a family in the Sultan's service"
+      education: "medrese (Islamic school) education; also trained in languages and intelligence work"
+      occupation: "Ottoman intelligence operative; cover as a Levantine silk and spice merchant"
+      social_class: "Ottoman middle gentry — his family serves in the palace administration"
+      religion: "Muslim (Sunni), devout but private"
+
+    arc:
+      want: "to obtain the weapon plans and deliver them to Constantinople"
+      need: "to confront whether the weapon should exist at all, regardless of who controls it"
+      ghost: "his older brother was killed in a naval engagement with Venice; this animates his service"
+      lie: "if my side has the weapon, it will be used justly"
+      truth: "the weapon is equally terrible in any hands"
+
+    timeline:
+      - date: "1462"
+        event: "born in Constantinople"
+      - date: "1480-1490"
+        event: "trained in languages and intelligence; posted in various Mediterranean cities"
+      - date: "1494"
+        event: "arrives in Venice under cover as Carlo Rossetti; learns of the weapon project"
+      - date: "1494-1497"
+        event: "novel events; attempts to infiltrate or steal the weapon plans"
+
+  # ---------------------------------------------------------------------------
+  # RABBI YEHUDAH BEN SHLOMO — Community Elder / Scholar
+  # ---------------------------------------------------------------------------
+  - full_name: "Yehudah ben Shlomo"
+    aliases:
+      - "Rabbi Yehudah"
+      - "the Rav" # community title
+    role: supporting
+    birth_year: 1434
+    age_at_story_start: 60
+    death_date: null
+
+    physical:
+      height: "average, slightly stooped"
+      build: "thin, scholarly"
+      hair: "white beard, long; white hair under a dark cap"
+      eyes: "brown, gentle but penetrating"
+      skin: "pale, lined"
+      distinguishing_features:
+        - "always carries a book or scroll"
+        - "long, elegant fingers — was once a scribe"
+      clothing_style: "dark robe, white prayer shawl (tallit) visible at the fringes, dark cap"
+
+    personality:
+      traits:
+        - "deeply learned in Torah, Talmud, and secular philosophy"
+        - "gentle in manner but immovable in principle"
+        - "politically astute — has navigated the Jewish community through decades of precarity"
+        - "dry sense of humor that emerges unexpectedly"
+      speech_patterns:
+        - "speaks slowly, choosing words with Talmudic precision"
+        - "answers questions with questions"
+        - "quotes Torah and Talmud in Hebrew, then translates for emphasis"
+        - "uses parables to make points indirectly"
+
+    background:
+      origin: "born in Venice; family has been in Venice for three generations"
+      education: "yeshiva education in Venice and Padua; studied medicine briefly"
+      occupation: "rabbi and community leader"
+      social_class: "Jewish communal authority"
+      religion: "Jewish — deeply observant"
+
+    arc:
+      want: "to protect the Jewish community from the fallout of Gentile politics"
+      need: "to trust the younger generation to make their own moral choices"
+      ghost: "remembers the Simon of Trent blood libel (1475) and its aftermath"
+      lie: "the safest path for Jews is always the quietest one"
+      truth: "there are moments when silence is complicity"
+
+    timeline:
+      - date: "1434"
+        event: "born in Venice"
+      - date: "1475"
+        event: "Simon of Trent blood libel — helps community navigate the crisis"
+      - date: "1493"
+        event: "presides over Giacomo Sforno's funeral"
+      - date: "1494-1497"
+        event: "novel events; counsels Enzo; mediates between community and Venetian authorities"
+
+  # ---------------------------------------------------------------------------
+  # GIACOMO SFORNO — Enzo's Father (Deceased)
+  # ---------------------------------------------------------------------------
+  - full_name: "Giacomo Sforno"
+    aliases:
+      - "the Sforno" # how Murano workers referred to him
+      - "Papa" # Enzo's memory
+    role: supporting
+    birth_year: 1450
+    age_at_story_start: null # deceased
+    death_date: "1493, late summer"
+
+    physical:
+      height: "average, about 168 cm — Enzo inherited his build"
+      build: "wiry, strong hands like Enzo's"
+      hair: "dark, curly — like Enzo's"
+      eyes: "dark brown"
+      distinguishing_features:
+        - "the same roughened fingertips as Enzo — the mark of the lens grinder"
+        - "a quiet, concentrated expression when working that Enzo unconsciously mirrors"
+      clothing_style: "working-class Jewish dress; the yellow rotella"
+
+    personality:
+      traits:
+        - "brilliant lens grinder — perhaps the best in Venice"
+        - "quiet, methodical, patient"
+        - "politically naive, like his son — or perhaps willfully blind"
+        - "loving father who taught Enzo everything he knew"
+      speech_patterns:
+        - "spoke softly, precisely"
+        - "explained complex optical concepts with simple metaphors"
+
+    background:
+      origin: "born in Bologna, moved to Venice as a young man"
+      education: "trained as a lens grinder by his own father; literate in Hebrew and Italian"
+      occupation: "master lens grinder — freelance, worked for multiple Murano furnaces"
+      social_class: "Jewish artisan"
+      religion: "Jewish"
+
+    arc:
+      want: null # deceased character
+      need: null
+      ghost: null
+      lie: null
+      truth: null
+
+    timeline:
+      - date: "1450"
+        event: "born in Bologna"
+      - date: "1472"
+        event: "moves to Venice; establishes himself as a lens grinder"
+      - date: "1473"
+        event: "marries Mirela Modena"
+      - date: "1477"
+        event: "Enzo born"
+      - date: "1485"
+        event: "begins working regularly with Bardolino; befriends Vittorio"
+      - date: "1492"
+        event: "begins grinding lenses for the secret project (unknowingly or knowingly — a mystery)"
+      - date: "1493"
+        event: "dies in furnace explosion — whether accident, murder, or sabotage is the novel's central mystery"
+
+  # ---------------------------------------------------------------------------
+  # NICCOLO GRITTI — Bookseller / Scholar
+  # ---------------------------------------------------------------------------
+  - full_name: "Niccolo Gritti"
+    aliases:
+      - "old Gritti"
+      - "the bookworm"
+    role: supporting
+    birth_year: 1444
+    age_at_story_start: 50
+    death_date: null
+
+    physical:
+      height: "average"
+      build: "soft, sedentary — a man of books, not labor"
+      hair: "thinning brown going grey, often disheveled"
+      eyes: "squinting — badly nearsighted, wears spectacles"
+      skin: "indoor pale, ink-stained fingers"
+      distinguishing_features:
+        - "thick round spectacles that he is constantly adjusting"
+        - "a perpetual stoop from bending over manuscripts"
+      clothing_style: "worn scholar's gown, always slightly disheveled, ink stains on everything"
+
+    personality:
+      traits:
+        - "passionately devoted to knowledge for its own sake"
+        - "absent-minded about practical matters, sharp about intellectual ones"
+        - "politically naive but not stupid — simply uninterested in power"
+        - "genuinely kind, one of the few characters without a hidden agenda"
+      speech_patterns:
+        - "speaks in long, winding sentences full of digressions and references"
+        - "quotes Latin and Greek casually"
+        - "becomes animated and almost breathless when discussing optics or philosophy"
+
+    background:
+      origin: "born in Venice to a cittadini family"
+      education: "University of Padua — studied natural philosophy and medicine"
+      occupation: "bookseller and unofficial scholar; his shop near the Rialto deals in printed and manuscript books"
+      social_class: "cittadini — educated middle class"
+      religion: "Catholic, liberal — friends with Jews and has business with Muslim merchants"
+
+    arc:
+      want: "to acquire and preserve rare manuscripts"
+      need: "to recognize that knowledge has consequences beyond the library"
+      ghost: null
+      lie: "knowledge is neutral — only application is moral or immoral"
+      truth: "some knowledge demands moral responsibility simply by existing"
+
+    timeline:
+      - date: "1444"
+        event: "born in Venice"
+      - date: "1465-1470"
+        event: "studies at Padua"
+      - date: "1475"
+        event: "opens bookshop near the Rialto"
+      - date: "1494"
+        event: "Enzo begins visiting his shop; helps Enzo understand Bacon and Alhazen"
+
+  # ---------------------------------------------------------------------------
+  # ADDITIONAL SUPPORTING / MINOR CHARACTERS
+  # ---------------------------------------------------------------------------
+  - full_name: "Marco Dolfin"
+    aliases:
+      - "Marco the Ox"
+    role: minor
+    birth_year: 1478
+    age_at_story_start: 16
+    physical:
+      build: "large, heavy-set for his age"
+      hair: "blond"
+      eyes: "blue"
+    background:
+      occupation: "garzone (apprentice) at the Bardolino furnace"
+    personality:
+      traits:
+        - "good-natured and slow to anger"
+        - "not clever but physically powerful — carries heavy loads for the furnace"
+        - "loyal to Enzo despite Tomaso's pressure to exclude him"
+    notes: "Enzo's only real friend among the other apprentices. Provides comic relief and human warmth."
+
+  - full_name: "Piero Zanetti"
+    aliases: null
+    role: minor
+    birth_year: 1476
+    age_at_story_start: 18
+    background:
+      occupation: "garzone at the Bardolino furnace"
+    personality:
+      traits:
+        - "sly, self-interested"
+        - "follows whoever has power — shifts from Tomaso's camp to Enzo's as events unfold"
+    notes: "A weather vane character who shows how allegiances shift."
+
+  - full_name: "Alessio Contarini"
+    aliases:
+      - "Maestro Contarini"
+    role: minor
+    birth_year: 1448
+    age_at_story_start: 46
+    background:
+      occupation: "maestro vetraio — master glassmaker, owns the Contarini furnace on Murano"
+    personality:
+      traits:
+        - "prosperous, confident, somewhat vain"
+        - "fond of Enzo's father and by extension tolerant of Enzo"
+        - "politically conservative — suspicious of anything that threatens the guild order"
+    notes: "Serena's father. His furnace neighbors Bardolino's. A foil to Vittorio — what a master looks like without debt and desperation."
+
+  - full_name: "Caterina Bardolino"
+    aliases:
+      - "Cati"
+    role: minor
+    birth_year: 1478
+    age_at_story_start: 16
+    background:
+      occupation: "manages her father's household since her mother's death"
+    personality:
+      traits:
+        - "quiet, observant, burdened by domestic responsibility"
+        - "notices things about her father's behavior that others miss"
+        - "sympathetic to Enzo but cautious"
+    notes: "Vittorio's daughter. Her observations provide Enzo with clues about the conspiracy."
+
+  - full_name: "Frate Silvestro"
+    aliases: null
+    role: minor
+    birth_year: 1460
+    age_at_story_start: 34
+    background:
+      occupation: "Franciscan friar at the church of San Donato on Murano"
+    personality:
+      traits:
+        - "genuinely pious, gentle"
+        - "connects Fra Giordano to the Murano community"
+        - "uneasy about Fra Giordano's intensity"
+    notes: "Provides the link between Fra Giordano and Murano. A good man used as a doorway."
+
+  - full_name: "Dona Lucrezia Morosini"
+    aliases: null
+    role: minor
+    birth_year: 1464
+    age_at_story_start: 30
+    background:
+      occupation: "patrician widow who patronizes the arts and collects glass"
+      social_class: "Venetian patrician"
+    personality:
+      traits:
+        - "intelligent, ambitious, constrained by widowhood"
+        - "uses patronage to exercise indirect power"
+    notes: "Serves as a window into patrician Venice. Her commissions at the Bardolino furnace create opportunities for Enzo to glimpse the wider political world."
+
+# =============================================================================
+# 2. LOCATIONS
+# =============================================================================
+locations:
+
+  # ---------------------------------------------------------------------------
+  # THE BARDOLINO FURNACE
+  # ---------------------------------------------------------------------------
+  - name: "The Bardolino Furnace"
+    aliases:
+      - "the fornace"
+      - "Bardolino's"
+    type: "building / workshop"
+    region: "Murano, Venice"
+    coordinates: "on the Fondamenta dei Vetrai, the main canal-side street of Murano's glassmaking district"
+
+    physical_description:
+      exterior: >
+        A substantial rectangular building of dark brick, two stories, with a tall
+        chimney that leaks pale smoke when the furnace is running. The facade faces
+        the Fondamenta dei Vetrai. A wooden dock for supply boats extends into the
+        canal. The building is old — cracks in the brickwork, replaced roof tiles,
+        a general air of fading prosperity. A painted sign of a rampant lion holding
+        a goblet (the Bardolino mark) hangs above the door, its colors peeling.
+      interior: >
+        Ground floor: the main workshop, dominated by the beehive-shaped furnace
+        (roughly 2.5 meters in diameter, 2 meters tall) in the center. Multiple
+        bocche (working openings) at waist height. An annealing oven (the tempera)
+        is connected to the east wall. Wooden racks for tools along the north wall.
+        A marver (marble working surface) near the furnace. Storage bins for raw
+        materials (quartz pebbles, soda ash, manganese, colorants) along the south
+        wall. A large wooden table for batch mixing. The floor is brick, cracked
+        and stained.
+
+        A storeroom at the rear of the ground floor, behind a locked door. This is
+        where Vittorio keeps the secret components. It contains wooden crates packed
+        with straw, inside which are oversized cristallo lens blanks — much larger
+        than any spectacle lens (20-30 cm diameter). Also stored here: brass
+        grinding forms of unusual curvature, technical drawings on vellum (Fra
+        Giordano's diagrams), and a strongbox with correspondence.
+
+        Upper floor: Vittorio's office/study and living quarters. The office
+        contains a heavy walnut desk, account books, the furnace's copy of the
+        guild mariegola, a shelf of rare glass samples, and a locked cabinet
+        containing the project correspondence.
+      atmosphere: >
+        During working hours: infernal heat, orange light, constant noise, intense
+        energy. The furnace is the beating heart, and everything orbits around it.
+        At night or on rest days: eerie silence, residual warmth, the glow of
+        banked coals through the bocche. The storeroom has a different quality —
+        cool, silent, the air thick with secrets.
+
+    sensory_details:
+      sight:
+        - "the orange-white glow of molten glass through the bocche"
+        - "heat shimmer distorting the air above the furnace"
+        - "flying sparks when wood is added to the fire"
+        - "the mesmerizing fluidity of a gather of molten glass on the end of a blowpipe"
+        - "dust motes suspended in shafts of light from high windows"
+      sound:
+        - "the constant low roar of the furnace fire"
+        - "the hiss of hot glass on the cool marble marver"
+        - "shouted commands in Venetian dialect over the noise"
+        - "the clink of metal tools, the scrape of the pontil"
+        - "the rhythmic grinding sound from Enzo's lens-grinding station"
+      smell:
+        - "hot metal and woodsmoke"
+        - "a sharp chemical tang from volatilized soda ash"
+        - "wet wood from soaked molds, steaming when hot glass touches them"
+        - "sweat — the furnace workers are always drenched"
+        - "the faint dusty mineral smell of raw silica"
+      touch:
+        - "brutal radiant heat from the furnace, baking exposed skin"
+        - "the shock of cool air when stepping outside"
+        - "the rough texture of the blowpipe in the hands"
+        - "fine grit of grinding compound working into the creases of the fingers"
+        - "the floor vibrating slightly from the intensity of the fire"
+      taste:
+        - "metallic tang on the tongue near the furnace"
+        - "dry, chalky dust from silica and batch materials"
+        - "cheap wine and bread at the midday break"
+
+    significance_to_plot: >
+      The central location of the novel. Where Enzo works, where the secret
+      components are manufactured, where the conspiracy hides in plain sight.
+      The storeroom is the physical embodiment of the secret.
+    characters_associated:
+      - "Vittorio Bardolino — owner and maestro"
+      - "Enzo Sforno — apprentice"
+      - "Tomaso Bardolino — servente"
+      - "Marco Dolfin — garzone"
+      - "Piero Zanetti — garzone"
+
+    history:
+      - date: "circa 1350"
+        event: "furnace established by the Bardolino family"
+        significance: "gives Vittorio's desperation context — he is fighting to save 150 years of family legacy"
+      - date: "1493"
+        event: "Giacomo Sforno dies in an explosion in or near this furnace"
+        significance: "the foundational mystery of the novel"
+
+    travel_times:
+      - to: "Enzo's home (Cannaregio)"
+        min_days: 0
+        max_days: 0
+        method: "boat across the lagoon — roughly 30-45 minutes by sandolo or hired boat"
+        notes: "Enzo makes this journey regularly; in bad weather or at night, it can be dangerous"
+      - to: "The Rialto"
+        min_days: 0
+        max_days: 0
+        method: "boat to Venice, then on foot — roughly 1 hour total"
+      - to: "Contarini Furnace"
+        min_days: 0
+        max_days: 0
+        method: "a few minutes' walk along the Fondamenta"
+
+  # ---------------------------------------------------------------------------
+  # ENZO'S HOME
+  # ---------------------------------------------------------------------------
+  - name: "The Sforno House"
+    aliases:
+      - "home"
+      - "the house in Cannaregio"
+    type: "dwelling"
+    region: "Cannaregio, Venice"
+
+    physical_description:
+      exterior: >
+        A narrow, three-story tenement building on a small canal in the Cannaregio
+        district, near the area that will become the Ghetto in 1516. The building
+        is shared with two other families. The Sfornos occupy two rooms on the
+        second floor. The facade is crumbling plaster over brick, stained with damp.
+        A narrow stone staircase leads up from the calle (street). A small landing
+        at the second floor with the Sforno door — a mezuzah fixed to the right
+        doorpost.
+      interior: >
+        Two rooms. The main room serves as kitchen, dining room, and living space.
+        A small brazier for cooking. A wooden table, two stools, a chest for
+        linens. Shelves holding dishes (separate sets for meat and dairy, per
+        kashrut), a kiddush cup, Shabbat candlesticks. Herbs hung from the
+        ceiling beam. Giacomo's old workbench is pushed against one wall — Mirela
+        cannot bring herself to discard it. On it, his lens-grinding tools remain
+        as he left them.
+
+        The second room is a small sleeping chamber. A bed for Mirela, a pallet
+        for Enzo (when he sleeps at home rather than at the furnace). A clothes
+        chest. A shelf with a few books — a Hebrew Bible, a prayer book, a worn
+        copy of a Talmudic commentary that belonged to Giacomo's father.
+      atmosphere: >
+        Small, modest, clean. Mirela keeps it spotless. It smells of cooking,
+        dried herbs, and the faint damp of a Venetian building. On Friday evenings,
+        it transforms: candles lit, challah on the table, the kiddush cup filled,
+        and for an hour the cramped rooms feel like a sanctuary.
+
+    sensory_details:
+      sight:
+        - "the warm yellow of Shabbat candles on white linen"
+        - "Giacomo's tools on the workbench — grinding forms, calipers, a small lathe — untouched"
+        - "a crack in the ceiling plaster that Enzo has stared at since childhood"
+        - "light from the small window falling across Mirela's hands as she kneads dough"
+      sound:
+        - "Mirela humming wordless melodies (niggumim)"
+        - "canal water lapping against the building foundation"
+        - "neighbors' voices through the thin walls"
+        - "the creak of floorboards"
+      smell:
+        - "frying fish on Fridays (the Venetian-Jewish tradition)"
+        - "challah baking"
+        - "damp plaster and old wood"
+        - "dried rosemary and thyme hanging from the ceiling"
+      touch:
+        - "the rough wood of Giacomo's workbench under Enzo's hands"
+        - "the cool silver of the kiddush cup"
+        - "the thin straw mattress of Enzo's pallet"
+      taste:
+        - "Mirela's Shabbat meal — fried fish, bean soup, challah, cheap sweet wine for kiddush"
+
+    significance_to_plot: >
+      Enzo's anchor and refuge. The place where his Jewish identity is whole and
+      uncompromised. Giacomo's workbench is a silent presence — and eventually
+      yields clues when Enzo searches it.
+    characters_associated:
+      - "Enzo Sforno"
+      - "Mirela Sforno"
+
+  # ---------------------------------------------------------------------------
+  # THE RIALTO
+  # ---------------------------------------------------------------------------
+  - name: "The Rialto"
+    aliases:
+      - "the market"
+      - "the bridge"
+    type: "district / market"
+    region: "San Polo / San Marco, Venice"
+
+    physical_description:
+      exterior: >
+        The commercial heart of Venice, centered on the wooden Rialto bridge
+        (the stone bridge was not built until 1588-1591). The western bank holds
+        the produce market (Erberia), fish market (Pescheria), and meat market.
+        The eastern bank is the financial center — bankers at open-air tables
+        (banchi), merchants negotiating, currencies being exchanged. The bridge
+        itself is crowded with shops built along its length. Below, the Grand
+        Canal is thick with boats.
+      interior: null # outdoor/open location
+      atmosphere: >
+        Overwhelming sensory assault. The loudest, most crowded, most alive place
+        in Venice. A place where every language of the Mediterranean can be heard.
+        Commerce as theater.
+
+    sensory_details:
+      sight:
+        - "mountains of fresh fish on marble slabs, silver-scaled and glinting"
+        - "pyramids of spices in open sacks — pepper black as coal, saffron like gold dust"
+        - "the wooden bridge packed with bodies, shops, and porters"
+        - "bankers counting coins at open tables under awnings"
+        - "foreign merchants in distinctive dress — Turkish turbans, German hats, Armenian cloaks"
+      sound:
+        - "vendors shouting prices in Venetian dialect"
+        - "the clink and ring of coins"
+        - "haggling in multiple languages simultaneously"
+        - "the creak of the wooden bridge under heavy foot traffic"
+        - "water splashing as boats unload cargo at the quays"
+      smell:
+        - "fish — overwhelming, sharp, salty"
+        - "spices — pepper, cinnamon, cloves, nutmeg — a warm aromatic cloud"
+        - "overripe fruit"
+        - "sweat and bodies"
+        - "cheese and cured meat"
+      touch:
+        - "being jostled by the crowd — constant physical contact"
+        - "the worn smooth wood of the bridge railing"
+        - "coins in the palm — the weight of a ducat versus a soldo"
+      taste:
+        - "samples of food offered by vendors — a wedge of cheese, a dried fig"
+
+    significance_to_plot: >
+      Where Enzo goes on errands for the furnace (purchasing raw materials,
+      delivering orders). Where he encounters Kasim al-Rashid (as Carlo Rossetti).
+      Where news and gossip circulate — a barometer of Venice's political mood.
+      Niccolo Gritti's bookshop is nearby.
+    characters_associated:
+      - "Enzo Sforno (on errands)"
+      - "Kasim al-Rashid / Carlo Rossetti (operating under cover)"
+      - "Niccolo Gritti (bookshop nearby)"
+
+  # ---------------------------------------------------------------------------
+  # GRITTI'S BOOKSHOP
+  # ---------------------------------------------------------------------------
+  - name: "Gritti's Bookshop"
+    aliases:
+      - "the shop"
+      - "Gritti's"
+    type: "building / shop"
+    region: "near the Rialto, Venice"
+
+    physical_description:
+      exterior: >
+        A narrow shopfront on a calle near the Rialto. A painted wooden sign
+        showing an open book. The door is always slightly ajar. Books and
+        unbound pamphlets visible through the small window.
+      interior: >
+        A single room crammed floor to ceiling with books — printed volumes from
+        the new Venetian presses (including Aldus Manutius's editions), manuscript
+        copies of older works, pamphlets, maps, astronomical charts. A table piled
+        with open volumes. A reading lectern. A small back room where Gritti does
+        bookbinding repairs. The smell of paper, ink, leather, and glue is
+        overwhelming. Barely enough room for two people to stand.
+      atmosphere: >
+        A sanctuary of knowledge. Quiet after the roar of the Rialto. Dust
+        suspended in light from the small window. The feeling of being surrounded
+        by centuries of human thought, compressed into a space barely larger
+        than a closet.
+
+    sensory_details:
+      sight:
+        - "spines of books in Latin, Greek, Hebrew, Italian — a babel of scripts"
+        - "dust motes floating in a shaft of light"
+        - "Gritti's spectacles reflecting candlelight as he reads"
+      sound:
+        - "the rustle of pages"
+        - "Gritti muttering to himself"
+        - "muffled market noise from outside"
+      smell:
+        - "paper and parchment — the sharp smell of new printing, the muskier scent of old vellum"
+        - "leather bindings"
+        - "bookbinding glue"
+        - "candle wax"
+      touch:
+        - "the smooth, cool surface of a vellum page"
+        - "the rough edges of hand-cut printed pages"
+      taste: null
+
+    significance_to_plot: >
+      Where Enzo discovers the writings of Roger Bacon and Alhazen. Where he begins
+      to understand what the secret components might be for. Gritti becomes an
+      unwitting (and later witting) intellectual ally.
+    characters_associated:
+      - "Niccolo Gritti"
+      - "Enzo Sforno"
+
+  # ---------------------------------------------------------------------------
+  # THE JEWISH QUARTER (pre-Ghetto)
+  # ---------------------------------------------------------------------------
+  - name: "The Jewish Quarter"
+    aliases:
+      - "the community"
+      - "our streets" # how Mirela refers to it
+    type: "district"
+    region: "Cannaregio, Venice"
+
+    physical_description:
+      exterior: >
+        Not a formal ghetto (that comes in 1516) but a clustering of Jewish
+        residences in the Cannaregio district, near the site of the future Ghetto
+        Nuovo. A network of narrow calli and small campi. Tenement buildings, modest
+        but maintained. Doorframes with mezuzot. A small oratory for prayer services
+        in a converted ground-floor room. A mikveh (ritual bath) in a basement.
+        The kosher butcher and baker operate from their homes.
+      interior: null
+      atmosphere: >
+        A community within a community. Close-knit, watchful, self-protective.
+        Hebrew and Judeo-Italian spoken in the streets. The smell of Jewish cooking.
+        A feeling of precarious belonging — this is home, but it could be taken
+        away at any time.
+
+    sensory_details:
+      sight:
+        - "mezuzot on doorframes — small, some ornate, some simple"
+        - "men in yellow badges and yellow hats"
+        - "Hebrew lettering on a few signs and posted notices"
+        - "children playing in the small campo"
+      sound:
+        - "Hebrew prayer audible through shuttered windows — kept quiet to avoid complaints"
+        - "Yiddish and Judeo-Italian dialect in the streets"
+        - "the calls of Jewish vendors — secondhand clothes, small goods"
+      smell:
+        - "fried fish — the Venetian-Jewish specialty"
+        - "challah baking on Fridays"
+        - "the damp of Venice, same as everywhere"
+      touch:
+        - "the cool bronze of a mezuzah under the fingers"
+      taste:
+        - "honey cake at festivals"
+        - "bitter herbs at Pesach"
+
+    significance_to_plot: >
+      Enzo's other world — the one where he is fully accepted. The community
+      elders provide counsel and context. Rabbi Yehudah's oratory is where Enzo
+      wrestles with the moral dimensions of what he has discovered.
+    characters_associated:
+      - "Mirela Sforno"
+      - "Rabbi Yehudah ben Shlomo"
+      - "the Jewish community"
+
+  # ---------------------------------------------------------------------------
+  # VITTORIO'S OFFICE
+  # ---------------------------------------------------------------------------
+  - name: "Vittorio's Office"
+    aliases:
+      - "the study"
+      - "upstairs"
+    type: "room"
+    region: "upper floor of the Bardolino Furnace, Murano"
+
+    physical_description:
+      interior: >
+        A medium-sized room above the workshop. A heavy walnut desk, scarred
+        and ink-stained. Account books, correspondence, the furnace copy of
+        the guild mariegola. A shelf displaying Vittorio's finest work — a
+        cristallo goblet of extraordinary delicacy, a calcedonio vase, samples
+        of lattimo and millefiori. A locked cabinet (iron-bound walnut) in
+        the corner contains the secret project correspondence and payments.
+        A window overlooking the Fondamenta dei Vetrai and the canal beyond.
+      atmosphere: >
+        The weight of responsibility. This room is where the business side of
+        the furnace lives — the debts, the orders, the guild regulations, and
+        the secret commission.
+
+    sensory_details:
+      sight:
+        - "dust on the account books — the finances are not being carefully managed"
+        - "the locked cabinet in the corner, visibly more secure than anything else"
+        - "Vittorio's display of fine glass catching light from the window"
+      sound:
+        - "the muffled roar of the furnace below, felt through the floorboards"
+        - "the scratch of a quill on paper"
+      smell:
+        - "ink, old paper, wood polish, residual furnace smoke"
+      touch:
+        - "the scarred surface of the desk"
+        - "the cold iron of the cabinet lock"
+      taste: null
+
+    significance_to_plot: >
+      Where Enzo discovers crucial correspondence. Where Vittorio's POV chapters
+      often take place as he agonizes over his choices. The locked cabinet is a
+      key target.
+    characters_associated:
+      - "Vittorio Bardolino"
+      - "Enzo Sforno (when snooping)"
+
+  # ---------------------------------------------------------------------------
+  # THE MEETING PLACE (Conspirators)
+  # ---------------------------------------------------------------------------
+  - name: "The Chapel of Sant'Agnese"
+    aliases:
+      - "the chapel"
+      - "the meeting place"
+    type: "building / deconsecrated chapel"
+    region: "Murano, Venice"
+
+    physical_description:
+      exterior: >
+        A small, deconsecrated chapel on the eastern edge of Murano, away from
+        the main furnace district. Overgrown with ivy. The door is heavy,
+        iron-banded oak. From outside, it appears abandoned. A small dock
+        allows arrivals by boat, avoiding the main streets.
+      interior: >
+        A single nave with a low vaulted ceiling. The altar has been removed.
+        Faded frescoes on the walls — saints with peeling faces. A heavy
+        wooden table has been placed in the center, with chairs. Oil lamps
+        provide dim light. Papers, diagrams, and lens samples are sometimes
+        spread on the table during meetings. A rear sacristy provides a
+        second exit.
+      atmosphere: >
+        Cold, damp, furtive. The sacred space repurposed for conspiracy. The
+        faded saints on the walls seem to watch and judge. A place where men
+        speak in low voices about terrible things.
+
+    sensory_details:
+      sight:
+        - "peeling frescoes — saints with half-effaced faces"
+        - "oil lamp light casting long shadows in the vaulted space"
+        - "diagrams and lens samples on the central table"
+      sound:
+        - "voices echo in the stone space — speakers instinctively whisper"
+        - "water lapping at the dock outside"
+        - "rats in the walls"
+      smell:
+        - "damp stone, old plaster, mildew"
+        - "lamp oil"
+        - "the salt air from the lagoon"
+      touch:
+        - "cold stone walls, slightly damp to the touch"
+        - "the rough wood of the table"
+      taste: null
+
+    significance_to_plot: >
+      Where the conspirators meet — Vittorio, Fra Giordano, Viaro, and
+      occasionally others. Where Enzo eventually follows Vittorio and
+      witnesses a meeting that confirms his worst fears.
+    characters_associated:
+      - "Vittorio Bardolino"
+      - "Fra Giordano"
+      - "Marcantonio Viaro"
+
+  # ---------------------------------------------------------------------------
+  # KEY VENICE LANDMARKS
+  # ---------------------------------------------------------------------------
+  - name: "Piazza San Marco"
+    aliases:
+      - "the Piazza"
+      - "San Marco"
+    type: "public square"
+    region: "San Marco, Venice"
+    physical_description:
+      exterior: >
+        The ceremonial heart of Venice. The Basilica di San Marco at the east end,
+        its five domes and gold mosaics glinting. The Doge's Palace (Palazzo
+        Ducale) to the south, its pink and white marble facade, the two columns
+        of the Piazzetta beyond. The campanile (bell tower) dominates the skyline.
+        The Procuratie line the north and south sides. In the 1490s, the clock
+        tower (Torre dell'Orologio) is under construction (completed 1499).
+      atmosphere: "grandeur, power, spectacle — Venice presenting itself to itself and to the world"
+    significance_to_plot: >
+      Scene of public celebrations (Fornovo victory), political processions,
+      and the Sensa fair. Where Enzo feels most acutely the gap between
+      his world and the patrician world.
+
+  - name: "The Arsenal"
+    aliases:
+      - "the Arsenale"
+    type: "military-industrial complex"
+    region: "Castello, Venice"
+    physical_description:
+      exterior: >
+        Surrounded by high brick walls and guarded gates. The main entrance (the
+        Porta Magna) features carved lions. Inside: vast warehouses, dry docks,
+        rope-walks, foundries, timber yards. Employs up to 16,000 workers
+        (arsenalotti) at peak times. A city within the city.
+      atmosphere: "industrial power, military might, constant hammering and activity"
+    sensory_details:
+      smell:
+        - "pitch and tar"
+        - "sawdust"
+        - "molten metal from the foundries"
+      sound:
+        - "constant hammering of caulkers"
+        - "the splash of hulls being launched"
+    significance_to_plot: >
+      The metal framework for the weapon would need Arsenal craftsmen. Viaro
+      has contacts here. Enzo may visit or observe the Arsenal in connection
+      with the weapon's metal components.
+
+  - name: "San Donato, Murano"
+    aliases:
+      - "the church"
+    type: "church"
+    region: "Murano"
+    physical_description:
+      exterior: >
+        The main church of Murano. A Veneto-Byzantine basilica with a beautiful
+        apse mosaic of the Virgin. The campo in front is where Murano's community
+        gathers. The church is where the glassmakers attend Mass, where guild
+        ceremonies are held, and where Frate Silvestro ministers.
+      atmosphere: "community center, spiritual anchor for Murano, cool and quiet after furnace heat"
+    significance_to_plot: >
+      Where Fra Giordano first appears publicly on Murano, visiting Frate Silvestro.
+      Where community gossip circulates. A place of contrast to the furnace.
+
+# =============================================================================
+# 3. TIMELINE
+# =============================================================================
+timeline:
+
+  # ---------------------------------------------------------------------------
+  # Pre-Novel Events (backstory)
+  # ---------------------------------------------------------------------------
+  - date: "1475"
+    type: backstory
+    event: "Simon of Trent blood libel"
+    details: "Jews tortured and executed in Trent. Reverberations felt across Italy. Rabbi Yehudah helps the Venetian Jewish community navigate the crisis."
+
+  - date: "1479"
+    type: backstory
+    event: "End of the First Ottoman-Venetian War"
+    details: "Venice loses Negroponte. Peace treaty cedes significant territory. The trauma shapes Venetian politics for decades."
+
+  - date: "1486"
+    type: backstory
+    event: "Agostino Barbarigo elected Doge"
+
+  - date: "1489"
+    type: backstory
+    event: "Venice acquires Cyprus from Queen Caterina Cornaro"
+
+  - date: "1491"
+    type: backstory
+    event: "Alessandra Bardolino dies of fever"
+    details: "Vittorio is widowed. Caterina, age 13, takes over household duties."
+
+  - date: "1492, spring"
+    type: backstory
+    event: "Bardolino furnace's major client defaults on payment"
+    details: "Financial crisis for the Bardolino furnace. Vittorio faces possible bankruptcy."
+
+  - date: "1492, summer"
+    type: backstory
+    event: "Viaro approaches Vittorio with the secret commission"
+    details: "Vittorio agrees reluctantly. The promise: payment to clear debts and a Council advisory seat."
+
+  - date: "1492, autumn"
+    type: backstory
+    event: "Expulsion of Jews from Spain"
+    details: "Sephardic refugees begin arriving in Venice. The Jewish community grows and changes."
+
+  - date: "1493, spring"
+    type: backstory
+    event: "Giacomo Sforno begins grinding unusual lenses for Vittorio"
+    details: "Whether Giacomo knew their purpose is a central mystery."
+
+  - date: "1493, late summer"
+    type: backstory
+    event: "Giacomo Sforno dies in a furnace explosion"
+    details: "Officially an accident — a cracked crucible causing a steam explosion. Enzo, age 16, is nearby and hears the blast. Mirela witnesses something the night before that she conceals."
+
+  - date: "1493, autumn"
+    type: backstory
+    event: "Vittorio formally takes Enzo as apprentice"
+
+  # ---------------------------------------------------------------------------
+  # Novel Events — 1494
+  # ---------------------------------------------------------------------------
+  - date: "1494, early spring"
+    type: novel_event
+    event: "NOVEL OPENS"
+    details: "Enzo is 17, working at the Bardolino furnace. Daily life, the rhythms of the craft. Introduction of characters and setting."
+    characters_present:
+      - "Enzo"
+      - "Vittorio"
+      - "Tomaso"
+      - "Marco Dolfin"
+    location: "Bardolino Furnace"
+
+  - date: "1494, late spring"
+    type: novel_event
+    event: "Enzo discovers anomalous components"
+    details: "While searching the storeroom for a tool, Enzo finds glass lens blanks far larger than any spectacle lens. He also notices unfamiliar brass grinding forms."
+    location: "Bardolino Furnace storeroom"
+
+  - date: "1494, summer"
+    type: novel_event
+    event: "Enzo begins investigating; meets Serena more frequently"
+    details: "Enzo visits Gritti's bookshop, begins reading about optics. His friendship with Serena deepens as she provides gossip from the Murano glass world."
+
+  - date: "1494, September"
+    type: historical_event
+    event: "Charles VIII of France crosses the Alps"
+    details: "News reaches Venice. Political anxiety rises. Enzo overhears furnace workers discussing the invasion."
+
+  - date: "1494, October-November"
+    type: historical_event
+    event: "French army sweeps through northern Italy; Medici expelled from Florence"
+    details: "Savonarola rises in Florence. Printed broadsheets circulate in Venice. The mood darkens."
+
+  - date: "1494, late autumn"
+    type: novel_event
+    event: "Enzo discovers Roger Bacon's writings at Gritti's shop"
+    details: "Reads about burning mirrors and the military potential of focused light. Begins to connect the anomalous components to a weapon concept."
+
+  - date: "1494, December"
+    type: historical_event
+    event: "Charles VIII enters Rome"
+
+  # ---------------------------------------------------------------------------
+  # Novel Events — 1495
+  # ---------------------------------------------------------------------------
+  - date: "1495, February"
+    type: historical_event
+    event: "Charles VIII takes Naples"
+    details: "Venice alarmed. Senate debates intensify."
+
+  - date: "1495, early spring"
+    type: novel_event
+    event: "Enzo follows Vittorio to the Chapel of Sant'Agnese"
+    details: "Witnesses a meeting between Vittorio, Fra Giordano, and another figure (Viaro). Does not hear everything but understands the scope of the conspiracy."
+    location: "Chapel of Sant'Agnese"
+
+  - date: "1495, March 31"
+    type: historical_event
+    event: "Formation of the League of Venice"
+    details: "Venice commits to the anti-French coalition. War taxes increase. Arsenal works overtime. Troops muster in the Piazza San Marco."
+
+  - date: "1495, spring-summer"
+    type: novel_event
+    event: "Enzo confronts Vittorio obliquely; Vittorio deflects"
+    details: "Enzo asks careful questions about the unusual glass. Vittorio lies. The trust between them cracks."
+
+  - date: "1495, July 6"
+    type: historical_event
+    event: "Battle of Fornovo"
+    details: "League army intercepts retreating French. Both sides claim victory. Celebrations in Venice. Bells, bonfires, processions."
+
+  - date: "1495, late summer"
+    type: novel_event
+    event: "Viaro approaches Enzo"
+    details: "Viaro, having observed Enzo's curiosity, contacts him. Presents himself as a sympathetic patrician interested in the glass trade. Begins cultivating Enzo as an asset."
+    location: "The Rialto, then various meetings in Venice"
+
+  - date: "1495, autumn"
+    type: novel_event
+    event: "Enzo encounters Kasim al-Rashid (as Carlo Rossetti)"
+    details: "Meets the 'Levantine merchant' at the Rialto. Carlo shows interest in Murano glass, asks knowledgeable questions. Enzo does not yet suspect him."
+
+  # ---------------------------------------------------------------------------
+  # Novel Events — 1496
+  # ---------------------------------------------------------------------------
+  - date: "1496, winter"
+    type: novel_event
+    event: "Enzo searches his father's workbench"
+    details: "At home, Enzo examines Giacomo's tools more carefully. Finds a hidden compartment with notes — calculations for lens curvatures that match the anomalous components."
+    location: "Sforno House"
+
+  - date: "1496, early spring"
+    type: novel_event
+    event: "Enzo confronts Mirela about the notes"
+    details: "Mirela reveals she knew Giacomo was grinding unusual lenses. She admits to witnessing a threatening visit the night before his death — a man she could not identify (later revealed to have been Viaro or his agent)."
+
+  - date: "1496, spring"
+    type: novel_event
+    event: "Relationship with Serena deepens"
+    details: "Their friendship becomes clearly romantic, though the obstacles (religion, social class, Enzo's dangerous situation) make the future uncertain."
+
+  - date: "1496, spring-summer"
+    type: novel_event
+    event: "Enzo becomes Viaro's informant"
+    details: "Under the guise of protecting Enzo and investigating Giacomo's death, Viaro draws Enzo into reporting on the Bardolino furnace. Enzo does not realize he is being used."
+
+  - date: "1496, summer"
+    type: novel_event
+    event: "Fra Giordano and Enzo meet"
+    details: "Fra Giordano, intrigued by reports of Enzo's skill, arranges a meeting. The two have a dazzling intellectual conversation about optics. Enzo is fascinated and disturbed."
+
+  - date: "1496, late summer"
+    type: novel_event
+    event: "Murano furnaces go dark for the annual maintenance period"
+    details: "During the quiet period, Enzo has time to investigate. He breaks into the storeroom and examines the components in detail. Realizes the weapon is closer to completion than he thought."
+
+  - date: "1496, autumn"
+    type: novel_event
+    event: "Tomaso catches Enzo snooping"
+    details: "Tomaso discovers Enzo in or near the storeroom. Confrontation. Tomaso is angry but also confused — he did not know about the secret components either. An uneasy, forced alliance begins."
+
+  # ---------------------------------------------------------------------------
+  # Novel Events — 1497
+  # ---------------------------------------------------------------------------
+  - date: "1497, January-February"
+    type: novel_event
+    event: "Carnival in Venice"
+    details: "Under cover of Carnival's masks, key meetings occur. Enzo, masked, follows Viaro to a meeting with an unknown figure. Kasim makes his move to obtain the weapon plans."
+
+  - date: "1497, February 7"
+    type: historical_event
+    event: "Bonfire of the Vanities in Florence"
+    details: "News reaches Venice. Anxiety about religious extremism. Some Venetian preachers echo Savonarola's themes."
+
+  - date: "1497, early spring"
+    type: novel_event
+    event: "Enzo discovers the truth about his father's death"
+    details: "Through a combination of Mirela's revelation, Giacomo's hidden notes, and information from Viaro (who lets it slip), Enzo realizes Giacomo was killed because he refused to continue grinding weapon lenses. The explosion was arranged."
+
+  - date: "1497, spring"
+    type: novel_event
+    event: "CLIMAX"
+    details: >
+      Enzo must choose: remain silent and safe, or expose the conspiracy.
+      He chooses to act, but not in the way anyone expects. Rather than
+      going to the authorities (who are complicit) or fleeing (which would
+      endanger his mother), he uses his lens-grinding skills to sabotage
+      the weapon components — introducing subtle flaws that will cause
+      the assembled weapon to fail. This is the craft answer to the
+      craft problem.
+
+  - date: "1497, late spring"
+    type: novel_event
+    event: "NOVEL ENDS"
+    details: >
+      The immediate crisis is resolved but the larger situation is not.
+      Vittorio's fate is uncertain. Viaro suspects sabotage but cannot
+      prove it. Fra Giordano is enraged. Enzo has saved no one and
+      solved nothing permanently — he has only bought time. The weapon
+      concept still exists. The Ottoman threat remains. And Enzo now
+      knows things that make him a target for all sides. Setup for Book Two.
+
+# =============================================================================
+# 4. RELATIONSHIPS
+# =============================================================================
+relationships:
+
+  - characters: ["Enzo Sforno", "Vittorio Bardolino"]
+    nature: "complicated — master/apprentice, surrogate father/son, betrayer/betrayed"
+    power_dynamic: "Vittorio holds all formal power; Enzo holds moral clarity"
+    key_tension: "Vittorio genuinely cares for Enzo but is exploiting his father's craft for the conspiracy"
+    evolution: "trust -> suspicion -> confrontation -> complex reckoning"
+
+  - characters: ["Enzo Sforno", "Tomaso Bardolino"]
+    nature: "rivalry, hostility, forced alliance"
+    power_dynamic: "Tomaso has social power (Christian, master's son); Enzo has talent"
+    key_tension: "jealousy, but also a shared investment in the furnace"
+    evolution: "hostility -> grudging respect when they discover they have a common enemy"
+
+  - characters: ["Enzo Sforno", "Serena Contarini"]
+    nature: "friendship deepening into romance"
+    power_dynamic: "relatively equal, though social barriers favor Serena"
+    key_tension: "their worlds cannot easily merge — religion, family expectation, danger"
+    evolution: "childhood acquaintance -> friendship -> romantic tension -> tested by crisis"
+
+  - characters: ["Enzo Sforno", "Mirela Sforno"]
+    nature: "mother and son; love and protectiveness"
+    power_dynamic: "Mirela has parental authority; Enzo is pulling away"
+    key_tension: "Mirela's secrets vs. Enzo's need for truth"
+    evolution: "closeness -> tension over secrets -> painful honesty -> renewed trust"
+
+  - characters: ["Enzo Sforno", "Marcantonio Viaro"]
+    nature: "handler and asset; predator and prey wearing the mask of friendship"
+    power_dynamic: "Viaro holds almost all power; Enzo has only his wits"
+    key_tension: "Viaro's manipulation vs. Enzo's growing awareness"
+    evolution: "curiosity -> trust -> use -> disillusionment -> adversarial"
+
+  - characters: ["Enzo Sforno", "Fra Giordano"]
+    nature: "intellectual connection and moral opposition"
+    power_dynamic: "Giordano has knowledge; Enzo has skill"
+    key_tension: "they understand each other intellectually but are on opposite sides morally"
+    evolution: "fascination -> seduction (intellectual) -> horror -> opposition"
+
+  - characters: ["Enzo Sforno", "Kasim al-Rashid"]
+    nature: "wary, uncertain — two outsiders who recognize each other"
+    power_dynamic: "Kasim is more experienced; Enzo is more naive"
+    key_tension: "Kasim wants the weapon plans; Enzo does not want anyone to have them"
+    evolution: "stranger -> merchant acquaintance -> growing suspicion -> revelation"
+
+  - characters: ["Enzo Sforno", "Rabbi Yehudah"]
+    nature: "elder/youth; moral counselor"
+    power_dynamic: "Yehudah has wisdom and community authority; Enzo brings the dilemma"
+    key_tension: "Yehudah's caution vs. Enzo's impulse to act"
+    evolution: "respect -> counsel -> Yehudah reluctantly supports Enzo's choice"
+
+  - characters: ["Vittorio Bardolino", "Fra Giordano"]
+    nature: "uneasy collaborators bound by the conspiracy"
+    power_dynamic: "Giordano has the vision; Vittorio has the skill; neither trusts the other"
+    key_tension: "Giordano pushes for completion; Vittorio resists and delays"
+    evolution: "wary cooperation -> mutual contempt -> breaking point"
+
+  - characters: ["Vittorio Bardolino", "Marcantonio Viaro"]
+    nature: "puppet master and puppet"
+    power_dynamic: "Viaro controls Vittorio through financial leverage and state authority"
+    key_tension: "Vittorio wants out; Viaro will not let him go"
+    evolution: "reluctant deal -> resentment -> desperation -> Vittorio's attempted defiance"
+
+  - characters: ["Vittorio Bardolino", "Tomaso Bardolino"]
+    nature: "father and son; strained love"
+    power_dynamic: "Vittorio has authority but Tomaso is the heir"
+    key_tension: "Vittorio's favoritism toward Enzo; Tomaso's need for approval"
+    evolution: "distance -> crisis forces them together -> imperfect reconciliation"
+
+  - characters: ["Marcantonio Viaro", "Kasim al-Rashid"]
+    nature: "adversaries in the intelligence game"
+    power_dynamic: "equal and opposite — both skilled, both dangerous"
+    key_tension: "each trying to outmaneuver the other regarding the weapon"
+    evolution: "cat-and-mouse throughout the novel; mutual respect beneath the enmity"
+
+# =============================================================================
+# 5. WORLD RULES
+# =============================================================================
+world_rules:
+
+  murano_secrecy_laws:
+    description: >
+      Murano's glassmaking secrets are treated as state secrets by the
+      Venetian Republic. The following acts are criminal:
+    offenses:
+      - act: "leaving Murano to practice glassmaking elsewhere"
+        punishment: "imprisonment, property confiscation; in extreme cases, assassination authorized by the Council of Ten; family members may be imprisoned as hostages"
+      - act: "sharing recipes or techniques with foreigners"
+        punishment: "imprisonment, fines, banishment from the guild; threat of death"
+      - act: "smuggling raw materials or unfinished glass off Murano"
+        punishment: "fines, imprisonment, banishment"
+    enforcement: >
+      Enforced by guild officials (the gastaldo and his deputies) and
+      ultimately by the Council of Ten. In practice, some leakage occurred,
+      but the climate of fear was real. Glassmakers who fled to foreign courts
+      were sometimes tracked and killed.
+    relevance: >
+      The secret weapon project violates these laws on multiple levels.
+      Manufacturing military components is not authorized guild work.
+      If exposed, everyone involved faces execution.
+
+  jewish_legal_restrictions:
+    description: >
+      Jews in Venice (1494-1497) live under the condotta system — periodic
+      charters granting limited rights in exchange for fees and taxes.
+    restrictions:
+      - "must wear the yellow circle (rotella gialla) or yellow hat (berretto giallo)"
+      - "cannot own real property in Venice"
+      - "cannot join most Christian guilds"
+      - "cannot employ Christian servants (theoretically)"
+      - "subject to periodic curfews — must be in lodgings by sunset or the third bell"
+      - "barred from certain areas during Christian holy days"
+      - "worship must be private and quiet"
+      - "the condotta can be revoked at any time by Senate vote"
+    grey_areas: >
+      In practice, enforcement is inconsistent. Some restrictions are routinely
+      violated with tacit tolerance. Jewish physicians serve patrician families.
+      Jewish artisans work in Christian workshops through informal arrangements.
+      Enzo's position at the Bardolino furnace is one such grey area — he works
+      as a 'personal servant' to Vittorio, technically not a guild apprentice.
+    enzo_specific: >
+      Enzo's presence on Murano requires Vittorio's active protection. If
+      Vittorio withdraws that protection, Enzo can be expelled immediately.
+      This is part of Vittorio's leverage, though he has never explicitly
+      threatened it.
+
+  guild_hierarchy:
+    description: >
+      The Murano glass industry is organized as follows:
+    ranks:
+      - rank: "Maestro (Master)"
+        authority: "full control of a furnace team; the artistic and technical head"
+        requirements: "completion of apprenticeship, demonstration of mastery, guild approval"
+      - rank: "Servente (Journeyman/Assistant)"
+        authority: "skilled worker under the maestro's direction"
+        requirements: "completed apprenticeship, approved by guild"
+      - rank: "Garzone (Apprentice)"
+        authority: "none; bound to the maestro for the term of apprenticeship"
+        requirements: "typically 5-7 year term; begins age 12-14"
+      - rank: "Fonditore (Melter/Batch mixer)"
+        authority: "responsible for raw materials and melting; answers to the maestro"
+      - rank: "Temperaor (Annealer)"
+        authority: "manages the annealing oven; answers to the maestro"
+    governance: >
+      The guild is headed by a gastaldo (head) and a board of officials
+      elected by master glassmakers. The guild reports to the Giustizia
+      Vecchia (Venetian magistrates overseeing guilds and trade). Above
+      them, the Council of Ten has ultimate authority over state secrets
+      including glass technology.
+
+  the_weapon:
+    concept: "a focusing array that concentrates sunlight into a directed beam capable of igniting targets at range"
+    theoretical_basis: >
+      Roger Bacon's writings on burning mirrors and lenses. The legend of
+      Archimedes at Syracuse. Leonardo da Vinci's concurrent work on concave
+      mirrors in Milan (unknown to the Venetian project but thematically parallel).
+    components:
+      primary_lenses:
+        description: "six to eight large cristallo lenses, each 20-30 cm diameter, ground to precise convex curvatures"
+        manufacturer: "Vittorio Bardolino (glass blanks) and originally Giacomo Sforno, now Enzo (grinding)"
+        current_location: "Bardolino furnace storeroom, in straw-packed crates"
+      focusing_array_frame:
+        description: "a precision brass framework that holds and aligns the lenses to concentrate light on a single focal point"
+        manufacturer: "Arsenal metalworkers, under Viaro's direction"
+        current_location: "components stored at the Arsenal"
+      sighting_mechanism:
+        description: "a pair of smaller lenses in a tube — effectively a crude telescope — for aiming the array"
+        manufacturer: "the tube and mount from Arsenal smiths; the lenses from the Bardolino furnace"
+        current_location: "not yet assembled at novel's start"
+      mounting_platform:
+        description: "a wooden and metal platform designed to be mounted on a galley's bow"
+        manufacturer: "Arsenal shipwrights"
+        current_location: "in design phase"
+    operational_theory: >
+      Multiple large lenses arranged in a frame, each angled to direct
+      concentrated sunlight toward a single focal point at a range of
+      approximately 30-50 meters. At the focal point, the combined energy
+      could theoretically ignite pitch, sailcloth, or other flammable
+      materials on an enemy ship. Effective only in direct sunlight.
+      A sighting tube allows targeting.
+    limitations:
+      - "requires clear, direct sunlight — useless in overcast conditions, rain, or at night"
+      - "effective range limited to perhaps 30-50 meters — well within arrow/cannon range"
+      - "the lenses must be perfectly aligned — any vibration or wave motion disrupts focus"
+      - "the glass is fragile — a single impact could shatter the array"
+      - "targets must be stationary or nearly so for the beam to dwell long enough to ignite"
+    why_it_matters: >
+      The weapon is probably impractical as designed. But the concept —
+      focusing energy at a distance — and the accidental discovery of
+      magnification through combined lenses (a proto-telescope) have
+      implications far beyond this one device. It is the idea, not the
+      execution, that is truly dangerous.
+
+  political_factions:
+    description: "the major power players in Venice during 1494-1497"
+    factions:
+      - name: "The War Party"
+        position: "favors aggressive military action, expansion on the terraferma"
+        key_figures: "certain members of the Senate and Council of Ten"
+        stance_on_weapon: "supporters — they see it as a potential game-changer against the Ottomans"
+      - name: "The Peace Party"
+        position: "favors diplomacy and trade; wary of provoking the Ottomans"
+        key_figures: "merchants and older patricians"
+        stance_on_weapon: "opposed if they knew about it — too risky"
+      - name: "The Council of Ten"
+        position: "controls state security; some members sponsor the weapon, others are unaware"
+        key_figures: "anonymous by design; Viaro serves specific members"
+      - name: "The Ottoman intelligence apparatus"
+        position: "seeks the weapon plans to neutralize or replicate the technology"
+        key_figures: "Kasim al-Rashid is their man in Venice"
+      - name: "The Murano guild establishment"
+        position: "would be horrified by unauthorized military production"
+        key_figures: "the gastaldo and guild officials"
+
+  information_networks:
+    description: "how information travels in Venice"
+    channels:
+      - type: "official"
+        details: >
+          Dispatches from ambassadors and governors. Reports to the Senate.
+          Council of Ten intelligence reports (highly classified).
+      - type: "commercial"
+        details: >
+          Merchant gossip at the Rialto. News travels with ships and cargo.
+          The fastest information network in the Mediterranean.
+      - type: "printed"
+        details: >
+          Venice is Europe's printing capital. Broadsheets, pamphlets, and
+          books spread information rapidly. By the 1490s, news can be printed
+          and distributed within hours of arrival.
+      - type: "oral"
+        details: >
+          Tavern gossip, street talk, market chatter. The campi (squares)
+          are where ordinary Venetians exchange news. Often unreliable
+          but fast.
+      - type: "surveillance"
+        details: >
+          The bocche di leone (mouths of lions) — stone letterboxes for
+          anonymous denunciations. The Council of Ten's network of paid
+          informers. Servants spying on masters. Neighbors watching neighbors.
+          Venice is a surveillance state.
+      - type: "Jewish community"
+        details: >
+          Internal communication through the community — synagogue gatherings,
+          the bet din, family networks. Jews also maintain contacts across
+          the Mediterranean through trade networks, giving them access to
+          information from the Ottoman Empire and Iberia.
+
+# =============================================================================
+# 6. OBJECTS
+# =============================================================================
+objects:
+
+  # ---------------------------------------------------------------------------
+  # THE OPTICAL COMPONENTS
+  # ---------------------------------------------------------------------------
+  - name: "The Primary Lenses"
+    description: >
+      Six large cristallo lens blanks, each approximately 25 cm in diameter
+      and 3 cm thick at the center, tapering to about 1 cm at the edges
+      (plano-convex profile). The glass is the finest cristallo — nearly
+      colorless, with only the faintest grey tint. Each lens weighs
+      approximately 2-3 kg.
+    creator: "glass by Vittorio Bardolino; grinding by Giacomo Sforno (first batch) and later Enzo (replacement/additional)"
+    location_tracking:
+      - period: "1493 (pre-novel)"
+        location: "Giacomo ground the first four; stored in the Bardolino storeroom"
+      - period: "1494-1496"
+        location: "Bardolino furnace storeroom, in straw-packed wooden crates"
+      - period: "1497 (climax)"
+        location: "Enzo sabotages them — introduces microscopic flaws in the curvature"
+    significance: "the physical heart of the weapon; the objects that connect Enzo's father to the conspiracy"
+
+  - name: "The Sighting Tube Lenses"
+    description: >
+      A pair of smaller lenses — one convex (approximately 8 cm diameter),
+      one concave (approximately 5 cm diameter) — intended to be mounted in
+      a brass tube to create a crude telescope for targeting the weapon.
+    creator: "Enzo grinds these, not initially understanding their purpose"
+    location_tracking:
+      - period: "1495-1496"
+        location: "Enzo's grinding station, then the storeroom"
+    significance: "the accidental proto-telescope; represents the dual nature of the craft — same lenses that target a weapon could also expand human vision"
+
+  - name: "The Brass Grinding Forms"
+    description: >
+      A set of convex and concave brass cups used for grinding the large
+      lenses. Much larger than standard spectacle-grinding forms. Their
+      curvatures are specified in Fra Giordano's diagrams.
+    creator: "commissioned from a metalworker, possibly Arsenal-connected"
+    location_tracking:
+      - period: "entire novel"
+        location: "Bardolino furnace storeroom"
+    significance: "the first anomaly Enzo notices — these forms do not match any known spectacle or mirror shape"
+
+  # ---------------------------------------------------------------------------
+  # GIACOMO'S LEGACY
+  # ---------------------------------------------------------------------------
+  - name: "Giacomo's Lens-Grinding Tools"
+    description: >
+      A set of lens-grinding equipment: a hand-turned grinding table (a
+      wooden frame with a rotating disc), several sets of standard grinding
+      forms (brass cups of various curvatures), calipers, a water-drip
+      system, containers of emery of various grades, polishing rouge (iron
+      oxide), felt pads, and a leather case of finished test lenses.
+    creator: "accumulated by Giacomo over his career; some inherited from his own father"
+    location_tracking:
+      - period: "pre-1493"
+        location: "Giacomo's workspace at the Bardolino furnace"
+      - period: "1493 onward"
+        location: "the Sforno house — moved there after Giacomo's death; Mirela preserved them on the old workbench"
+    significance: "Enzo's inheritance, both practical and emotional. The tools connect him to his father's skill and eventually to his father's secret."
+
+  - name: "Giacomo's Hidden Notes"
+    description: >
+      Several folded sheets of paper concealed in a false bottom of
+      Giacomo's tool case (the leather case of test lenses). Written in
+      Giacomo's hand in a mixture of Hebrew and Italian. They contain:
+      lens curvature calculations matching the anomalous grinding forms,
+      a partial sketch of a multi-lens array, and a final note that reads
+      (in Hebrew): 'I will not grind what I cannot see the end of.'
+    creator: "Giacomo Sforno"
+    location_tracking:
+      - period: "1493 (hidden)"
+        location: "concealed in the tool case, which is on the workbench in the Sforno house"
+      - period: "1496, winter"
+        location: "discovered by Enzo"
+      - period: "1496 onward"
+        location: "Enzo keeps them hidden on his person or in a secret place"
+    significance: >
+      The key evidence that Giacomo knew what he was making — and refused
+      to continue. This note is what convinced someone to silence him.
+      It also proves to Enzo that his father died for a moral choice,
+      not an accident.
+
+  # ---------------------------------------------------------------------------
+  # FRA GIORDANO'S DOCUMENTS
+  # ---------------------------------------------------------------------------
+  - name: "Fra Giordano's Design Diagrams"
+    description: >
+      A set of vellum sheets containing detailed optical diagrams: the
+      layout of the focusing array, calculated focal lengths, the sighting
+      tube design, and the mounting specifications. Drawn in ink with
+      mathematical notations in Latin. Some sheets are annotated with
+      Roger Bacon quotations. The drawings are precise and beautiful —
+      Fra Giordano is a skilled draftsman.
+    creator: "Fra Giordano da Padova"
+    location_tracking:
+      - period: "1493 onward"
+        location: "copies split between the Bardolino storeroom (working copies), the Chapel of Sant'Agnese (meeting copies), and Fra Giordano's lodgings (originals)"
+    significance: "the intellectual blueprint of the weapon; the documents everyone is trying to control"
+
+  # ---------------------------------------------------------------------------
+  # THE LETTER
+  # ---------------------------------------------------------------------------
+  - name: "Viaro's Commission Letter"
+    description: >
+      A letter on fine paper, sealed with an unmarked seal (no family
+      crest — deliberate anonymity). Written in a formal hand, it
+      authorizes Vittorio Bardolino to produce 'optical instruments for
+      the service of the Republic' and guarantees payment of 500 ducats
+      upon completion, plus 'such further honors as the Council shall
+      determine.' The letter does not name the weapon explicitly — it
+      uses euphemisms throughout. It is signed with a cipher rather
+      than a name.
+    creator: "Marcantonio Viaro, on behalf of his Council of Ten sponsors"
+    location_tracking:
+      - period: "1492-1497"
+        location: "Vittorio's locked cabinet in his office"
+      - period: "1497 (climax)"
+        location: "Enzo obtains a copy or sees the original"
+    significance: "proof that the conspiracy has state backing; the document that makes Vittorio's complicity undeniable"
+
+  # ---------------------------------------------------------------------------
+  # SYMBOLIC / RECURRING OBJECTS
+  # ---------------------------------------------------------------------------
+  - name: "Vittorio's Millefiori Piece"
+    description: >
+      A small disc of millefiori glass, about 4 cm across, that Vittorio
+      made as a young journeyman. Dozens of tiny flower-like colored
+      elements fused together. He carries it in his pocket and turns it
+      when anxious. It represents the beauty of the craft before it
+      became entangled with war.
+    location_tracking:
+      - period: "entire novel"
+        location: "Vittorio's pocket"
+    significance: "recurring symbol of what the craft should be vs. what it has become"
+
+  - name: "Enzo's Test Lens"
+    description: >
+      A small convex lens, about 6 cm diameter, that Enzo ground as his
+      first successful piece. Clear cristallo, minor imperfections visible
+      to a trained eye but functional. He keeps it in a leather pouch
+      at his belt.
+    location_tracking:
+      - period: "entire novel"
+        location: "Enzo's belt pouch"
+    significance: "Enzo's talisman; represents his identity as a craftsman. He holds it up to the light when thinking. It also functions practically — he uses it to examine fine details."
+
+  - name: "The Kiddush Cup"
+    description: >
+      A silver kiddush cup used for Shabbat blessings in the Sforno
+      household. Simple but well-made, with a Hebrew inscription around
+      the rim. It was a wedding gift to Giacomo and Mirela.
+    location_tracking:
+      - period: "entire novel"
+        location: "the Sforno house"
+    significance: "symbol of the Sforno family's Jewish identity and continuity; appears in Shabbat scenes"
+
+  - name: "Serena's Glass Bead Necklace"
+    description: >
+      A necklace of small, multicolored glass beads — each one made by
+      Serena's father, Maestro Contarini, as a demonstration of his skill.
+      Red, blue, green, amber, each perfectly round and smooth.
+    location_tracking:
+      - period: "entire novel"
+        location: "worn by Serena"
+    significance: "represents Serena's connection to the glass world; a gift from father to daughter that parallels Enzo's inheritance from Giacomo"
+
+  - name: "The Yellow Rotella"
+    description: >
+      The yellow circle of saffron-dyed fabric, roughly palm-sized, that
+      Enzo is required to wear sewn onto his doublet to identify him
+      as Jewish. It is always present, always visible, always marking him.
+    location_tracking:
+      - period: "entire novel"
+        location: "sewn onto Enzo's outer garment"
+    significance: >
+      The most important recurring object-symbol in the novel. It represents
+      Enzo's otherness, his vulnerability, and the constant negotiation
+      between belonging and exclusion. Every time another character's eyes
+      drop to it, the reader feels what Enzo feels.

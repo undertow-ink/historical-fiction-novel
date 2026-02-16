@@ -1,0 +1,61 @@
+# The Burning Glass — Series Bible
+# A trilogy spanning Venice and Murano, 1494–1510
+
+series_name: "The Burning Glass"
+genre: "Historical Fiction / Epic Literary with Thriller Elements"
+setting_summary: "Venice and Murano during the Italian Wars, following a Jewish lens grinder from apprentice to master"
+
+books:
+  - title: "The Feast of Ashes"
+    subtitle: "Book One of The Burning Glass"
+    timeline: "1494–1497"
+    summary: >
+      Seventeen-year-old Enzo Sforno, one of the few Jews permitted to work in Murano's
+      legendary glassmaking furnaces, discovers that his master Vittorio Bardolino is secretly
+      manufacturing optical components for a weapon. As the Italian Wars erupt, Enzo must
+      choose between the safety of silence and the moral imperative to act — all while
+      navigating the social hierarchies that make his Jewish identity both asset and liability.
+    themes:
+      - "The ethics of craft — when does a maker become responsible for how their creation is used?"
+      - "Sight and blindness — lenses that reveal, glass that distorts"
+      - "The price of belonging — tolerated but never fully accepted"
+      - "Fire as creator and destroyer"
+    target_word_count: 110000
+    target_chapters: 34
+    status: "Design Phase"
+
+  - title: "The Lens Grinder's War"
+    subtitle: "Book Two of The Burning Glass"
+    timeline: "1498–1504"
+    summary: >
+      Enzo, now a journeyman, is drawn into Venetian intelligence operations during the
+      Ottoman-Venetian War. His lens-grinding skills make him valuable to the Republic's
+      spymasters, but the work forces him into moral compromises that threaten everything
+      he believes about his craft.
+    status: "Concept Only"
+
+  - title: "The Glass Republic"
+    subtitle: "Book Three of The Burning Glass"
+    timeline: "1509–1510"
+    summary: >
+      Master glassmaker Enzo must protect Murano itself from destruction during the War
+      of the League of Cambrai, when Venice faces its greatest existential crisis. The trilogy
+      concludes with Enzo's final reckoning with the question that has haunted him: can the
+      same hands that create beauty also be instruments of war?
+    status: "Concept Only"
+
+series_arc:
+  protagonist_evolution: >
+    Enzo Sforno evolves from a naive, talented apprentice (Book 1) to a morally
+    compromised operative who must reckon with his choices (Book 2) to a master
+    craftsman who must decide what his craft means in a world at war (Book 3).
+  recurring_themes:
+    - "Glass as metaphor: clarity vs. distortion, beauty vs. weapon, fragility vs. strength"
+    - "The Jewish experience in Renaissance Venice: tolerance as transaction, belonging as performance"
+    - "Venice itself as a glass creation — magnificent, fragile, built on water"
+    - "The birth of modern warfare and the craftsman's complicity"
+  historical_backdrop: >
+    The Italian Wars (1494–1559) reshaped Europe. Venice, which entered the period as
+    the Mediterranean's dominant naval and commercial power, was nearly destroyed by the
+    League of Cambrai in 1509. The trilogy tracks Venice's arc from confidence to crisis,
+    mirrored in Enzo's personal journey.
