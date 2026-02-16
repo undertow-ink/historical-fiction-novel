@@ -77,7 +77,7 @@ Orchestrator
 
 The Dynamic Plotter is a hybrid methodology that takes the best elements from two opposing schools of fiction writing:
 
-**From the Plotter school**: Rigorous upfront planning at every level (series, novel, part, chapter, scene). Complete character design documents. Save the Cat beat sheets. Detailed outlines before a single word of prose is written.
+**From the Plotter school**: Rigorous upfront planning at every level (series, novel, part, chapter, scene). Complete character design documents. The Seven-Layer Narrative Architecture (see `docs/story_structure.md`) — a custom framework synthesized from twelve methodologies. Detailed outlines before a single word of prose is written.
 
 **From the Pantser school**: Serial page-by-page writing where each page is composed with only local context, allowing the prose to develop organically. Freedom to follow unexpected character decisions, plot twists, or thematic directions that emerge during writing.
 
@@ -174,29 +174,18 @@ The design phase transforms a pitch and research into a complete novel blueprint
 
 4. **Character design.** Create full character profiles using `templates/character_sheet.yaml` for every named character. Profiles include physical description, backstory, motivation, arc, speech patterns, relationships, and the specific function each character serves in the plot.
 
-5. **Save the Cat beat sheet.** Map the 15 Save the Cat beats to the novel structure:
-   - Opening Image
-   - Theme Stated
-   - Set-Up
-   - Catalyst
-   - Debate
-   - Break into Two
-   - B Story
-   - Fun and Games
-   - Midpoint
-   - Bad Guys Close In
-   - All Is Lost
-   - Dark Night of the Soul
-   - Break into Three
-   - Finale
-   - Final Image
+5. **Seven-Layer Narrative Architecture.** Apply the custom structural framework (see `docs/story_structure.md`):
+   - **Layer 1 — Thematic Engine**: Define the Thematic Question, Controlling Idea, Counter-Idea, and Four Throughlines (Overall Story, Main Character, Influence Character, Relationship)
+   - **Layer 2 — Character Architecture**: Ghost, Lie, Need (psychological + moral), Want, Truth, Arc Type for each major character
+   - **Layer 3 — Five Movements**: Map the novel's global arc — Establishment (~20%), Deepening (~20%), Complication (~25%), Revelation & Reckoning (~20%), Aftermath (~15%)
+   - **Layer 4 — Sequence Architecture**: Divide into 8-12 sequences, each with its own dramatic question and Five Commandments (Inciting Incident → Complication → Crisis → Climax → Resolution)
 
 6. **Multi-level outline.** Build the outline from the top down:
    - **Series arc** (if applicable): How this book fits into the larger series
-   - **Novel arc**: The 15 beats mapped to parts and chapters
-   - **Part arcs**: 3-4 parts, each with its own mini-arc (setup, escalation, climax)
-   - **Chapter outlines**: What happens, whose POV, where, when, emotional beat
-   - **Scene outlines**: Using `templates/scene_outline.yaml`, detailed beat-by-beat plans with page estimates
+   - **Novel arc**: Five Movements mapped to parts and chapters, with Four Throughlines tracked
+   - **Part arcs**: 3-4 parts, each corresponding to one or more movements
+   - **Chapter outlines**: What happens, whose POV, where, when, value shift, which throughlines advance
+   - **Scene outlines**: Using `templates/scene_outline.yaml`, detailed Five Commandments with page estimates
 
 7. **Story bible.** Compile all characters, locations, relationships, timeline entries, and world rules into YAML files. The story bible is the single source of truth for facts about the fictional world.
 
@@ -748,7 +737,7 @@ When a deviation is accepted:
 1. **Update the scene outline** for the current scene to reflect what actually happened.
 2. **Review downstream scene outlines** in the same chapter. Adjust as needed.
 3. **Review downstream chapter outlines** in the same part. Adjust as needed.
-4. **Review the novel-level beat sheet** if the deviation affects major plot beats.
+4. **Review the novel-level Five Movements and Sequence Architecture** if the deviation affects major structural beats or throughlines.
 5. **Update the story bible** if the deviation introduces new facts about characters, locations, or the world.
 6. **Update continuity notes** to record the deviation and the new direction.
 7. **Commit the outline changes** with a clear commit message:

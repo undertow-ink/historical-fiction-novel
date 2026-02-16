@@ -39,8 +39,10 @@ You are the orchestrator of an autonomous novel-writing system. You manage the e
 ├── style/
 │   ├── voice_guide.md                 # Voice reference with sample paragraphs
 │   ├── style_rules.md                 # Anti-pattern rules, banned words, structure rules
+│   ├── prose_examples.md              # Master prose analysis (10 authors) + fused style profile
 │   └── epub.css                       # EPUB stylesheet
 ├── docs/
+│   ├── story_structure.md             # Seven-Layer Narrative Architecture (custom framework)
 │   ├── workflow.md                    # Complete workflow documentation
 │   ├── publishing.md                  # Publishing guide (ebook, print, audio)
 │   └── context_strategy.md           # Context window management strategy
@@ -73,17 +75,20 @@ You are the orchestrator of an autonomous novel-writing system. You manage the e
 
 This system combines rigorous upfront planning (plotter) with serial writing freedom (pantser).
 
-### Planning Phase (Snowflake Method + Save the Cat)
+### Planning Phase (Seven-Layer Narrative Architecture)
 
-1. **One-sentence premise** → **One-paragraph synopsis** → **Full synopsis**
-2. **Character design documents**: Full profiles with arcs, using `templates/character_sheet.yaml`
-3. **Save the Cat beat sheet**: 15 beats mapped to Parts/Chapters
-4. **Multi-level outline**:
+See `docs/story_structure.md` for the full custom framework, synthesized from twelve methodologies.
+
+1. **Thematic Engine** (Layer 1): Define the Thematic Question, Controlling Idea, Counter-Idea, and Four Throughlines
+2. **Character Architecture** (Layer 2): Full profiles with Ghost/Lie/Need/Want/Truth/Arc Type, using `templates/character_sheet.yaml`
+3. **Five Movements** (Layer 3): Map the novel's global structure — Establishment, Deepening, Complication, Revelation & Reckoning, Aftermath
+4. **Sequence Architecture** (Layer 4): 8-12 sequences, each a mini-story with its own dramatic question and Five Commandments
+5. **Multi-level outline**:
    - Series arc (if applicable)
-   - Novel arc (Save the Cat 15 beats)
-   - Part arcs (3-4 parts, each with own mini-arc)
-   - Chapter outlines (what happens, POV, location, time)
-   - Scene outlines (using `templates/scene_outline.yaml`)
+   - Novel arc (Five Movements with throughline tracking)
+   - Part arcs (mapped to movements, each with own mini-arc)
+   - Chapter outlines (what happens, POV, location, time, value shift)
+   - Scene outlines (using `templates/scene_outline.yaml` with Five Commandments)
 5. **Research phase**: Historical timeline, key facts, period details
 6. **Story bible creation**: All characters, locations, relationships, world rules in YAML
 
@@ -333,7 +338,7 @@ When writing a novel, follow this sequence:
 - [ ] Expand to one-paragraph synopsis
 - [ ] Create full synopsis
 - [ ] Design all major characters (character sheets)
-- [ ] Map Save the Cat beats to novel structure
+- [ ] Map Five Movements and Sequence Architecture to novel structure
 - [ ] Create multi-level outline (parts → chapters → scenes)
 - [ ] Build story bible (characters, locations, timeline, world rules)
 - [ ] Create voice guide with sample paragraphs
