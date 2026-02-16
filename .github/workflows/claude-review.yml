@@ -13,6 +13,7 @@ jobs:
       contents: read
       pull-requests: write
       issues: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -22,8 +23,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-          max_turns: 5
-          direct_prompt: |
+          prompt: |
             You are a senior editorial reviewer for a historical fiction novel. Review the
             changed manuscript files in this pull request with the eye of an experienced
             fiction editor. Your feedback should be specific, actionable, and constructive.

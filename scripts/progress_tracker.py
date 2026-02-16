@@ -159,14 +159,38 @@ class BookProgress:
 # Outline parser
 # ---------------------------------------------------------------------------
 
+_ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
+
+
+def _roman_to_int(s: str) -> int:
+    """Convert a Roman numeral string to an integer."""
+    s = s.upper()
+    total = 0
+    prev = 0
+    for ch in reversed(s):
+        val = _ROMAN_VALUES.get(ch, 0)
+        if val < prev:
+            total -= val
+        else:
+            total += val
+        prev = val
+    return total
+
+
 def parse_outline(outline_path: Path) -> tuple[str, list[SceneOutline], dict[str, str]]:
     """Parse outline.md to extract the expected structure.
 
-    Supports a multi-level markdown outline with headers like:
-        # Book Title
+    Supports two outline formats:
+
+    Classic format:
         ## Part 1: Title
         ### Chapter 1: Title
         #### Scene 1: Title
+
+    Five Movements format:
+        ### MOVEMENT I: Title  (roman or arabic numerals → mapped to parts)
+        ##### Chapter 1: Title  (any heading level)
+        **Scene 1: Title** (~1800 words)
 
     Also looks for YAML front matter with word_target settings.
 
@@ -211,28 +235,42 @@ def parse_outline(outline_path: Path) -> tuple[str, list[SceneOutline], dict[str
             titles[f"part-{current_part}"] = part_title
             continue
 
-        # Chapter: ### Chapter N: Title
-        m = re.match(r"^###\s+(?:Chapter\s+)?(\d+)[:\s]*(.*)$", line, re.IGNORECASE)
+        # Movement as Part: ### MOVEMENT I: Title (roman or arabic numerals)
+        m = re.match(
+            r"^#{2,3}\s+MOVEMENT\s+([IVXLC]+|\d+)[:\s]*(.*)$", line, re.IGNORECASE
+        )
+        if m:
+            raw = m.group(1)
+            current_part = _roman_to_int(raw) if raw.isalpha() else int(raw)
+            part_title = m.group(2).strip().lstrip(":").strip()
+            titles[f"part-{current_part}"] = part_title
+            continue
+
+        # Chapter: ### Chapter N: Title  or  ##### Chapter N: Title (any heading level)
+        m = re.match(r"^#{2,6}\s+(?:Chapter\s+)?(\d+)[:\s]*(.*)$", line, re.IGNORECASE)
         if m:
             current_chapter = int(m.group(1))
             ch_title = m.group(2).strip().lstrip(":").strip()
             titles[f"chapter-{current_part}-{current_chapter}"] = ch_title
             continue
 
-        # Scene: #### Scene N: Title  (or - Scene N: Title for list items)
+        # Scene: #### Scene N: Title  (or - Scene N: Title, or **Scene N: Title**)
         m = re.match(
-            r"^(?:####\s+|[-*]\s+)(?:Scene\s+)?(\d+)[:\s]*(.*)$",
+            r"^(?:#{2,6}\s+|[-*]\s+|\*\*)?(?:Scene\s+)(\d+)[:\s]*(.*)$",
             line, re.IGNORECASE,
         )
         if m and current_part > 0 and current_chapter > 0:
             scene_num = int(m.group(1))
             scene_title = m.group(2).strip().lstrip(":").strip()
 
-            # Check for word target in parentheses like "(~1500 words)"
-            wt_match = re.search(r"\(~?(\d+)\s*words?\)", scene_title, re.IGNORECASE)
-            scene_target = int(wt_match.group(1)) if wt_match else default_scene_target
+            # Check for word target in parentheses like "(~1500 words)" or "(~1,800 words)"
+            wt_match = re.search(r"\(~?([\d,]+)\s*words?\)", scene_title, re.IGNORECASE)
+            scene_target = int(wt_match.group(1).replace(",", "")) if wt_match else default_scene_target
             if wt_match:
                 scene_title = scene_title[:wt_match.start()].strip().rstrip(",").strip()
+
+            # Strip markdown bold markers
+            scene_title = scene_title.strip("*").strip()
 
             scenes.append(SceneOutline(
                 part=current_part,
@@ -408,6 +446,13 @@ def scan_manuscript_for_progress(
     expected_parts: dict[int, dict[int, list[int]]] = {}
     for so in outline_scenes:
         expected_parts.setdefault(so.part, {}).setdefault(so.chapter, []).append(so.scene)
+
+    # Also include chapters from titles dict that have no scenes yet
+    for key in titles:
+        m = re.match(r"chapter-(\d+)-(\d+)", key)
+        if m:
+            p, c = int(m.group(1)), int(m.group(2))
+            expected_parts.setdefault(p, {}).setdefault(c, [])
 
     # Also scan the filesystem for scenes that might exist but aren't in outline
     if manuscript_dir.is_dir():
