@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 09:22
+Last updated: 2026-02-17 09:29
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 53,558 / 110,000 target (48.7%)
-- **Pages:** 214 / 440 estimated
-- **Reading time:** 3h 34m estimated
-- **Audiobook time:** 5h 57m estimated
-- **Chapters:** 13 / 34 complete
-- **Scenes:** 31 / 31 complete
+- **Words:** 56,997 / 110,000 target (51.8%)
+- **Pages:** 228 / 440 estimated
+- **Reading time:** 3h 47m estimated
+- **Audiobook time:** 6h 19m estimated
+- **Chapters:** 14 / 34 complete
+- **Scenes:** 33 / 33 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -161,12 +161,12 @@ Last updated: 2026-02-17 09:22
 
 ## Part 3: COMPLICATION
 
-**Status:** Not Started | **Grade:** --/100
-**Words:** 0 / 0 (0.0%)
+**Status:** Writing | **Grade:** --/100
+**Words:** 3,439 / 2,400 (143.3%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
-| Ch 14: Questions in the Dark | 0/0 | 0 | Not Started | -- |
+| Ch 14: Questions in the Dark | 2/2 | 3,439 | First Draft | -- |
 | Ch 15: The Friar's Shadow | 0/0 | 0 | Not Started | -- |
 | Ch 16: The Silk | 0/0 | 0 | Not Started | -- |
 | Ch 17: The Confrontation | 0/0 | 0 | Not Started | -- |
@@ -181,6 +181,9 @@ Last updated: 2026-02-17 09:22
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 7.0 | 1,748 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 6.8 | 1,691 | First Draft | -- |
 
 ### Chapter 15: The Friar's Shadow
 
