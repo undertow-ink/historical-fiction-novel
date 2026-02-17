@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 15:02
+Last updated: 2026-02-17 15:11
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 90,092 / 110,000 target (81.9%)
-- **Pages:** 360 / 440 estimated
-- **Reading time:** 6h 0m estimated
-- **Audiobook time:** 10h 0m estimated
+- **Words:** 94,835 / 110,000 target (86.2%)
+- **Pages:** 379 / 440 estimated
+- **Reading time:** 6h 19m estimated
+- **Audiobook time:** 10h 32m estimated
 - **Chapters:** 21 / 34 complete
-- **Scenes:** 51 / 56 complete
+- **Scenes:** 53 / 59 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -162,7 +162,7 @@ Last updated: 2026-02-17 15:02
 ## Part 3: COMPLICATION
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 36,509 / 26,400 (138.3%)
+**Words:** 41,252 / 30,000 (137.5%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -175,7 +175,7 @@ Last updated: 2026-02-17 15:02
 | Ch 20: The Father's Secret | 2/2 | 2,877 | First Draft | -- |
 | Ch 21: Mirela's Truth | 1/2 | 2,675 | Writing | -- |
 | Ch 22: The Closing Trap | 3/3 | 5,352 | First Draft | -- |
-| Ch 23: The Crisis — MOVEMENT III ENDING | 0/0 | 0 | Not Started | -- |
+| Ch 23: The Crisis — MOVEMENT III ENDING | 2/3 | 4,743 | Writing | -- |
 
 ### Chapter 14: Questions in the Dark
 
@@ -259,6 +259,11 @@ Last updated: 2026-02-17 15:02
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 7.4 | 1,845 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 3.9 | 987 | Writing | -- |
+|   ---   |       |       |        |       |
+| 3: Scene 3 | 7.6 | 1,911 | First Draft | -- |
 
 ---
 
