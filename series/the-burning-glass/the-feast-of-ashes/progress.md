@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 14:06
+Last updated: 2026-02-17 14:16
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 66,391 / 110,000 target (60.4%)
-- **Pages:** 266 / 440 estimated
-- **Reading time:** 4h 25m estimated
-- **Audiobook time:** 7h 22m estimated
-- **Chapters:** 16 / 34 complete
-- **Scenes:** 38 / 46 complete
+- **Words:** 70,012 / 110,000 target (63.6%)
+- **Pages:** 280 / 440 estimated
+- **Reading time:** 4h 40m estimated
+- **Audiobook time:** 7h 46m estimated
+- **Chapters:** 17 / 34 complete
+- **Scenes:** 40 / 48 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -162,14 +162,14 @@ Last updated: 2026-02-17 14:06
 ## Part 3: COMPLICATION
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 12,808 / 14,400 (88.9%)
+**Words:** 16,429 / 16,800 (97.8%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 14: Questions in the Dark | 2/2 | 3,439 | First Draft | -- |
 | Ch 15: The Friar's Shadow | 2/2 | 4,189 | First Draft | -- |
 | Ch 16: The Silk | 3/3 | 5,180 | First Draft | -- |
-| Ch 17: The Confrontation | 0/0 | 0 | Not Started | -- |
+| Ch 17: The Confrontation | 2/2 | 3,621 | First Draft | -- |
 | Ch 18: Fornovo | 0/0 | 0 | Not Started | -- |
 | Ch 19: The Handler | 0/2 | 0 | Not Started | -- |
 | Ch 20: The Father's Secret | 0/0 | 0 | Not Started | -- |
@@ -207,6 +207,9 @@ Last updated: 2026-02-17 14:06
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 6.7 | 1,683 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 7.8 | 1,938 | First Draft | -- |
 
 ### Chapter 18: Fornovo
 
