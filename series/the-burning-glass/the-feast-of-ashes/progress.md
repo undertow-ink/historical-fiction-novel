@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 09:41
+Last updated: 2026-02-17 14:06
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 61,186 / 110,000 target (55.6%)
-- **Pages:** 245 / 440 estimated
-- **Reading time:** 4h 4m estimated
-- **Audiobook time:** 6h 47m estimated
-- **Chapters:** 15 / 34 complete
-- **Scenes:** 35 / 35 complete
+- **Words:** 66,391 / 110,000 target (60.4%)
+- **Pages:** 266 / 440 estimated
+- **Reading time:** 4h 25m estimated
+- **Audiobook time:** 7h 22m estimated
+- **Chapters:** 16 / 34 complete
+- **Scenes:** 38 / 46 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -89,13 +89,13 @@ Last updated: 2026-02-17 09:41
 ## Part 2: DEEPENING
 
 **Status:** First Draft | **Grade:** --/100
-**Words:** 26,673 / 22,700 (117.5%)
+**Words:** 26,698 / 22,700 (117.6%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 7: The Guild and the Ghetto | 2/2 | 3,851 | First Draft | -- |
 | Ch 8: The Rialto | 2/2 | 3,564 | First Draft | -- |
-| Ch 9: The Craft and the Girl | 2/2 | 3,383 | First Draft | -- |
+| Ch 9: The Craft and the Girl | 2/2 | 3,408 | First Draft | -- |
 | Ch 10: The Silent Room | 2/2 | 4,534 | First Draft | -- |
 | Ch 11: The Celebration | 2/2 | 3,795 | First Draft | -- |
 | Ch 12: The Alhazen Letters | 2/2 | 3,735 | First Draft | -- |
@@ -121,7 +121,7 @@ Last updated: 2026-02-17 09:41
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: Serena's knowledge | 6.9 | 1,724 | First Draft | -- |
+| 1: Serena's knowledge | 7.0 | 1,749 | First Draft | -- |
 |   ---   |       |       |        |       |
 | 2: The impossible thing | 6.6 | 1,659 | First Draft | -- |
 
@@ -162,19 +162,19 @@ Last updated: 2026-02-17 09:41
 ## Part 3: COMPLICATION
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 7,628 / 4,800 (158.9%)
+**Words:** 12,808 / 14,400 (88.9%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 14: Questions in the Dark | 2/2 | 3,439 | First Draft | -- |
 | Ch 15: The Friar's Shadow | 2/2 | 4,189 | First Draft | -- |
-| Ch 16: The Silk | 0/0 | 0 | Not Started | -- |
+| Ch 16: The Silk | 3/3 | 5,180 | First Draft | -- |
 | Ch 17: The Confrontation | 0/0 | 0 | Not Started | -- |
 | Ch 18: Fornovo | 0/0 | 0 | Not Started | -- |
-| Ch 19: The Handler | 0/0 | 0 | Not Started | -- |
+| Ch 19: The Handler | 0/2 | 0 | Not Started | -- |
 | Ch 20: The Father's Secret | 0/0 | 0 | Not Started | -- |
 | Ch 21: Mirela's Truth | 0/0 | 0 | Not Started | -- |
-| Ch 22: The Closing Trap | 0/0 | 0 | Not Started | -- |
+| Ch 22: The Closing Trap | 0/2 | 0 | Not Started | -- |
 | Ch 23: The Crisis — MOVEMENT III ENDING | 0/0 | 0 | Not Started | -- |
 
 ### Chapter 14: Questions in the Dark
@@ -197,6 +197,11 @@ Last updated: 2026-02-17 09:41
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: -2:** Enzo identifies the man in dark silk: Marcantonio Viaro. Through careful observation at the Rialto, he learns Viaro holds a minor diplomatic position but moves with the confidence of someone with far more power. "Carlo Rossetti" (Kasim) has also noticed Viaro and casually asks Enzo about him — a question Enzo files away without understanding its significance. Enzo realizes the conspiracy extends to the Venetian state itself — this is not a private enterprise but something connected to the Council of Ten. The scope is far larger and far more dangerous than he imagined. | 6.7 | 1,668 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 7.7 | 1,924 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 3: The Counting Room — FIRST TOUCH | 6.4 | 1,588 | First Draft | -- |
 
 ### Chapter 17: The Confrontation
 
@@ -212,6 +217,9 @@ Last updated: 2026-02-17 09:41
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: -2:** Viaro approaches Enzo directly. Not with threats — with charm, intelligence, and an appeal to Enzo's patriotism (what little a Jewish apprentice can claim). Viaro knows Enzo has been investigating. Instead of silencing him, Viaro recruits him: "You have your father's eyes and your father's skill. Venice has need of both." Viaro frames it as service to the Republic — Enzo's optical expertise can help evaluate the weapon's progress. In reality, Viaro is turning Enzo into a controlled asset. The trap begins to close. | 0.0 | 0 | Not Started | -- |
+|   ---   |       |       |        |       |
+| 3: The Fondamenta at Dusk — FIRST KISS | 0.0 | 0 | Not Started | -- |
 
 ### Chapter 20: The Father's Secret
 
@@ -227,6 +235,9 @@ Last updated: 2026-02-17 09:41
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: -2:** Enzo is caught between Viaro's manipulation, Bardolino's protection (which is also containment), and his own growing knowledge. Every escape route closes. He tries to warn someone — but who? The guild is complicit. The Church is involved through Fra Giordano. The Jewish community has no power. Kasim/Rossetti is sympathetic but is also clearly pursuing his own agenda. Enzo realizes the only person who might help is also the most dangerous: the unknown patron above Viaro. | 0.0 | 0 | Not Started | -- |
+|   ---   |       |       |        |       |
+| 3: The Boat Shed — FIRST SEX SCENE | 0.0 | 0 | Not Started | -- |
 
 ### Chapter 23: The Crisis — MOVEMENT III ENDING
 
@@ -238,12 +249,12 @@ Last updated: 2026-02-17 09:41
 ## Part 4: REVELATION AND RECKONING
 
 **Status:** Not Started | **Grade:** --/100
-**Words:** 0 / 0 (0.0%)
+**Words:** 0 / 3,200 (0.0%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 24: The Plan | 0/0 | 0 | Not Started | -- |
-| Ch 25: The Sabotage | 0/0 | 0 | Not Started | -- |
+| Ch 25: The Sabotage | 0/2 | 0 | Not Started | -- |
 | Ch 26: The Test | 0/0 | 0 | Not Started | -- |
 | Ch 27: The Unraveling | 0/0 | 0 | Not Started | -- |
 | Ch 28: The Exposure | 0/0 | 0 | Not Started | -- |
@@ -259,6 +270,9 @@ Last updated: 2026-02-17 09:41
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: -2:** Enzo executes his plan over several weeks. Each night, working alone, he grinds imperceptible flaws into the critical lenses. The work requires all his skill — the flaws must be invisible to inspection but fatal to function. He is using his craft at its highest level, and the irony burns: the same precision that could make the weapon perfect is what allows him to destroy it. Meanwhile, he must maintain his cover with Viaro, his relationship with Bardolino, and his sanity. | 0.0 | 0 | Not Started | -- |
+|   ---   |       |       |        |       |
+| 3: The Counting Room at Night — SECOND SEX SCENE | 0.0 | 0 | Not Started | -- |
 
 ### Chapter 26: The Test
 
@@ -290,11 +304,11 @@ Last updated: 2026-02-17 09:41
 ## Part 5: AFTERMATH
 
 **Status:** Not Started | **Grade:** --/100
-**Words:** 0 / 0 (0.0%)
+**Words:** 0 / 3,000 (0.0%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
-| Ch 31: Exile | 0/0 | 0 | Not Started | -- |
+| Ch 31: Exile | 0/2 | 0 | Not Started | -- |
 | Ch 32: Final Suspense | 0/0 | 0 | Not Started | -- |
 | Ch 33: The Last Lesson — RS Climax | 0/0 | 0 | Not Started | -- |
 | Ch 34: The Grinding Wheel | 0/0 | 0 | Not Started | -- |
@@ -303,6 +317,9 @@ Last updated: 2026-02-17 09:41
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Enzo is expelled from the furnace. His guild credentials are revoked. He is, effectively, a person without a trade in a world where trade is identity. The Jewish community absorbs the shock — Rabbi Yehudah helps Mirela and Enzo navigate the immediate crisis. Enzo considers flight to Modena (Mirela's family) but realizes he cannot run. Not because running is cowardly — his father ran and it wasn't enough — but because this is his city and his craft, and the Truth is lived, not escaped. | 0.0 | 0 | Not Started | -- |
+|   ---   |       |       |        |       |
+| 2: The Sforno House — THIRD AND FINAL SEX SCENE | 0.0 | 0 | Not Started | -- |
 
 ### Chapter 32: Final Suspense
 
