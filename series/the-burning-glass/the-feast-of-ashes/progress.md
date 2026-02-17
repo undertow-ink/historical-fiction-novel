@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 15:11
+Last updated: 2026-02-17 15:21
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 94,835 / 110,000 target (86.2%)
-- **Pages:** 379 / 440 estimated
-- **Reading time:** 6h 19m estimated
-- **Audiobook time:** 10h 32m estimated
-- **Chapters:** 21 / 34 complete
-- **Scenes:** 53 / 59 complete
+- **Words:** 98,476 / 110,000 target (89.5%)
+- **Pages:** 394 / 440 estimated
+- **Reading time:** 6h 33m estimated
+- **Audiobook time:** 10h 56m estimated
+- **Chapters:** 22 / 34 complete
+- **Scenes:** 55 / 61 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -269,12 +269,12 @@ Last updated: 2026-02-17 15:11
 
 ## Part 4: REVELATION AND RECKONING
 
-**Status:** Not Started | **Grade:** --/100
-**Words:** 0 / 3,200 (0.0%)
+**Status:** Writing | **Grade:** --/100
+**Words:** 3,641 / 5,600 (65.0%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
-| Ch 24: The Plan | 0/0 | 0 | Not Started | -- |
+| Ch 24: The Plan | 2/2 | 3,641 | First Draft | -- |
 | Ch 25: The Sabotage | 0/2 | 0 | Not Started | -- |
 | Ch 26: The Test | 0/0 | 0 | Not Started | -- |
 | Ch 27: The Unraveling | 0/0 | 0 | Not Started | -- |
@@ -286,6 +286,9 @@ Last updated: 2026-02-17 15:11
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 6.9 | 1,725 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 7.7 | 1,916 | First Draft | -- |
 
 ### Chapter 25: The Sabotage
 

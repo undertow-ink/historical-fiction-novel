@@ -1,0 +1,53 @@
+He chose the third lens in the secondary rack. Number fourteen by Bardolino's inventory, which Enzo had memorized weeks ago, running the sequence through his head the way other men murmured prayers. Fourteen was a convex element, twenty-two centimeters across, ground to a curvature that Fra Giordano's diagrams specified to the hundredth of a degree. It had passed inspection. Viaro's arsenal man had checked it against the brass template, pressed the surfaces together, held it to the light, and marked it with a grease pencil: a small cross in the lower left, meaning approved for final assembly. The grease cross was still there, a waxy smudge no larger than a barley grain.
+
+Enzo lifted the lens from its felt cradle and carried it to his grinding station. The workshop was dark except for the candle he had set on the marver and the faint glow from the furnace's banked coals, orange through the bocche, steady as a pulse. He did not need light to find the mounting jig — a brass collar with four set screws that held the lens at a fixed angle against the grinding lap. He had built the jig himself, over two evenings, filing the brass from a discarded hinge plate. It looked like any other calibration tool. It was not.
+
+He seated the lens in the collar. Tightened the screws until the glass sang a faint high note against the brass — the sound of proper contact, of surfaces mated without play. Then he loosened the leftmost screw by a quarter turn and tapped the rim of the lens with the ball of his thumb.
+
+The lens rotated in its mounting. A fraction. Less than a degree. Less than half a degree. An angular displacement so slight that if he held the lens to the window at arm's length, the shift in its focal line would not be visible at ten paces. At a hundred — the range Viaro wanted, the range that would let the weapon reach across water to find a ship — the focused point would spread into a disc of diffuse light, warm but no longer lethal, a glow instead of a blade.
+
+The geometry was simple. Every lens in the array contributed to the convergence, and the convergence was cumulative. His father had understood this. Giacomo's notes had described it in the compressed shorthand of a man writing in haste, switching between Hebrew and Italian within a single line: the array was a chain, and a chain's tolerance was the tolerance of its weakest link. If five of the eight secondary lenses carried fractional rotations — each in a different axis, each small enough to escape template inspection — the composite beam would hold true at short range and scatter at long range. The weapon would appear to work. It would fail when it mattered.
+
+Enzo held the modified lens up to the candle. The flame bent through the glass and painted a bright oval on the opposite wall — crisp at the edges, the wick's dark filament visible in the center. Short-range focus: perfect. No inspector would see a flaw because at this distance there was no flaw. The surface read true.
+
+He angled the lens toward the far corner of the workshop, where the wall met the ceiling twenty braccia away. The oval widened. Softened at its margins. The wick's filament blurred into the surrounding light. At this distance the distortion was present but ambiguous — it could be the candle flickering, could be the air moving in the residual furnace heat. He would need to calculate the divergence at full range.
+
+He set the lens on the felt pad and took the wax tablet from the shelf beneath the grinding station. The calculations were ones his father had taught him at fourteen, sitting at the kitchen table in Cannaregio with a dish of oil and a floating wick for a light source. Focal length. Angular displacement. Beam divergence as a function of distance and the sine of the offset angle. The numbers moved through his head with the fluency of a language learned young, and he scratched the results into the wax with a bone stylus, checking each step twice, the way Giacomo had insisted: *measure the cut, measure it again, then cut.* At two hundred braccia, with five lenses carrying offsets between a third and a half degree, the beam would spread to a circle nearly three braccia across. Wood might warm. It would not ignite. Flesh would feel the sun and nothing more.
+
+He wiped the wax tablet clean with the heel of his hand. No record. The numbers lived in his head now, alongside everything else he could not put down.
+
+He returned the lens to its felt cradle, grease cross still visible, and replaced the rack on the shelf precisely as he had found it. He checked it the way he checked a ground surface: with his fingers, running them along the edge of the cradle, feeling for displacement. None. The lens sat in its place as though it had never been lifted.
+
+The test was done. The method worked. Tomorrow he could begin on the first of the five.
+
+He did not allow himself to feel what that meant. Now there was only the sequence: five lenses, five sessions, five fractional rotations introduced in the hours between the last worker's departure and the first worker's arrival. He would log his time in the workshop ledger the way he always did — standard entries, true in every detail except the one that mattered. The surface would read true. The geometry would lie.
+
+And he would need to be the surface.
+
+Tomorrow Fra Giordano would come to the workshop, as he came every third day now, his white sleeves pushed to his elbows, his eyes bright with the hunger of a man watching his ideas take physical form. He would examine Enzo's work. He would hold a lens up to the light with something close to reverence and speak of convergence ratios as if they were verses of scripture. And Enzo would stand beside him and nod and answer the friar's questions with the correct numbers, because the optics were real and his understanding of them was real, and the lie was not in his knowledge but in his intent. He would be the brilliant apprentice. He would smile when Fra Giordano smiled. He would meet Viaro's measuring gaze and return nothing the man did not expect to see.
+
+He was eighteen. He had been pretending for most of his life — pretending not to hear what the other apprentices said about the yellow circle, pretending that the patrol stops on the lagoon crossing were routine and not ritual, pretending that the empty chair at his mother's table was simply empty and not the shape of a man burned alive. This was not a new skill. It was the old skill turned to a purpose that justified the years of practice.
+
+He blew out the candle.
+
+The workshop settled into its nighttime self — the tick of cooling bricks, the low hum of banked coals, the creak of old timber adjusting to the absence of heat. He moved through the dark toward the rear door, and as he passed Bardolino's workstation he stopped.
+
+The millefiori piece was on the shelf. He could not see it in the dark, but he knew where it sat — third shelf, left side, beside the calcedonio vase and the cristallo goblet that Bardolino had blown for the Doge's table thirty years ago and been told was not good enough and had kept ever since. The stool was pushed back from the bench at the angle Bardolino always left it, turned slightly to the right so he could rise without catching his bad knee on the crossbar. His tools hung in their places on the wall rack — the puntello, the borsella, the tagianti — each handle worn to the specific shape of his grip. The leather apron hung from its hook, creased and dark with old sweat, the left strap repaired twice with different thread.
+
+Bardolino's workshop. Bardolino's tools. Bardolino's furnace, built by Bardolino's grandfather, maintained by three generations of hands that knew where every crack in the brickwork ran. Everything Enzo was as a craftsman, Bardolino had made. And Enzo was using all of it to betray the man who had given it to him.
+
+He did not let himself stand there. He walked to the door and opened it and stepped out onto the fondamenta.
+
+Dawn was coming. The sky above the rooftops had turned from black to the deep blue that preceded color, and the canal was visible now, its surface carrying the first faint reflection of the lightening sky. The air smelled of brine and wet stone and, beneath that, the mineral scent that Murano always carried — silica and flux baked into the island's skin. To the east, past the bell tower of San Donato, the sky was warming toward copper. It was the hour between the night shift's end and the day shift's beginning, the hour when the island belonged to the water and the birds and anyone who had reason to be awake and no reason to explain it.
+
+A heron stood motionless on the far side of the canal, knee-deep in the shallows. Enzo watched it. His hands hung at his sides and the fondamenta's stones were damp under his feet and the day was coming and he had work to do.
+
+Five lenses. Five sessions. He would need to space them — one every three or four days, interleaved with legitimate calibration work, so that the pattern of his hours revealed nothing but diligence. Six weeks. Maybe eight. The weapon's deployment was planned for late summer. He had time, but not much, and the margin was as thin as the angular displacement he had just calculated on his wax tablet.
+
+The heron struck. A quick unfurling of the neck, a silver splash, and the bird tipped its head back and swallowed. Then it was still again, its eye on the water.
+
+Enzo walked east along the fondamenta toward the boat landing. The first furnace smoke of the day was rising from the Barovier works, three buildings down — a thin grey column climbing straight in the windless air before feathering against the blue. By midmorning every chimney on the island would be burning, and the smoke would merge into a haze that hung above Murano like a low cloud, visible from Venice, from the Lido, from the open lagoon.
+
+He untied the sandolo and pushed off and took up the oar. The water parted ahead of him and closed behind and carried no mark of his passage. The plan was set. The work would begin tomorrow. He was committed to it the way glass is committed to its shape after the annealing — not because it chose the form but because the heat had been applied and the cooling had occurred and the internal stresses had resolved into the only configuration that would hold.
+
+Behind him, the smoke rose and thinned and joined the brightening sky, and the heron stood in its shallows, and the workshop door sat flush in its frame, and inside, in the dark, the lenses waited in their felt cradles, each one carrying its small grease cross, each one approved, each one — soon — a quiet lie told in glass.
