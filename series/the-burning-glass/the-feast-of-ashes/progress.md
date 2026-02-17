@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-16 20:03
+Last updated: 2026-02-16 20:23
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 26,885 / 110,000 target (24.4%)
-- **Pages:** 108 / 440 estimated
-- **Reading time:** 1h 47m estimated
-- **Audiobook time:** 2h 59m estimated
-- **Chapters:** 6 / 34 complete
-- **Scenes:** 17 / 31 complete
+- **Words:** 30,736 / 110,000 target (27.9%)
+- **Pages:** 123 / 440 estimated
+- **Reading time:** 2h 2m estimated
+- **Audiobook time:** 3h 24m estimated
+- **Chapters:** 7 / 34 complete
+- **Scenes:** 19 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -88,12 +88,12 @@ Last updated: 2026-02-16 20:03
 
 ## Part 2: DEEPENING
 
-**Status:** Not Started | **Grade:** --/100
-**Words:** 0 / 22,700 (0.0%)
+**Status:** Writing | **Grade:** --/100
+**Words:** 3,851 / 22,700 (17.0%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
-| Ch 7: The Guild and the Ghetto | 0/2 | 0 | Not Started | -- |
+| Ch 7: The Guild and the Ghetto | 2/2 | 3,851 | First Draft | -- |
 | Ch 8: The Rialto | 0/2 | 0 | Not Started | -- |
 | Ch 9: The Craft and the Girl | 0/2 | 0 | Not Started | -- |
 | Ch 10: The Silent Room | 0/2 | 0 | Not Started | -- |
@@ -105,9 +105,9 @@ Last updated: 2026-02-16 20:03
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: Guild Day | 0.0 | 0 | Not Started | -- |
+| 1: Guild Day | 7.7 | 1,926 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: Rabbi Yehudah's counsel | 0.0 | 0 | Not Started | -- |
+| 2: Rabbi Yehudah's counsel | 7.7 | 1,925 | First Draft | -- |
 
 ### Chapter 8: The Rialto
 
