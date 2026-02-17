@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 16:35
+Last updated: 2026-02-17 16:44
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 104,191 / 110,000 target (94.7%)
-- **Pages:** 417 / 440 estimated
-- **Reading time:** 6h 56m estimated
-- **Audiobook time:** 11h 34m estimated
-- **Chapters:** 23 / 34 complete
-- **Scenes:** 58 / 62 complete
+- **Words:** 108,694 / 110,000 target (98.8%)
+- **Pages:** 435 / 440 estimated
+- **Reading time:** 7h 14m estimated
+- **Audiobook time:** 12h 4m estimated
+- **Chapters:** 24 / 34 complete
+- **Scenes:** 60 / 64 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -270,13 +270,13 @@ Last updated: 2026-02-17 16:35
 ## Part 4: REVELATION AND RECKONING
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 9,356 / 6,800 (137.6%)
+**Words:** 13,859 / 9,200 (150.6%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 24: The Plan | 2/2 | 3,641 | First Draft | -- |
 | Ch 25: The Sabotage | 3/3 | 5,715 | First Draft | -- |
-| Ch 26: The Test | 0/0 | 0 | Not Started | -- |
+| Ch 26: The Test | 2/2 | 4,503 | First Draft | -- |
 | Ch 27: The Unraveling | 0/0 | 0 | Not Started | -- |
 | Ch 28: The Exposure | 0/0 | 0 | Not Started | -- |
 | Ch 29: Bardolino's Choice — IC Climax | 0/0 | 0 | Not Started | -- |
@@ -304,6 +304,9 @@ Last updated: 2026-02-17 16:35
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 7.8 | 1,962 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 10.2 | 2,541 | First Draft | -- |
 
 ### Chapter 27: The Unraveling
 
