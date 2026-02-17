@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 09:08
+Last updated: 2026-02-17 09:15
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 46,012 / 110,000 target (41.8%)
-- **Pages:** 184 / 440 estimated
-- **Reading time:** 3h 4m estimated
-- **Audiobook time:** 5h 6m estimated
-- **Chapters:** 11 / 34 complete
-- **Scenes:** 27 / 31 complete
+- **Words:** 49,747 / 110,000 target (45.2%)
+- **Pages:** 199 / 440 estimated
+- **Reading time:** 3h 18m estimated
+- **Audiobook time:** 5h 31m estimated
+- **Chapters:** 12 / 34 complete
+- **Scenes:** 29 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -89,7 +89,7 @@ Last updated: 2026-02-17 09:08
 ## Part 2: DEEPENING
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 19,127 / 22,700 (84.3%)
+**Words:** 22,862 / 22,700 (100.7%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -98,7 +98,7 @@ Last updated: 2026-02-17 09:08
 | Ch 9: The Craft and the Girl | 2/2 | 3,383 | First Draft | -- |
 | Ch 10: The Silent Room | 2/2 | 4,534 | First Draft | -- |
 | Ch 11: The Celebration | 2/2 | 3,795 | First Draft | -- |
-| Ch 12: The Alhazen Letters | 0/2 | 0 | Not Started | -- |
+| Ch 12: The Alhazen Letters | 2/2 | 3,735 | First Draft | -- |
 | Ch 13: The Assembly — MIDPOINT | 0/2 | 0 | Not Started | -- |
 
 ### Chapter 7: The Guild and the Ghetto
@@ -145,9 +145,9 @@ Last updated: 2026-02-17 09:08
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: The theory revealed | 0.0 | 0 | Not Started | -- |
+| 1: The theory revealed | 7.5 | 1,874 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: Charles takes Naples | 0.0 | 0 | Not Started | -- |
+| 2: Charles takes Naples | 7.4 | 1,861 | First Draft | -- |
 
 ### Chapter 13: The Assembly — MIDPOINT
 
