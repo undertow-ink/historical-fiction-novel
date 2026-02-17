@@ -475,10 +475,12 @@ Enzo traces the intellectual source of the weapon to Fra Giordano da Padova thro
 ---
 
 ##### Chapter 16: The Silk
-**POV:** Enzo | **Location:** The Rialto / a canal-side meeting | **Time:** March 1495
-**Word target:** ~3,000
+**POV:** Enzo | **Location:** The Rialto / Contarini furnace counting room | **Time:** March 1495
+**Word target:** ~4,200
 
-Enzo identifies the man in dark silk: Marcantonio Viaro. Through careful observation at the Rialto, he learns Viaro holds a minor diplomatic position but moves with the confidence of someone with far more power. "Carlo Rossetti" (Kasim) has also noticed Viaro and casually asks Enzo about him — a question Enzo files away without understanding its significance. Enzo realizes the conspiracy extends to the Venetian state itself — this is not a private enterprise but something connected to the Council of Ten. The scope is far larger and far more dangerous than he imagined.
+**Scene 1-2:** Enzo identifies the man in dark silk: Marcantonio Viaro. Through careful observation at the Rialto, he learns Viaro holds a minor diplomatic position but moves with the confidence of someone with far more power. "Carlo Rossetti" (Kasim) has also noticed Viaro and casually asks Enzo about him — a question Enzo files away without understanding its significance. Enzo realizes the conspiracy extends to the Venetian state itself — this is not a private enterprise but something connected to the Council of Ten. The scope is far larger and far more dangerous than he imagined.
+
+**Scene 3: The Counting Room — FIRST TOUCH (~1,200 words).** Enzo returns to Murano shaken by the discovery that the conspiracy reaches the state. He goes to the Contarini furnace. Serena is in the counting room. Surface conversation about supply disruptions. Beneath: Enzo is frightened, and Serena reads it — she always could. Her hand covers his on the table. First deliberate physical contact. The yellow circle visible between them. Neither speaks about what the touch means. She does not withdraw her hand. He does not breathe. *Value shift: Fear → A different kind of vulnerability.*
 
 ---
 
@@ -510,10 +512,12 @@ The Battle of Fornovo (July 6, 1495) — Venice's victory over Charles VIII's re
 ---
 
 ##### Chapter 19: The Handler
-**POV:** Enzo | **Location:** Various — Venice | **Time:** August–September 1495
-**Word target:** ~3,200
+**POV:** Enzo | **Location:** Various — Venice / Murano fondamenta | **Time:** August–September 1495
+**Word target:** ~4,800
 
-Viaro approaches Enzo directly. Not with threats — with charm, intelligence, and an appeal to Enzo's patriotism (what little a Jewish apprentice can claim). Viaro knows Enzo has been investigating. Instead of silencing him, Viaro recruits him: "You have your father's eyes and your father's skill. Venice has need of both." Viaro frames it as service to the Republic — Enzo's optical expertise can help evaluate the weapon's progress. In reality, Viaro is turning Enzo into a controlled asset. The trap begins to close.
+**Scene 1-2:** Viaro approaches Enzo directly. Not with threats — with charm, intelligence, and an appeal to Enzo's patriotism (what little a Jewish apprentice can claim). Viaro knows Enzo has been investigating. Instead of silencing him, Viaro recruits him: "You have your father's eyes and your father's skill. Venice has need of both." Viaro frames it as service to the Republic — Enzo's optical expertise can help evaluate the weapon's progress. In reality, Viaro is turning Enzo into a controlled asset. The trap begins to close.
+
+**Scene 3: The Fondamenta at Dusk — FIRST KISS (~1,600 words).** Enzo, now caught in Viaro's web, meets Serena on the fondamenta — the same route they walked in Ch9 Sc2. But this time the half-pace distance closes. He tells her he is in danger — not the specifics, but enough. She steps into the space between them. Her hand on his chest, over the yellow circle. The first kiss. Not tender — desperate, precise, the way a lens grinder's hands are precise even when shaking. The fondamenta is empty. The furnace light makes her glass beads glow. The kiss tastes of salt air and smoke. *Value shift: Entrapment → The only freedom left.*
 
 ---
 
@@ -545,22 +549,26 @@ Enzo confronts Mirela. She breaks. She tells him what she saw the night before G
 ---
 
 ##### Chapter 22: The Closing Trap
-**POV:** Enzo | **Location:** Various — Venice, Murano | **Time:** December 1495–Spring 1496
-**Word target:** ~3,200
+**POV:** Enzo | **Location:** Various — Venice, Murano, canal-side storage | **Time:** December 1495–Spring 1496
+**Word target:** ~5,200
 
-Enzo is caught between Viaro's manipulation, Bardolino's protection (which is also containment), and his own growing knowledge. Every escape route closes. He tries to warn someone — but who? The guild is complicit. The Church is involved through Fra Giordano. The Jewish community has no power. Kasim/Rossetti is sympathetic but is also clearly pursuing his own agenda. Enzo realizes the only person who might help is also the most dangerous: the unknown patron above Viaro.
+**Scene 1-2:** Enzo is caught between Viaro's manipulation, Bardolino's protection (which is also containment), and his own growing knowledge. Every escape route closes. He tries to warn someone — but who? The guild is complicit. The Church is involved through Fra Giordano. The Jewish community has no power. Kasim/Rossetti is sympathetic but is also clearly pursuing his own agenda. Enzo realizes the only person who might help is also the most dangerous: the unknown patron above Viaro.
+
+**Scene 3: The Boat Shed — FIRST SEX SCENE (~2,000 words).** The trap is closing. Enzo has nowhere to go. He and Serena meet in a storage space adjacent to the canal — not a bed, not a room meant for this. Surrounded by glass-world materials. The sex is urgent, imperfect, first-time. Bodies learning each other. Key image: Enzo keeps his shirt on instinctively — the yellow circle hidden. Serena removes it. Her hand on the badge against his bare chest. She has not looked away from that circle since Ch9, and she does not look away now. The glass-bead necklace pressed between their bodies. Narrative function: Enzo crosses a second forbidden line (the first was investigating). He now has TWO dangerous secrets from Bardolino. Serena exercises agency — her lie ("I can only act through men") begins to break. *Value shift: Entrapment → Transgression → A different kind of exposure.*
 
 ---
 
 ##### Chapter 23: The Crisis — MOVEMENT III ENDING
 **POV:** Enzo | **Location:** Bardolino Furnace / the lagoon | **Time:** Spring 1496
-**Word target:** ~3,500
+**Word target:** ~4,300
 
 THE CRISIS. Enzo has learned that the weapon is nearing completion. Fra Giordano has achieved a working prototype. The Council of Ten plans to deploy it against Ottoman naval forces. The intended targets are real — specific ships, specific people. Enzo's father died trying to prevent this. Viaro expects Enzo to help calibrate the final optics.
 
 **Irreconcilable Goods crisis:** Loyalty (to Bardolino, who protected him, taught him, loved him; to the Republic that is, however imperfectly, his home; to the memory of his father who also tried to work within the system) vs. Integrity (refusing to participate in a weapon that will burn men alive; honoring his father's true legacy of resistance, not just his craft; seeing clearly and acting on what he sees).
 
 Both are genuine goods. Both are worth preserving. He cannot have both.
+
+**Serena beat (~800 words):** The sexual relationship makes the Crisis decision harder. If Enzo acts against the conspiracy, he risks not only himself but Serena. Discovery of their relationship would destroy her reputation and her father's standing. Enzo considers what his choice means for her — and chooses to act despite the cost, without consulting her. This is both brave and paternalistic, and Serena will later call him on it.
 
 ---
 
@@ -594,10 +602,12 @@ Enzo decides to sabotage the weapon — completing his father's unfinished work.
 ---
 
 ##### Chapter 25: The Sabotage
-**POV:** Enzo | **Location:** Bardolino Furnace | **Time:** Autumn 1496
-**Word target:** ~3,200
+**POV:** Enzo | **Location:** Bardolino Furnace / Contarini counting room | **Time:** Autumn 1496
+**Word target:** ~5,200
 
-Enzo executes his plan over several weeks. Each night, working alone, he grinds imperceptible flaws into the critical lenses. The work requires all his skill — the flaws must be invisible to inspection but fatal to function. He is using his craft at its highest level, and the irony burns: the same precision that could make the weapon perfect is what allows him to destroy it. Meanwhile, he must maintain his cover with Viaro, his relationship with Bardolino, and his sanity.
+**Scene 1-2:** Enzo executes his plan over several weeks. Each night, working alone, he grinds imperceptible flaws into the critical lenses. The work requires all his skill — the flaws must be invisible to inspection but fatal to function. He is using his craft at its highest level, and the irony burns: the same precision that could make the weapon perfect is what allows him to destroy it. Meanwhile, he must maintain his cover with Viaro, his relationship with Bardolino, and his sanity.
+
+**Scene 3: The Counting Room at Night — SECOND SEX SCENE (~2,000 words).** During the sabotage period. Enzo comes to Serena after a night of grinding deliberate flaws into weapon lenses. His hands — which have been destroying precision all day — now touch her body with the same attentive care. The counting room. The ledger pushed aside but visible. The glass-bead necklace removed, set on the ledger, scattering colored light across the columns of numbers. Sex as confession: his body knows this may be the last time, even if his mind refuses to say it. Serena now holds dangerous knowledge — she is complicit. Her lie about acting only through men is collapsing. *Value shift: Isolation → Connection → The knowledge that connection is temporary.*
 
 ---
 
@@ -611,11 +621,13 @@ The weapon is tested. Bardolino, Viaro, Fra Giordano, and Enzo are present on a 
 
 ##### Chapter 27: The Unraveling
 **POV:** Enzo | **Location:** Various — Murano, Venice | **Time:** Winter 1496–1497
-**Word target:** ~3,200
+**Word target:** ~4,000
 
 The failed test triggers a chain reaction. Giordano demands new components. Viaro launches an investigation into the failure. Enzo's sabotage holds under initial scrutiny — the flaws are that subtle — but the net is tightening. Kasim/Rossetti, who has been monitoring the project for Ottoman intelligence, recognizes that someone sabotaged the test and approaches Enzo with an offer: "I know what you did. I can protect you — if you give me the plans." Enzo refuses. He will not trade one weapon's master for another.
 
 The OS climax: the conspiracy is thrown into chaos. The weapon's deployment is delayed. But the conspirators are turning on each other, and Enzo is in the center.
+
+**Serena beat (~800 words).** Serena learns the sabotage has been detected. She understands before Enzo does that the net is closing. She does not weep or plead — she asks sharp questions (in character) and she is afraid. The fear is shown through her body: hands still, eyes steady, the pen set down with care. The reader sees what it costs her to love someone who chose danger without asking her permission.
 
 ---
 
@@ -682,10 +694,12 @@ The Controlling Idea prevails through action: *Moral clarity survives when a per
 ---
 
 ##### Chapter 31: Exile
-**POV:** Enzo | **Location:** Venice — Jewish quarter / Modena road | **Time:** March 1497
-**Word target:** ~3,200
+**POV:** Enzo | **Location:** Venice — Jewish quarter / Sforno house | **Time:** March 1497
+**Word target:** ~5,000
 
-Enzo is expelled from the furnace. His guild credentials are revoked. He is, effectively, a person without a trade in a world where trade is identity. The Jewish community absorbs the shock — Rabbi Yehudah helps Mirela and Enzo navigate the immediate crisis. Enzo considers flight to Modena (Mirela's family) but realizes he cannot run. Not because running is cowardly — his father ran and it wasn't enough — but because this is his city and his craft, and the Truth is lived, not escaped.
+**Scene 1:** Enzo is expelled from the furnace. His guild credentials are revoked. He is, effectively, a person without a trade in a world where trade is identity. The Jewish community absorbs the shock — Rabbi Yehudah helps Mirela and Enzo navigate the immediate crisis. Enzo considers flight to Modena (Mirela's family) but realizes he cannot run. Not because running is cowardly — his father ran and it wasn't enough — but because this is his city and his craft, and the Truth is lived, not escaped.
+
+**Scene 2: The Sforno House — THIRD AND FINAL SEX SCENE (~1,800 words).** Serena crosses from Murano to Venice, from the Christian world into the Jewish quarter, from the proper into the forbidden. She comes to the Sforno house knowing it may be the last time. Giacomo's workbench against the wall — the dead father's tools watching. The most personal, most Jewish space in the novel. Enzo is not wearing the yellow circle — he is in his own home, unmarked. She sees him that way for the first and last time. The sex is the sparest of the three scenes: short sentences, almost no metaphor, just bodies and breath and the sound of the house settling. Every touch is a farewell. The glass-bead necklace: she leaves it with him. Each bead a color, each color a year of her father's work. Her arc completes — she has acted directly, physically, at great personal cost. *Value shift: Loss → The tenderness that exists alongside loss.*
 
 ---
 
@@ -723,6 +737,8 @@ Enzo takes it. They do not embrace. They do not forgive. They hold contradictory
 Enzo sets up a grinding wheel in his mother's house. Not Giacomo's old wheel — a new one, built with his own hands from salvaged parts. He begins grinding lenses. Not for a furnace, not for a patron, not for a weapon. For scholars who need reading glasses. For Gritti, who is going blind and needs stronger spectacles. For himself — he is designing a device that will magnify the night sky, a project that is decades ahead of its time and that he will never complete.
 
 The reconciliation: Enzo holds contradictions. He loves the craft that nearly destroyed him. He misses the maestro who betrayed him. He is a Jew in a city that tolerates him, a craftsman without a guild, a son avenging a father by becoming him. The world has not become simple. He has not been rewarded for his righteousness. He has lost almost everything. But he can see.
+
+**Serena's final image (~200 words).** Among the details of Enzo at his new wheel: the glass-bead necklace, hanging from a nail on the wall or coiled on the bench beside him. The beads catch the morning light the way they caught the furnace light in Ch9 — the colors refract through the lens he is grinding. Serena is not present, but her absence has a shape and a weight, like Giacomo's. Presence through absence. Warmth retained in glass after the fire has gone out.
 
 The final image: Enzo at his grinding wheel, the morning light of Venice falling through the window onto the glass blank in his hands. He rotates it slowly, examining it for flaws. The glass is not yet what it will become. He grinds it anyway. The sound fills the small room — the sound of precision, of patience, of a maker deciding where the light will fall.
 

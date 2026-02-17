@@ -589,6 +589,8 @@ characters:
       distinguishing_features:
         - "a dimple in her left cheek when she smiles"
         - "calloused hands — she helps in her father's workshop more than a daughter should"
+        - "freckles across the bridge of her nose (Enzo notices these first in Ch3, recalls them in intimate scenes)"
+        - "a strand of dark auburn hair that escapes her braid along her jaw (recurring detail)"
       clothing_style: >
         Better than working class — her father's furnace is more prosperous than
         Bardolino's. Simple but well-made dresses, a good wool shawl, leather shoes
@@ -601,6 +603,7 @@ characters:
         - "impatient with injustice, especially the restrictions on what women can do"
         - "warm and generous with those she trusts"
         - "knows when to keep her mouth shut, a survival skill in Murano's gossipy community"
+        - "physically direct — when she decides to act, she acts without hesitation; the same quality that makes her blunt in conversation makes her bold in intimacy"
       values:
         - "honesty and directness"
         - "family loyalty"
@@ -633,14 +636,77 @@ characters:
       ghost: "watched her mother's intelligence wasted in domestic confinement; fears the same fate"
       lie: "I can influence events only through the men around me"
       truth: "her direct knowledge and action are what ultimately matter"
+      lie_tested_by: >
+        The sexual relationship with Enzo. She cannot claim to act only through men
+        when she is choosing him directly, physically, illegally. Each encounter is an
+        act of autonomous agency that contradicts the lie.
+
+    relationships:
+      - character: "Enzo Sforno"
+        nature: "friendship deepening into forbidden romance and sexual relationship"
+        power_dynamic: "equal intellectually; social barriers favor Serena (Christian, master's daughter); Enzo's danger creates a different kind of imbalance"
+        key_tension: "interfaith sexual relationship in a world where discovery means destruction for both"
+        evolution: "childhood acquaintance -> friendship -> intellectual intimacy -> physical awareness -> first contact (Ch16) -> first kiss (Ch19) -> sexual relationship (Ch22) -> deepening under pressure (Ch25) -> farewell (Ch31) -> unresolved"
+        intimacy_progression:
+          - stage: "half-pace distance"
+            chapter: 9
+            description: "perfect restraint; the distance is the defining image"
+          - stage: "first touch"
+            chapter: 16
+            description: "her hand over his; the yellow circle visible"
+          - stage: "first kiss"
+            chapter: 19
+            description: "on the fondamenta; her hand over the badge on his chest"
+          - stage: "first sex"
+            chapter: 22
+            description: "a utilitarian space; urgent, imperfect; the yellow circle bared"
+          - stage: "deepening"
+            chapter: 25
+            description: "the counting room; slower; confessional; his sabotage hands on her body"
+          - stage: "farewell"
+            chapter: 31
+            description: "the Sforno house; Giacomo's tools watching; the bead necklace left behind"
+
+    key_motifs:
+      half_pace_distance:
+        - "Ch9: maintained — 'the width of the lagoon'"
+        - "Ch16: closes to zero"
+        - "Ch19: eliminated by kiss"
+        - "Ch22: gone"
+        - "Ch31: geographic separation replaces physical distance"
+      glass_bead_necklace:
+        - "Ch9: catches furnace light at her throat"
+        - "Ch22: pressed between their bodies"
+        - "Ch25: removed, set on ledger, scatters colored light across numbers"
+        - "Ch31: given to Enzo"
+        - "Ch34: in his hand, final image"
+      yellow_circle:
+        - "Ch9: seen by Serena, not touched"
+        - "Ch16: visible between them"
+        - "Ch19: under her hand on his chest"
+        - "Ch22: bared — she removes his shirt, touches it on bare skin"
+        - "Ch25: on the floor with discarded clothing"
+        - "Ch31: absent — he is in his own home, unmarked"
 
     timeline:
       - date: "1478"
         event: "born on Murano"
       - date: "1487"
         event: "first meets Enzo when he accompanies his father to the Contarini furnace"
-      - date: "1494-1497"
-        event: "novel events; friendship with Enzo deepens; provides crucial intelligence from her knowledge of the glass world"
+      - date: "1494, April"
+        event: "reunites with Enzo at Contarini furnace; reveals market knowledge (Ch3)"
+      - date: "1494, July-August"
+        event: "friendship deepens; fondamenta walk; coefficient metaphor; half-pace distance (Ch9)"
+      - date: "1495, March"
+        event: "first deliberate physical contact — her hand on his in counting room (Ch16)"
+      - date: "1495, September"
+        event: "first kiss on the fondamenta; her hand over the yellow circle (Ch19)"
+      - date: "1496, spring"
+        event: "first sexual encounter; relationship becomes physical (Ch22)"
+      - date: "1496, autumn"
+        event: "sexual encounter during sabotage period; counting room at night (Ch25)"
+      - date: "1497, March"
+        event: "final encounter; farewell at Sforno house; leaves glass-bead necklace (Ch31)"
 
   # ---------------------------------------------------------------------------
   # DOGE AGOSTINO BARBARIGO — Historical Figure

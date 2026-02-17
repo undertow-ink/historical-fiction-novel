@@ -81,6 +81,26 @@ Never use these words in narration. They may appear in dialogue only if they are
 - "it should be noted"
 - "needless to say"
 
+### HARD: Banned Romance-Genre Words (Intimacy Scenes)
+
+These words and phrases are romance-genre tells. Never use them in sex or intimacy scenes:
+
+- "waves of pleasure"
+- "electric" / "electricity" (as sensation descriptor)
+- "exploded" / "shattered" (as orgasm metaphor)
+- "claimed" (as a verb for kissing or touching)
+- "hungrily" / "greedily"
+- "moaned" (find the specific sound the character makes)
+- "whispered his/her name"
+- "their eyes locked"
+- "aching need" / "desperate need"
+- "molten core"
+- "taut with desire"
+- "surrendered to" (as in "surrendered to the kiss")
+- "devoured" (as in "devoured her mouth")
+- "exploring each other's bodies"
+- "the world fell away"
+
 ### SOFT: Avoid Unless Justified
 
 These are not banned but should be used rarely and never as a crutch:

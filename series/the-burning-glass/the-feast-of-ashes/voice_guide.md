@@ -72,6 +72,32 @@ This document defines the narrative voice for *The Feast of Ashes*, Book One of 
 
 ---
 
+## Physical Intimacy and Sex
+
+**Register:** Literary explicit. Physical detail rendered through the novel's sensory language — bodies, hands, breath, heat, texture, pressure, weight. Nothing euphemistic ("their bodies joined," "he entered her garden"). Nothing pornographic (no clinical anatomy, no performance). The model: Hilary Mantel's devastating precision applied to the body; Ian McEwan's physicality embedded in architecture; Sally Rooney's directness — bodies described without apology or mystification. Name body parts directly when needed. There is nothing literary about euphemism.
+
+**Imagery source:** Same as the rest of the novel. Sex scenes use the existing metaphor system — glass, fire, light, grinding, the lagoon — not a separate romantic vocabulary. The furnace, the grinding wheel, the moment glass yields to the hand: these images extend naturally into the body. Do not introduce new metaphor families for sex. Do not shift register upward (more "literary") or downward (more "raw"). The voice stays the same. The content changes; the prose does not. Use the glass metaphors sparingly during the actual sex — one per scene, maximum two. Let the body be a body. Save the larger metaphorical moves for the aftermath, where Enzo's mind reassembles what his body just experienced.
+
+**The yellow circle:** Always present or deliberately absent. The yellow badge sewn to Enzo's doublet is the third body in every intimate scene — the world's judgment on his skin. In the first encounter (Ch22), the badge is physically present: Enzo keeps his shirt on instinctively, Serena removes it, touches the circle on his bare chest. In subsequent encounters, vary how it appears: on the floor with discarded clothing, visible but not centered. In the final encounter (Ch31), it is absent — Enzo is in his own home, unmarked for the first and last time. The absence is as powerful as the presence.
+
+**Restraint:** Follow the existing rule: "The most devastating moments get the sparest treatment." Sex scenes should be shorter than the reader expects. The arc moves toward less, not more — the first encounter has the most physical description (~1,200-1,500 words of the act itself), the final encounter the least (~1,000-1,300 words). Readers who want more will fill the silence. Trust them.
+
+**Scene structure:** Each sex scene follows four beats:
+1. **The approach** — why now, why here, established by preceding narrative
+2. **The crossing** — the moment of commitment: a touch, a decision, a garment removed
+3. **The act** — sensory, physical, minimal interiority. Let bodies speak. No internal monologue during sex.
+4. **The aftermath** — stillness, concrete detail, the world reasserting itself. The furnace audible through walls. The canal outside. The yellow circle on the floor. The aftermath is as important as the act. Sex in this novel is not escape from the world but confrontation with it.
+
+**POV constraint:** The novel is strictly Enzo's close third. Serena's experience is accessible only through what Enzo perceives. He reads her responses the way he reads glass: through touch, sound, heat, subtle changes in resistance and yield. Her experience is rendered through his perception of her body's signals, not through direct access to her mind.
+
+**Banned in intimacy scenes:** The general banned-word list applies with doubled force. Additionally never use: "waves of pleasure," "electric" / "electricity," "exploded" / "shattered" (as orgasm metaphor), "claimed" (as a verb for kissing or touching), "hungrily" / "greedily," "moaned" (find the specific sound), "whispered his/her name" (show who speaks through action), "their eyes locked," "aching need," "molten core," "taut with desire." These are romance-genre tells. The voice of this novel does not use them.
+
+### Sample 4: Intimacy Scene
+
+Her fingers found the ties of his doublet and worked them open with the same economy she used on ledger clasps — no fumbling, no ceremony. The yellow circle appeared as the fabric parted, bright against his undershirt in the half-light from the canal window. She did not look away from it. She had not looked away from it on the fondamenta in September, and she did not look away now. Her hand flattened over the circle, and through the linen he felt the specific pressure of each callus — the ridge at the base of her forefinger where she gripped the quill, the roughness on her thumb from the counting beads. He knew those calluses. He had noticed them months ago across her father's account table, reading them the way he read grit patterns on a grinding lap. Now they pressed against his chest, and his breath changed, and the sound of the canal outside was the same sound it always was, and nothing in the room was the same.
+
+---
+
 ## Dialogue Style
 
 **Dialogue realism level:** Lightly stylized. Dialogue should sound speakable — read it aloud — but is trimmed of the true repetitions, false starts, and filler of natural speech. Characters speak with purpose. Every line either reveals character, advances plot, or creates tension. If a line does none of these, cut it.

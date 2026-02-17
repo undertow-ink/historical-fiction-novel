@@ -38,7 +38,7 @@ He sat on the stool across from her. The ledger was bound in brown leather, soft
 
 "Precise." He traced a column with his finger, careful not to smudge the ink. The numbers told a story if you knew how to read them. He knew glass the way his hands knew it — the weight, the heat, the moment a gather was ready to shape. But this was glass from the other side. The bones beneath the skin.
 
-"You can see the whole market in here," Serena said. She leaned forward, and he caught a faint scent — not perfume but something warmer, soap and wool and the ever-present trace of furnace smoke that lived in every Muranese. She turned back several pages. "Look. Soda ash prices from the Levant, last six months." Her finger moved down the column. "Steady through summer. Then September — up a third. October, up again. By December, nearly double."
+"You can see the whole market in here," Serena said. She leaned forward, and he caught a faint scent — not perfume but something warmer, soap and wool and the ever-present trace of furnace smoke that lived in every Muranese. At this distance the freckles across her nose were distinct, each one separate, like the stippling of iron oxide in a batch of raw silica. She turned back several pages. "Look. Soda ash prices from the Levant, last six months." Her finger moved down the column. "Steady through summer. Then September — up a third. October, up again. By December, nearly double."
 
 "The French," Enzo said. "The invasion routes cut the overland trade."
 
