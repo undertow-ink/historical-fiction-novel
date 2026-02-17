@@ -13,7 +13,7 @@ OUTPUT = REPO_ROOT / "_site"
 
 BOOK_TITLE = "The Feast of Ashes"
 SERIES_TITLE = "The Burning Glass"
-AUTHOR = "B. Edwards"
+AUTHOR = "Luka Vane"
 
 PARTS = {
     "part-1": {"title": "Part One: Establishment", "roman": "I"},
