@@ -1,26 +1,26 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-16 13:32
+Last updated: 2026-02-16 18:21
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 3,817 / 110,000 target (3.5%)
-- **Pages:** 15 / 440 estimated
-- **Reading time:** 15m estimated
-- **Audiobook time:** 25m estimated
-- **Chapters:** 1 / 34 complete
-- **Scenes:** 2 / 31 complete
+- **Words:** 7,928 / 110,000 target (7.2%)
+- **Pages:** 32 / 440 estimated
+- **Reading time:** 31m estimated
+- **Audiobook time:** 52m estimated
+- **Chapters:** 2 / 34 complete
+- **Scenes:** 5 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 3,817 / 21,000 (18.2%)
+**Words:** 7,928 / 21,000 (37.8%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 1: The Furnace at Dawn | 2/2 | 3,817 | First Draft | -- |
-| Ch 2: The Ghetto at Evening | 0/3 | 0 | Not Started | -- |
+| Ch 2: The Ghetto at Evening | 3/3 | 4,111 | First Draft | -- |
 | Ch 3: The Contarini Furnace | 0/3 | 0 | Not Started | -- |
 | Ch 4: The Storeroom | 0/3 | 0 | Not Started | -- |
 | Ch 5: The Weight of Glass | 0/3 | 0 | Not Started | -- |
@@ -38,11 +38,11 @@ Last updated: 2026-02-16 13:32
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: The crossing | 0.0 | 0 | Not Started | -- |
+| 1: The crossing | 6.3 | 1,571 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: Shabbat preparation | 0.0 | 0 | Not Started | -- |
+| 2: Shabbat preparation | 5.8 | 1,458 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 3: Giacomo's ghost | 0.0 | 0 | Not Started | -- |
+| 3: Giacomo's ghost | 4.3 | 1,082 | First Draft | -- |
 
 ### Chapter 3: The Contarini Furnace
 
