@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 14:16
+Last updated: 2026-02-17 14:25
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 70,012 / 110,000 target (63.6%)
-- **Pages:** 280 / 440 estimated
-- **Reading time:** 4h 40m estimated
-- **Audiobook time:** 7h 46m estimated
-- **Chapters:** 17 / 34 complete
-- **Scenes:** 40 / 48 complete
+- **Words:** 73,788 / 110,000 target (67.1%)
+- **Pages:** 295 / 440 estimated
+- **Reading time:** 4h 55m estimated
+- **Audiobook time:** 8h 11m estimated
+- **Chapters:** 18 / 34 complete
+- **Scenes:** 42 / 50 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -162,7 +162,7 @@ Last updated: 2026-02-17 14:16
 ## Part 3: COMPLICATION
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 16,429 / 16,800 (97.8%)
+**Words:** 20,205 / 19,200 (105.2%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -170,7 +170,7 @@ Last updated: 2026-02-17 14:16
 | Ch 15: The Friar's Shadow | 2/2 | 4,189 | First Draft | -- |
 | Ch 16: The Silk | 3/3 | 5,180 | First Draft | -- |
 | Ch 17: The Confrontation | 2/2 | 3,621 | First Draft | -- |
-| Ch 18: Fornovo | 0/0 | 0 | Not Started | -- |
+| Ch 18: Fornovo | 2/2 | 3,776 | First Draft | -- |
 | Ch 19: The Handler | 0/2 | 0 | Not Started | -- |
 | Ch 20: The Father's Secret | 0/0 | 0 | Not Started | -- |
 | Ch 21: Mirela's Truth | 0/0 | 0 | Not Started | -- |
@@ -215,6 +215,9 @@ Last updated: 2026-02-17 14:16
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 7.9 | 1,967 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 7.2 | 1,809 | First Draft | -- |
 
 ### Chapter 19: The Handler
 
