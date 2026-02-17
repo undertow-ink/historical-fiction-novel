@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 15:21
+Last updated: 2026-02-17 16:35
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 98,476 / 110,000 target (89.5%)
-- **Pages:** 394 / 440 estimated
-- **Reading time:** 6h 33m estimated
-- **Audiobook time:** 10h 56m estimated
-- **Chapters:** 22 / 34 complete
-- **Scenes:** 55 / 61 complete
+- **Words:** 104,191 / 110,000 target (94.7%)
+- **Pages:** 417 / 440 estimated
+- **Reading time:** 6h 56m estimated
+- **Audiobook time:** 11h 34m estimated
+- **Chapters:** 23 / 34 complete
+- **Scenes:** 58 / 62 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -270,12 +270,12 @@ Last updated: 2026-02-17 15:21
 ## Part 4: REVELATION AND RECKONING
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 3,641 / 5,600 (65.0%)
+**Words:** 9,356 / 6,800 (137.6%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 24: The Plan | 2/2 | 3,641 | First Draft | -- |
-| Ch 25: The Sabotage | 0/2 | 0 | Not Started | -- |
+| Ch 25: The Sabotage | 3/3 | 5,715 | First Draft | -- |
 | Ch 26: The Test | 0/0 | 0 | Not Started | -- |
 | Ch 27: The Unraveling | 0/0 | 0 | Not Started | -- |
 | Ch 28: The Exposure | 0/0 | 0 | Not Started | -- |
@@ -294,9 +294,11 @@ Last updated: 2026-02-17 15:21
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: -2:** Enzo executes his plan over several weeks. Each night, working alone, he grinds imperceptible flaws into the critical lenses. The work requires all his skill — the flaws must be invisible to inspection but fatal to function. He is using his craft at its highest level, and the irony burns: the same precision that could make the weapon perfect is what allows him to destroy it. Meanwhile, he must maintain his cover with Viaro, his relationship with Bardolino, and his sanity. | 0.0 | 0 | Not Started | -- |
+| 1: -2:** Enzo executes his plan over several weeks. Each night, working alone, he grinds imperceptible flaws into the critical lenses. The work requires all his skill — the flaws must be invisible to inspection but fatal to function. He is using his craft at its highest level, and the irony burns: the same precision that could make the weapon perfect is what allows him to destroy it. Meanwhile, he must maintain his cover with Viaro, his relationship with Bardolino, and his sanity. | 7.0 | 1,754 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 3: The Counting Room at Night — SECOND SEX SCENE | 0.0 | 0 | Not Started | -- |
+| 2: Scene 2 | 7.5 | 1,867 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 3: The Counting Room at Night — SECOND SEX SCENE | 8.4 | 2,094 | First Draft | -- |
 
 ### Chapter 26: The Test
 
