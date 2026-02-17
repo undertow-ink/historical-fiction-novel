@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 14:48
+Last updated: 2026-02-17 15:02
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 84,740 / 110,000 target (77.0%)
-- **Pages:** 339 / 440 estimated
-- **Reading time:** 5h 38m estimated
-- **Audiobook time:** 9h 24m estimated
-- **Chapters:** 20 / 34 complete
-- **Scenes:** 48 / 55 complete
+- **Words:** 90,092 / 110,000 target (81.9%)
+- **Pages:** 360 / 440 estimated
+- **Reading time:** 6h 0m estimated
+- **Audiobook time:** 10h 0m estimated
+- **Chapters:** 21 / 34 complete
+- **Scenes:** 51 / 56 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -162,7 +162,7 @@ Last updated: 2026-02-17 14:48
 ## Part 3: COMPLICATION
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 31,157 / 25,200 (123.6%)
+**Words:** 36,509 / 26,400 (138.3%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -174,7 +174,7 @@ Last updated: 2026-02-17 14:48
 | Ch 19: The Handler | 3/3 | 5,400 | First Draft | -- |
 | Ch 20: The Father's Secret | 2/2 | 2,877 | First Draft | -- |
 | Ch 21: Mirela's Truth | 1/2 | 2,675 | Writing | -- |
-| Ch 22: The Closing Trap | 0/2 | 0 | Not Started | -- |
+| Ch 22: The Closing Trap | 3/3 | 5,352 | First Draft | -- |
 | Ch 23: The Crisis — MOVEMENT III ENDING | 0/0 | 0 | Not Started | -- |
 
 ### Chapter 14: Questions in the Dark
@@ -249,9 +249,11 @@ Last updated: 2026-02-17 14:48
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: -2:** Enzo is caught between Viaro's manipulation, Bardolino's protection (which is also containment), and his own growing knowledge. Every escape route closes. He tries to warn someone — but who? The guild is complicit. The Church is involved through Fra Giordano. The Jewish community has no power. Kasim/Rossetti is sympathetic but is also clearly pursuing his own agenda. Enzo realizes the only person who might help is also the most dangerous: the unknown patron above Viaro. | 0.0 | 0 | Not Started | -- |
+| 1: -2:** Enzo is caught between Viaro's manipulation, Bardolino's protection (which is also containment), and his own growing knowledge. Every escape route closes. He tries to warn someone — but who? The guild is complicit. The Church is involved through Fra Giordano. The Jewish community has no power. Kasim/Rossetti is sympathetic but is also clearly pursuing his own agenda. Enzo realizes the only person who might help is also the most dangerous: the unknown patron above Viaro. | 5.9 | 1,484 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 3: The Boat Shed — FIRST SEX SCENE | 0.0 | 0 | Not Started | -- |
+| 2: Scene 2 | 7.2 | 1,804 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 3: The Boat Shed — FIRST SEX SCENE | 8.3 | 2,064 | First Draft | -- |
 
 ### Chapter 23: The Crisis — MOVEMENT III ENDING
 
