@@ -1,28 +1,28 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-16 18:37
+Last updated: 2026-02-16 19:23
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 12,613 / 110,000 target (11.5%)
-- **Pages:** 50 / 440 estimated
-- **Reading time:** 50m estimated
-- **Audiobook time:** 1h 24m estimated
-- **Chapters:** 3 / 34 complete
-- **Scenes:** 8 / 31 complete
+- **Words:** 16,646 / 110,000 target (15.1%)
+- **Pages:** 67 / 440 estimated
+- **Reading time:** 1h 6m estimated
+- **Audiobook time:** 1h 50m estimated
+- **Chapters:** 4 / 34 complete
+- **Scenes:** 11 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 12,613 / 21,000 (60.1%)
+**Words:** 16,646 / 21,000 (79.3%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 1: The Furnace at Dawn | 2/2 | 3,817 | First Draft | -- |
 | Ch 2: The Ghetto at Evening | 3/3 | 4,111 | First Draft | -- |
 | Ch 3: The Contarini Furnace | 3/3 | 4,685 | First Draft | -- |
-| Ch 4: The Storeroom | 0/3 | 0 | Not Started | -- |
+| Ch 4: The Storeroom | 3/3 | 4,033 | First Draft | -- |
 | Ch 5: The Weight of Glass | 0/3 | 0 | Not Started | -- |
 | Ch 6: Light Through a Stolen Lens | 0/3 | 0 | Not Started | -- |
 
@@ -58,11 +58,11 @@ Last updated: 2026-02-16 18:37
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: The need and the key | 0.0 | 0 | Not Started | -- |
+| 1: The need and the key | 6.2 | 1,544 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: The discovery | 0.0 | 0 | Not Started | -- |
+| 2: The discovery | 5.2 | 1,296 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 3: Bardolino's lie | 0.0 | 0 | Not Started | -- |
+| 3: Bardolino's lie | 4.8 | 1,193 | First Draft | -- |
 
 ### Chapter 5: The Weight of Glass
 
