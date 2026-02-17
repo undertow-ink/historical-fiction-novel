@@ -1,21 +1,21 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-16 19:44
+Last updated: 2026-02-16 20:03
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 22,063 / 110,000 target (20.1%)
-- **Pages:** 88 / 440 estimated
-- **Reading time:** 1h 28m estimated
-- **Audiobook time:** 2h 27m estimated
-- **Chapters:** 5 / 34 complete
-- **Scenes:** 14 / 31 complete
+- **Words:** 26,885 / 110,000 target (24.4%)
+- **Pages:** 108 / 440 estimated
+- **Reading time:** 1h 47m estimated
+- **Audiobook time:** 2h 59m estimated
+- **Chapters:** 6 / 34 complete
+- **Scenes:** 17 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
-**Status:** Writing | **Grade:** --/100
-**Words:** 22,063 / 21,000 (105.1%)
+**Status:** First Draft | **Grade:** --/100
+**Words:** 26,885 / 21,000 (128.0%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -24,7 +24,7 @@ Last updated: 2026-02-16 19:44
 | Ch 3: The Contarini Furnace | 3/3 | 4,685 | First Draft | -- |
 | Ch 4: The Storeroom | 3/3 | 4,033 | First Draft | -- |
 | Ch 5: The Weight of Glass | 3/3 | 5,417 | First Draft | -- |
-| Ch 6: Light Through a Stolen Lens | 0/3 | 0 | Not Started | -- |
+| Ch 6: Light Through a Stolen Lens | 3/3 | 4,822 | First Draft | -- |
 
 ### Chapter 1: The Furnace at Dawn
 
@@ -78,11 +78,11 @@ Last updated: 2026-02-16 19:44
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: The stolen lens | 0.0 | 0 | Not Started | -- |
+| 1: The stolen lens | 5.8 | 1,440 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: Gritti's bookshop | 0.0 | 0 | Not Started | -- |
+| 2: Gritti's bookshop | 6.6 | 1,650 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 3: The threshold | 0.0 | 0 | Not Started | -- |
+| 3: The threshold | 6.9 | 1,732 | First Draft | -- |
 
 ---
 
