@@ -1,0 +1,49 @@
+The grinding wheel turned. Enzo fed it water from the copper drip-pan and watched the film sheet across the glass, catching the furnace light and holding it — amber, then gone. The workshop was empty. The other grinders had left hours ago, their stations wiped clean, their tools hanging from the wall pegs in neat rows that Bardolino inspected each morning with the attentiveness of a man counting coins. Enzo had stayed behind with a plausible excuse: a concave lens for a Paduan astronomer, behind schedule, requiring hand-finishing that could not be rushed.
+
+The excuse was true. He worked the lens now, thumbs guiding the glass against the spinning plate, feeling for the moment when friction became something else — a conversation between surfaces, his skin and the glass and the abrasive slurry all speaking to one another in a language that had no words. His father had taught him this. Not with instruction. With proximity. Enzo had learned by standing close enough to hear the wheel change pitch when the curvature was right.
+
+He lifted the lens and held it to the lamp. The flame bent through the glass and emerged altered, a smear of orange on the far wall that sharpened as he adjusted the angle. Good work. Clean radius. He set it aside and reached for the polishing cloth, though the Paduan lens was not what he had stayed to think about.
+
+The furnace ticked. It was banked for the night, the firebrick doors sealed, but the mass of it still radiated heat that pressed against the left side of his face and neck like a hand held too close. In winter, the grinders fought for the stations nearest the furnace. In summer, they cursed it. Enzo had stopped noticing. Heat was the medium in which glass existed, and glass was the medium in which he existed, and so the heat was simply the cost of being himself.
+
+He pulled a sheet of scrap paper from under his bench and set it flat. No ink. He would not write anything down. But he needed the blankness of the page to organize what he knew, the way a lens-grinder needed a flat surface to test a curve against — not to mark, but to see.
+
+His father had introduced curvature errors. Subtle ones, ground into the primary elements of the array so that each lens deviated from its specification by a fraction that was invisible to the naked eye but catastrophic at magnification. It was beautiful work, in its way. Giacomo had understood that a weapon built from flawed components would be a flawed weapon, and he had trusted that his skill was great enough to hide the flaws beneath the polish.
+
+He had been wrong. Not about his skill — about his enemy's patience. Someone had tested each lens against its specification under high-power magnification, comparing the actual curvature to the mathematical ideal, and had found the deviations. Enzo did not know who. He did not know the exact method. But he knew the result: a furnace that had run true for years suddenly cracking open, the explosion loud enough to rattle windows on the fondamenta, and his father inside it. The Council had called it an accident. A cracked crucible. The heat finding a flaw in the clay. As though the timing were coincidence, as though a man who had quietly refused to build a machine for killing would simply happen to die in the machine's vicinity.
+
+Enzo pressed his thumbs against the edge of the workbench until the wood grain bit into his calluses. He had his father's hands. The same spatulate fingers, the same roughened pads, the same unconscious habit of touching surfaces to read them. He had his father's knowledge. And he had something his father had not had: he had his father's failure to learn from.
+
+The surface reads true but the geometry lies.
+
+Giacomo had said it about cheap Florentine lenses — pieces that looked polished and clear but whose underlying curves were wrong, so that the image they produced was a beautiful distortion. Enzo had heard the phrase so many times it had become invisible, the way a tool you use every day becomes invisible, the way the furnace heat becomes invisible. But now he held it up and turned it, and the light bent through it differently.
+
+The surface reads true. Each lens, tested alone, would be perfect. Enzo would make them perfect. He would grind them to specification, polish them to a clarity that would satisfy any inspector, any test. He would hand them over and they would shine.
+
+But the geometry lies. The weapon was not a single lens. It was an array — multiple elements held in precise relation to one another, their spacing and angles calibrated so that light entering the system was gathered, focused, and delivered to a point at distance. The power of the thing came not from any single piece of glass but from the relationships between pieces. Alignment. Spacing. The angular orientation of each element relative to its neighbors.
+
+And Enzo was the one calibrating those relationships.
+
+Viaro had given him the work because he was good at it. The irony sat in his chest like a swallowed stone. Enzo was the best young calibrator on Murano — everyone said so, Bardolino included, though the old man said it quietly, the way he said most things about Enzo, as though praising him too loudly might draw the wrong attention to a Jewish apprentice who already carried enough of that. Viaro had recognized the talent and had requisitioned him. Here are the keys, the older man had said, handing them across with the casual authority of someone who had never once questioned whether authority was his to wield. Calibrate the secondary array. I need it ready by August.
+
+August. Ten weeks. Enzo dried his hands on his apron and stared at the blank paper.
+
+If he rotated a single lens in the secondary array — rotated it around its optical axis by a quarter of a degree, less than the width of a fingernail at the rim — the array would still focus at short range. Three meters, five meters, even ten. An inspector peering through the assembled weapon in the workshop would see a sharp image, clear and lethal-looking, and would sign the approval without hesitation. But at distance — at the ranges where a weapon needed to function, fifty meters, a hundred — the rotational error would compound through the array, each element passing its fractional misalignment to the next, until the focused point of light became a smear, a halo, a diffuse wash of energy spread across an area too large to harm anything.
+
+And the beauty — Enzo's breath shortened as the plan took shape, not from fear but from the precision of it, the way a ground lens reaches its focal point and the blur resolves all at once into clarity — the beauty was that no individual component would show the flaw. Pull any lens from the array, test it alone, hold it to the light: perfect. The curvature, the polish, the clarity, all flawless. Only the geometry would be wrong. Only the relationship between one perfect thing and another perfect thing would carry the error, and that relationship was not a physical object that could be measured on a bench. It existed only in the assembled system, under the exact conditions of use.
+
+To find it, they would have to test the weapon at full range. To test at full range, they would have to deploy it. By then, Enzo would be finished. By then, the failure would look like what failures in complex systems always looked like: a mystery. An engineering problem. A defect introduced somewhere in the long chain of design and fabrication and assembly, impossible to trace to any single hand.
+
+He picked up the concave lens again and returned it to the wheel. The abrasive hissed against the glass. His hands moved with the patience that his father had given him, the patience that was not a temperament but a skill, learned through years of holding fragile things against hard surfaces and knowing exactly how much pressure to apply.
+
+He would not rush. He would not deviate from his routine. Each morning he would enter the workshop and grind the lenses that Bardolino assigned. Each afternoon he would cross to the locked room where the weapon components were stored and perform his calibration work, adjusting the array with the meticulous care that had earned him the position. He would document his adjustments in the logbook, and the numbers he recorded would be the numbers that were expected — the correct spacing, the correct angles, the approved tolerances. The logbook would read true.
+
+But his hands would do something other than what the logbook described. Not much. A fraction of a degree here. A hair's width of spacing there. Adjustments so small that they lived below the threshold of casual inspection, below even the threshold of careful inspection, detectable only by someone who rebuilt the entire array from scratch and tested each relationship independently against the mathematical model.
+
+And who would do that? Who would disassemble a weapon that had passed every inspection, that had been signed off by its own calibrator, that focused beautifully at the distances available in a workshop on Murano? No one. The system would hold its secret the way good glass held light — completely, transparently, without any visible sign that something had been bent.
+
+Enzo switched off the drip-pan and let the wheel slow. The pitch dropped, the hiss fading to a whisper, then silence. He held the finished lens to the lamp one last time. The flame passed through it and emerged precise, controlled, the focal point landing exactly where mathematics said it should.
+
+Perfect work. He set it in the drying rack beside the others, each one gleaming, each one true.
+
+His hands were steady. The furnace breathed its low heat into the room, and the shadows of the tools on the walls were long and still, and somewhere across the water Venice slept in its summer heaviness, and Enzo Sforno, eighteen years old, the yellow circle sewn to his coat, sat in the near-darkness and thought about alignment.
