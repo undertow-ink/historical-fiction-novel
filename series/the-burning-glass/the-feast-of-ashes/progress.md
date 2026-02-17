@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 08:50
+Last updated: 2026-02-17 09:01
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 37,683 / 110,000 target (34.3%)
-- **Pages:** 151 / 440 estimated
-- **Reading time:** 2h 30m estimated
-- **Audiobook time:** 4h 11m estimated
-- **Chapters:** 9 / 34 complete
-- **Scenes:** 23 / 31 complete
+- **Words:** 42,217 / 110,000 target (38.4%)
+- **Pages:** 169 / 440 estimated
+- **Reading time:** 2h 48m estimated
+- **Audiobook time:** 4h 41m estimated
+- **Chapters:** 10 / 34 complete
+- **Scenes:** 25 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -89,14 +89,14 @@ Last updated: 2026-02-17 08:50
 ## Part 2: DEEPENING
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 10,798 / 22,700 (47.6%)
+**Words:** 15,332 / 22,700 (67.5%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 7: The Guild and the Ghetto | 2/2 | 3,851 | First Draft | -- |
 | Ch 8: The Rialto | 2/2 | 3,564 | First Draft | -- |
 | Ch 9: The Craft and the Girl | 2/2 | 3,383 | First Draft | -- |
-| Ch 10: The Silent Room | 0/2 | 0 | Not Started | -- |
+| Ch 10: The Silent Room | 2/2 | 4,534 | First Draft | -- |
 | Ch 11: The Celebration | 0/2 | 0 | Not Started | -- |
 | Ch 12: The Alhazen Letters | 0/2 | 0 | Not Started | -- |
 | Ch 13: The Assembly — MIDPOINT | 0/2 | 0 | Not Started | -- |
@@ -129,9 +129,9 @@ Last updated: 2026-02-17 08:50
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: Fra Giordano arrives | 0.0 | 0 | Not Started | -- |
+| 1: Fra Giordano arrives | 9.4 | 2,341 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: Bardolino's confession | 0.0 | 0 | Not Started | -- |
+| 2: Bardolino's confession | 8.8 | 2,193 | First Draft | -- |
 
 ### Chapter 11: The Celebration
 
