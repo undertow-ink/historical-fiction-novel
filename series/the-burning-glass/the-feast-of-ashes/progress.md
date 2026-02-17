@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 14:40
+Last updated: 2026-02-17 14:48
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 82,065 / 110,000 target (74.6%)
-- **Pages:** 328 / 440 estimated
-- **Reading time:** 5h 28m estimated
-- **Audiobook time:** 9h 7m estimated
+- **Words:** 84,740 / 110,000 target (77.0%)
+- **Pages:** 339 / 440 estimated
+- **Reading time:** 5h 38m estimated
+- **Audiobook time:** 9h 24m estimated
 - **Chapters:** 20 / 34 complete
-- **Scenes:** 47 / 53 complete
+- **Scenes:** 48 / 55 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -162,7 +162,7 @@ Last updated: 2026-02-17 14:40
 ## Part 3: COMPLICATION
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 28,482 / 22,800 (124.9%)
+**Words:** 31,157 / 25,200 (123.6%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -173,7 +173,7 @@ Last updated: 2026-02-17 14:40
 | Ch 18: Fornovo | 2/2 | 3,776 | First Draft | -- |
 | Ch 19: The Handler | 3/3 | 5,400 | First Draft | -- |
 | Ch 20: The Father's Secret | 2/2 | 2,877 | First Draft | -- |
-| Ch 21: Mirela's Truth | 0/0 | 0 | Not Started | -- |
+| Ch 21: Mirela's Truth | 1/2 | 2,675 | Writing | -- |
 | Ch 22: The Closing Trap | 0/2 | 0 | Not Started | -- |
 | Ch 23: The Crisis — MOVEMENT III ENDING | 0/0 | 0 | Not Started | -- |
 
@@ -241,6 +241,9 @@ Last updated: 2026-02-17 14:40
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 4.0 | 991 | Writing | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 6.7 | 1,684 | First Draft | -- |
 
 ### Chapter 22: The Closing Trap
 
