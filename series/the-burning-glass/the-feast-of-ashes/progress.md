@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 14:25
+Last updated: 2026-02-17 14:34
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 73,788 / 110,000 target (67.1%)
-- **Pages:** 295 / 440 estimated
-- **Reading time:** 4h 55m estimated
-- **Audiobook time:** 8h 11m estimated
-- **Chapters:** 18 / 34 complete
-- **Scenes:** 42 / 50 complete
+- **Words:** 79,188 / 110,000 target (72.0%)
+- **Pages:** 317 / 440 estimated
+- **Reading time:** 5h 16m estimated
+- **Audiobook time:** 8h 47m estimated
+- **Chapters:** 19 / 34 complete
+- **Scenes:** 45 / 51 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -162,7 +162,7 @@ Last updated: 2026-02-17 14:25
 ## Part 3: COMPLICATION
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 20,205 / 19,200 (105.2%)
+**Words:** 25,605 / 20,400 (125.5%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -171,7 +171,7 @@ Last updated: 2026-02-17 14:25
 | Ch 16: The Silk | 3/3 | 5,180 | First Draft | -- |
 | Ch 17: The Confrontation | 2/2 | 3,621 | First Draft | -- |
 | Ch 18: Fornovo | 2/2 | 3,776 | First Draft | -- |
-| Ch 19: The Handler | 0/2 | 0 | Not Started | -- |
+| Ch 19: The Handler | 3/3 | 5,400 | First Draft | -- |
 | Ch 20: The Father's Secret | 0/0 | 0 | Not Started | -- |
 | Ch 21: Mirela's Truth | 0/0 | 0 | Not Started | -- |
 | Ch 22: The Closing Trap | 0/2 | 0 | Not Started | -- |
@@ -223,9 +223,11 @@ Last updated: 2026-02-17 14:25
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: -2:** Viaro approaches Enzo directly. Not with threats — with charm, intelligence, and an appeal to Enzo's patriotism (what little a Jewish apprentice can claim). Viaro knows Enzo has been investigating. Instead of silencing him, Viaro recruits him: "You have your father's eyes and your father's skill. Venice has need of both." Viaro frames it as service to the Republic — Enzo's optical expertise can help evaluate the weapon's progress. In reality, Viaro is turning Enzo into a controlled asset. The trap begins to close. | 0.0 | 0 | Not Started | -- |
+| 1: -2:** Viaro approaches Enzo directly. Not with threats — with charm, intelligence, and an appeal to Enzo's patriotism (what little a Jewish apprentice can claim). Viaro knows Enzo has been investigating. Instead of silencing him, Viaro recruits him: "You have your father's eyes and your father's skill. Venice has need of both." Viaro frames it as service to the Republic — Enzo's optical expertise can help evaluate the weapon's progress. In reality, Viaro is turning Enzo into a controlled asset. The trap begins to close. | 7.5 | 1,879 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 3: The Fondamenta at Dusk — FIRST KISS | 0.0 | 0 | Not Started | -- |
+| 2: Scene 2 | 6.5 | 1,613 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 3: The Fondamenta at Dusk — FIRST KISS | 7.6 | 1,908 | First Draft | -- |
 
 ### Chapter 20: The Father's Secret
 
