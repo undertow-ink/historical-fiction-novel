@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 09:15
+Last updated: 2026-02-17 09:22
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 49,747 / 110,000 target (45.2%)
-- **Pages:** 199 / 440 estimated
-- **Reading time:** 3h 18m estimated
-- **Audiobook time:** 5h 31m estimated
-- **Chapters:** 12 / 34 complete
-- **Scenes:** 29 / 31 complete
+- **Words:** 53,558 / 110,000 target (48.7%)
+- **Pages:** 214 / 440 estimated
+- **Reading time:** 3h 34m estimated
+- **Audiobook time:** 5h 57m estimated
+- **Chapters:** 13 / 34 complete
+- **Scenes:** 31 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -88,8 +88,8 @@ Last updated: 2026-02-17 09:15
 
 ## Part 2: DEEPENING
 
-**Status:** Writing | **Grade:** --/100
-**Words:** 22,862 / 22,700 (100.7%)
+**Status:** First Draft | **Grade:** --/100
+**Words:** 26,673 / 22,700 (117.5%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -99,7 +99,7 @@ Last updated: 2026-02-17 09:15
 | Ch 10: The Silent Room | 2/2 | 4,534 | First Draft | -- |
 | Ch 11: The Celebration | 2/2 | 3,795 | First Draft | -- |
 | Ch 12: The Alhazen Letters | 2/2 | 3,735 | First Draft | -- |
-| Ch 13: The Assembly — MIDPOINT | 0/2 | 0 | Not Started | -- |
+| Ch 13: The Assembly — MIDPOINT | 2/2 | 3,811 | First Draft | -- |
 
 ### Chapter 7: The Guild and the Ghetto
 
@@ -153,9 +153,9 @@ Last updated: 2026-02-17 09:15
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: The late-night discovery | 0.0 | 0 | Not Started | -- |
+| 1: The late-night discovery | 8.1 | 2,017 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: The shift | 0.0 | 0 | Not Started | -- |
+| 2: The shift | 7.2 | 1,794 | First Draft | -- |
 
 ---
 
