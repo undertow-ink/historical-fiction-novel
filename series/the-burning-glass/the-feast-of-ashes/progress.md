@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 09:01
+Last updated: 2026-02-17 09:08
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 42,217 / 110,000 target (38.4%)
-- **Pages:** 169 / 440 estimated
-- **Reading time:** 2h 48m estimated
-- **Audiobook time:** 4h 41m estimated
-- **Chapters:** 10 / 34 complete
-- **Scenes:** 25 / 31 complete
+- **Words:** 46,012 / 110,000 target (41.8%)
+- **Pages:** 184 / 440 estimated
+- **Reading time:** 3h 4m estimated
+- **Audiobook time:** 5h 6m estimated
+- **Chapters:** 11 / 34 complete
+- **Scenes:** 27 / 31 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -89,7 +89,7 @@ Last updated: 2026-02-17 09:01
 ## Part 2: DEEPENING
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 15,332 / 22,700 (67.5%)
+**Words:** 19,127 / 22,700 (84.3%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -97,7 +97,7 @@ Last updated: 2026-02-17 09:01
 | Ch 8: The Rialto | 2/2 | 3,564 | First Draft | -- |
 | Ch 9: The Craft and the Girl | 2/2 | 3,383 | First Draft | -- |
 | Ch 10: The Silent Room | 2/2 | 4,534 | First Draft | -- |
-| Ch 11: The Celebration | 0/2 | 0 | Not Started | -- |
+| Ch 11: The Celebration | 2/2 | 3,795 | First Draft | -- |
 | Ch 12: The Alhazen Letters | 0/2 | 0 | Not Started | -- |
 | Ch 13: The Assembly — MIDPOINT | 0/2 | 0 | Not Started | -- |
 
@@ -137,9 +137,9 @@ Last updated: 2026-02-17 09:01
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: The Morosini delivery | 0.0 | 0 | Not Started | -- |
+| 1: The Morosini delivery | 7.8 | 1,962 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: The false summit | 0.0 | 0 | Not Started | -- |
+| 2: The false summit | 7.3 | 1,833 | First Draft | -- |
 
 ### Chapter 12: The Alhazen Letters
 
