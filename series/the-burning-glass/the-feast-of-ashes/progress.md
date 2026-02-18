@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-17 22:55
+Last updated: 2026-02-18 03:15
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 113,833 / 110,000 target (103.5%)
-- **Pages:** 455 / 440 estimated
-- **Reading time:** 7h 35m estimated
-- **Audiobook time:** 12h 39m estimated
-- **Chapters:** 25 / 34 complete
-- **Scenes:** 63 / 64 complete
+- **Words:** 117,847 / 110,000 target (107.1%)
+- **Pages:** 471 / 440 estimated
+- **Reading time:** 7h 51m estimated
+- **Audiobook time:** 13h 5m estimated
+- **Chapters:** 26 / 34 complete
+- **Scenes:** 65 / 64 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -270,7 +270,7 @@ Last updated: 2026-02-17 22:55
 ## Part 4: REVELATION AND RECKONING
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 18,998 / 9,200 (206.5%)
+**Words:** 23,012 / 9,200 (250.1%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -278,7 +278,7 @@ Last updated: 2026-02-17 22:55
 | Ch 25: The Sabotage | 3/3 | 5,715 | First Draft | -- |
 | Ch 26: The Test | 2/2 | 4,503 | First Draft | -- |
 | Ch 27: The Unraveling | 3/3 | 5,139 | First Draft | -- |
-| Ch 28: The Exposure | 0/0 | 0 | Not Started | -- |
+| Ch 28: The Exposure | 2/2 | 4,014 | First Draft | -- |
 | Ch 29: Bardolino's Choice — IC Climax | 0/0 | 0 | Not Started | -- |
 | Ch 30: The Self-Revelation — MC Climax | 0/0 | 0 | Not Started | -- |
 
@@ -322,6 +322,9 @@ Last updated: 2026-02-17 22:55
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: The Discovery | 8.2 | 2,052 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: The Confrontation | 7.8 | 1,962 | First Draft | -- |
 
 ### Chapter 29: Bardolino's Choice — IC Climax
 
