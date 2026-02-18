@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-18 11:05
+Last updated: 2026-02-18 11:13
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 128,029 / 110,000 target (116.4%)
-- **Pages:** 512 / 440 estimated
-- **Reading time:** 8h 32m estimated
-- **Audiobook time:** 14h 13m estimated
-- **Chapters:** 28 / 34 complete
-- **Scenes:** 69 / 73 complete
+- **Words:** 133,571 / 110,000 target (121.4%)
+- **Pages:** 534 / 440 estimated
+- **Reading time:** 8h 54m estimated
+- **Audiobook time:** 14h 50m estimated
+- **Chapters:** 29 / 34 complete
+- **Scenes:** 71 / 73 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -346,12 +346,12 @@ Last updated: 2026-02-18 11:05
 
 ## Part 5: AFTERMATH
 
-**Status:** Not Started | **Grade:** --/100
-**Words:** 0 / 3,000 (0.0%)
+**Status:** Writing | **Grade:** --/100
+**Words:** 5,542 / 3,000 (184.7%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
-| Ch 31: Exile | 0/2 | 0 | Not Started | -- |
+| Ch 31: Exile | 2/2 | 5,542 | First Draft | -- |
 | Ch 32: Final Suspense | 0/0 | 0 | Not Started | -- |
 | Ch 33: The Last Lesson — RS Climax | 0/0 | 0 | Not Started | -- |
 | Ch 34: The Grinding Wheel | 0/0 | 0 | Not Started | -- |
@@ -360,9 +360,9 @@ Last updated: 2026-02-18 11:05
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
-| 1: Enzo is expelled from the furnace. His guild credentials are revoked. He is, effectively, a person without a trade in a world where trade is identity. The Jewish community absorbs the shock — Rabbi Yehudah helps Mirela and Enzo navigate the immediate crisis. Enzo considers flight to Modena (Mirela's family) but realizes he cannot run. Not because running is cowardly — his father ran and it wasn't enough — but because this is his city and his craft, and the Truth is lived, not escaped. | 0.0 | 0 | Not Started | -- |
+| 1: Enzo is expelled from the furnace. His guild credentials are revoked. He is, effectively, a person without a trade in a world where trade is identity. The Jewish community absorbs the shock — Rabbi Yehudah helps Mirela and Enzo navigate the immediate crisis. Enzo considers flight to Modena (Mirela's family) but realizes he cannot run. Not because running is cowardly — his father ran and it wasn't enough — but because this is his city and his craft, and the Truth is lived, not escaped. | 14.8 | 3,701 | First Draft | -- |
 |   ---   |       |       |        |       |
-| 2: The Sforno House — THIRD AND FINAL SEX SCENE | 0.0 | 0 | Not Started | -- |
+| 2: The Sforno House — THIRD AND FINAL SEX SCENE | 7.4 | 1,841 | First Draft | -- |
 
 ### Chapter 32: Final Suspense
 
