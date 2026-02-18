@@ -1,0 +1,65 @@
+The fire had burned down to its nightbed, the coals banked and hissing under a crust of ash, and Bardolino sat across from Viaro at the worktable and listened to the man explain how two roads led from this room and only one of them left the furnace standing.
+
+Viaro did not hurry. He laid it out the way a notary lays out the terms of a contract — clause by clause, each one following from the last with the inevitability of water finding its level. The rotational bias in the mounts. The systematic nature of the offsets. The calibrator's hand in every one.
+
+"Twenty-eight mounts," Viaro said. "Twenty-eight identical deviations. Not random. Not negligence. Deliberate."
+
+"I understand," Bardolino said.
+
+"I am certain that you do." Viaro sat with his back straight, his hands resting on the table, the gold ring on his right hand dull in the low light. The ambergris was fainter tonight — or perhaps Bardolino had simply grown accustomed to it, the way a man grows accustomed to smoke. "The question before us is not what happened. We are past that. The question is how the Council will be told, and by whom."
+
+Through the workshop wall, the furnace ticked and settled. A log shifted in the firebox, and the sound carried through the stone — a muffled crack, then a hiss, then silence. Bardolino knew the sound as well as he knew his own breathing. Forty years of nights spent listening to the furnace cool, reading its language of expansion and contraction, knowing by pitch alone whether the firebox seal was good or cracked. Tonight the seal was good. The furnace was healthy. The furnace was the one thing in his keeping that had not failed.
+
+"There are two accounts that can be given," Viaro said. "The first is that the calibration error originated with you. That you ordered the offsets, or that you introduced them through your own negligence in supervising the work. The furnace is yours. The commission is yours. The apprentice who ground the settings operates under your authority and your name."
+
+Bardolino's right hand lay flat on the table. His left was in his apron pocket, and the millefiori piece was there, and his fingers closed around it the way a drowning man's fingers close around a rope — not thinking, not choosing, simply gripping.
+
+"Under this account," Viaro continued, "the boy is cleared. An apprentice follows his master's instruction. The fault lies with the master who gave the order, or the master who failed to check the result. The Council's displeasure falls on you. The furnace would be closed. The Bardolino name struck from the guild register. Your person would be subject to the Council's judgment, and I will not speculate on the form that judgment would take, because I think you can imagine it without my help."
+
+He could imagine it. The Leads. The Wells. The quiet rooms beneath the Ducal Palace where men were taken and from which some of them did not return, or returned so changed that their families looked at them the way one looks at a garment that has been washed too many times — the shape familiar, the substance gone. He had heard the stories. Every man on Murano had heard the stories. They were told in the way that cautionary tales are told to children, except that these tales were told to grown men, and the children in them did not learn their lessons and go home. They disappeared.
+
+"The second account," Viaro said, "is simpler. You confirm what the evidence already demonstrates. The boy acted alone. He had sole access to the calibration settings. He introduced the offsets deliberately, without your knowledge, exploiting the trust you placed in him as his master and protector." Viaro paused. Not for emphasis — Bardolino had learned that Viaro's pauses were never theatrical. They were structural, the way a mason leaves mortar joints between stones. "Under this account, the furnace is cleared. Your name is cleared. The commission is completed with a new calibrator, and the Council's attention is directed where the evidence directs it. Toward the boy."
+
+The boy. Viaro said it without inflection, the way he said everything — levelly, precisely, the words arriving like coins counted onto a table. And Bardolino heard the word and heard inside it all the other words it contained: Enzo, Giacomo's son, the child he had watched grow into a craftsman whose hands were steadier and whose eye was truer than any pair of hands or eyes the Bardolino furnace had produced in three generations. The boy who slept across the water in Cannaregio with his mother and came to Murano every morning in the dark and ground lenses until his fingertips were ridged with callus and who had never once, in six years, produced a piece of work that Bardolino needed to correct.
+
+The boy who had done what Bardolino should have done.
+
+He knew this. He had known it since Viaro's first words in this room — since before, since the moment on the island when the weapon failed at range and Enzo's face showed nothing and Bardolino had turned away from the knowledge the way he turned from cracks in finished glass. The boy had seen the weapon for what it was, and the boy had broken it, and the boy had broken it with a precision that was itself a form of craft — each offset calculated, each deviation placed, the sabotage as beautiful and as careful as any piece of work Enzo had ever produced. And now Bardolino was being asked to say, plainly, whether the beauty of that work would save the boy or condemn him.
+
+No. He was being asked something simpler. He was being asked whether the furnace mattered more than the boy.
+
+The millefiori piece turned between his finger and thumb. The glass was warm from his hand. He had made it thirty years ago, in the months after his father's debts had nearly killed the business — made it on a Sunday afternoon when the furnace was cold and the workshop was empty and there was no commission to fill and no creditor to satisfy, made it for no reason except that his hands needed to make something that no one had asked for and no one would pay for and no one would ever use. A dozen tiny flowers set in clear crystal, each one drawn from a different cane, each one perfect. Red, white, blue, gold. The colors of nothing. The colors of themselves. It was the most useless object he had ever created, and it was the most honest, because it existed only to be beautiful, and beauty, unlike a furnace or a name or a seat on the guild council, required no justification and imposed no debt.
+
+The man who had made that piece would not have done what Bardolino was about to do.
+
+But the man who had made that piece was thirty years gone. In his place stood a master glassmaker with a failed furnace and a bad knee and two children and a debt to the Council of Ten that could not be settled with millefiori, and that man — this man, the one who sat at the table with Viaro's patient silence pressing against him like a hand on the back of his neck — that man knew what the furnace cost and what it was worth and what it would mean to lose it. Not only for himself. For Tomaso, who was twenty and competent and who deserved to inherit something other than his grandfather's ruin. For Caterina, who was sixteen and whose dowry lived in the furnace's reputation as surely as the fire lived in the firebox. For the serventi and the apprentices and the wood carriers and the old men who swept the floors — twelve families, perhaps fifteen, whose bread was baked in the heat of the Bardolino furnace and who would go hungry if that heat went out.
+
+He told himself this. He assembled the argument the way he assembled a batch — measured, weighed, each ingredient in its proportion, the formula precise and repeatable and capable of producing, from raw materials, the thing he needed. The furnace was not vanity. The furnace was livelihood. The furnace was legacy. The furnace was the work of three generations and the future of two more, and to sacrifice all of that for one boy — even this boy, even Giacomo's boy — was not wisdom but indulgence, the moral luxury of a man who could afford to lose everything because he had nothing left to protect.
+
+Giacomo could have afforded it. Giacomo had been brave and foolish and dead, and the furnace explosion that had killed him had proved what bravery cost when it collided with power. The Guild had called it a cracked crucible. An accident. Bardolino had attended the memorial and had known it was not an accident and had said nothing, because what was there to say? Giacomo was ash. The furnace was standing. And Bardolino had taken the dead man's son into his workshop and fed him and trained him and told himself that this was payment — that by raising Enzo he was settling the debt he owed to the father. That the scales were balanced. That the account was clear.
+
+The scales had never been balanced. The debt was not the kind that could be paid with apprenticeship and shelter and a place at the grinding wheel. The debt was this: Giacomo had died because he refused to build the weapon correctly, and Bardolino had survived because he lacked the courage to refuse, and every day that Enzo worked in the Bardolino furnace was a day that the dead man's son labored under the roof of the man who had not been brave enough to stand where his father had stood.
+
+Until now. Because Enzo had stood there. Enzo had looked at the weapon and had done what Giacomo had done and what Bardolino had failed to do, and the sabotage was not rebellion — it was inheritance. The son completing the work the father died for. And Bardolino was about to hand that son to the same men who had killed the father.
+
+He understood all of this. He saw it with the clarity that a furnace gives to glass at the moment of annealing — the temperature dropping, the structure locking, the material becoming what it will be forever. He saw himself. He saw the choice. He saw what it would make of him.
+
+"The boy acted alone," Bardolino said.
+
+His voice was steady. His hands were not. The millefiori piece pressed into the pad of his thumb, and he felt the tiny glass flowers imprinting themselves on his skin — those useless, beautiful, damning flowers that he had made in a time when he was still capable of making things for no reason other than that they deserved to exist.
+
+Viaro received the words without visible response. No satisfaction. No pity. His face remained as it had been throughout — composed, attentive, the face of a man who has asked a question to which he already knew the answer and who now records the answer not because it surprises him but because the record is required. He placed his hands flat on the table and rose.
+
+"I will convey your account to the Council," he said. "You will not be asked to testify. The evidence is sufficient without your testimony, but your confirmation clarifies the chain of responsibility."
+
+Bardolino said nothing.
+
+Viaro adjusted his glove. He moved toward the door with the precise, unhurried steps that Bardolino had come to know as well as the sound of his own furnace — the steps of a man who had never needed to run and never would. At the threshold he paused, and for a moment Bardolino thought he would say something else — some final word, some acknowledgment that what had just occurred in this room was not a legal proceeding but an execution carried out with paper instead of rope. But Viaro only inclined his head, a gesture so slight it might have been a trick of the lamplight, and then he was gone, and the door closed behind him, and Bardolino was alone.
+
+The furnace breathed through the wall. The low, steady pulse of banked coals — the sound that had been the first sound of his mornings and the last sound of his nights for forty years. He listened to it the way a man listens to his own heartbeat after a fall, checking, confirming, making sure the essential thing still functions.
+
+It still functioned. The furnace was saved. The name was saved. The fire would burn tomorrow and the day after and the day after that, and Tomaso would inherit a living business and Caterina would have her dowry and the serventi would eat, and none of them would know what the fire had cost, because the cost was not measured in ducats or in wood but in a boy who had trusted his master and whose master had repaid that trust by speaking five words to a man in a dark silk doublet.
+
+Bardolino opened his hand. The millefiori piece lay on his palm, catching the last of the lamplight. The glass flowers — red, white, blue, gold — were sharp and clear, each one frozen in its crystal matrix, each one exactly as he had placed it thirty years ago. Unchanged. Perfect. The work of a man who no longer existed.
+
+He closed his fist around it and walked to the furnace. The glory hole cast its orange light across the flagstones, and the heat pressed against his face, and he stood there the way he had always stood there — a big man with scarred hands and a bad knee and a name carved above a door — and the fire told him nothing, because there was nothing left for the fire to say.
