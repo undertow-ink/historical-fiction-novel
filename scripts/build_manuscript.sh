@@ -137,7 +137,7 @@ assemble_manuscript() {
 
     if [[ -f "$outline" ]]; then
         # Try to get title from YAML front matter
-        book_title=$(sed -n '/^---$/,/^---$/{ /^title:/{ s/^title:\s*//; s/^["'\'']\(.*\)["'\'']\s*$/\1/; p; } }' "$outline" | head -1)
+        book_title=$(awk '/^---$/{if(fm){exit}; fm=1; next} fm && /^title:/{sub(/^title: */, ""); gsub(/^["'"'"'"]|["'"'"'"] *$/, ""); print}' "$outline" | head -1)
         # Fall back to first H1 header
         if [[ -z "$book_title" ]]; then
             book_title=$(grep -m1 '^# ' "$outline" | sed 's/^# //' || true)
