@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-18 11:31
+Last updated: 2026-02-18 11:40
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 142,547 / 110,000 target (129.6%)
-- **Pages:** 570 / 440 estimated
-- **Reading time:** 9h 30m estimated
-- **Audiobook time:** 15h 50m estimated
+- **Words:** 146,080 / 110,000 target (132.8%)
+- **Pages:** 584 / 440 estimated
+- **Reading time:** 9h 44m estimated
+- **Audiobook time:** 16h 13m estimated
 - **Chapters:** 31 / 34 complete
-- **Scenes:** 75 / 77 complete
+- **Scenes:** 76 / 79 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -347,14 +347,14 @@ Last updated: 2026-02-18 11:31
 ## Part 5: AFTERMATH
 
 **Status:** Writing | **Grade:** --/100
-**Words:** 14,518 / 7,800 (186.1%)
+**Words:** 18,051 / 10,200 (177.0%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
 | Ch 31: Exile | 2/2 | 5,542 | First Draft | -- |
 | Ch 32: Final Suspense | 2/2 | 4,667 | First Draft | -- |
 | Ch 33: The Last Lesson — RS Climax | 2/2 | 4,309 | First Draft | -- |
-| Ch 34: The Grinding Wheel | 0/0 | 0 | Not Started | -- |
+| Ch 34: The Grinding Wheel | 1/2 | 3,533 | Writing | -- |
 
 ### Chapter 31: Exile
 
@@ -384,6 +384,9 @@ Last updated: 2026-02-18 11:31
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 10.5 | 2,623 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 3.6 | 910 | Writing | -- |
 
 ---
 
