@@ -1,16 +1,16 @@
 # Progress: The Feast of Ashes
 
-Last updated: 2026-02-18 10:53
+Last updated: 2026-02-18 11:05
 
 ## Overall
 
 - **Status:** Writing
-- **Words:** 123,734 / 110,000 target (112.5%)
-- **Pages:** 495 / 440 estimated
-- **Reading time:** 8h 14m estimated
-- **Audiobook time:** 13h 44m estimated
-- **Chapters:** 27 / 34 complete
-- **Scenes:** 67 / 71 complete
+- **Words:** 128,029 / 110,000 target (116.4%)
+- **Pages:** 512 / 440 estimated
+- **Reading time:** 8h 32m estimated
+- **Audiobook time:** 14h 13m estimated
+- **Chapters:** 28 / 34 complete
+- **Scenes:** 69 / 73 complete
 
 ## Part 1: ESTABLISHMENT
 
@@ -269,8 +269,8 @@ Last updated: 2026-02-18 10:53
 
 ## Part 4: REVELATION AND RECKONING
 
-**Status:** Writing | **Grade:** --/100
-**Words:** 28,899 / 17,600 (164.2%)
+**Status:** First Draft | **Grade:** --/100
+**Words:** 33,194 / 20,000 (166.0%)
 
 | Chapter | Scenes | Words | Status | Grade |
 |---------|--------|-------|--------|-------|
@@ -280,7 +280,7 @@ Last updated: 2026-02-18 10:53
 | Ch 27: The Unraveling | 3/3 | 5,139 | First Draft | -- |
 | Ch 28: The Exposure | 2/2 | 4,014 | First Draft | -- |
 | Ch 29: Bardolino's Choice — IC Climax | 2/2 | 5,887 | First Draft | -- |
-| Ch 30: The Self-Revelation — MC Climax | 0/0 | 0 | Not Started | -- |
+| Ch 30: The Self-Revelation — MC Climax | 2/2 | 4,295 | First Draft | -- |
 
 ### Chapter 24: The Plan
 
@@ -338,6 +338,9 @@ Last updated: 2026-02-18 10:53
 
 | Scene | Pages | Words | Status | Grade |
 |-------|-------|-------|--------|-------|
+| 1: Scene 1 | 9.3 | 2,314 | First Draft | -- |
+|   ---   |       |       |        |       |
+| 2: Scene 2 | 7.9 | 1,981 | First Draft | -- |
 
 ---
 
